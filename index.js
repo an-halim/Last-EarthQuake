@@ -39,6 +39,7 @@ Last Update
 <img src="${gambar}" width="400"></img>
 <br>
 <br>
+Lokasi: ${lokasi} <br>
 Magnitude: ${magnitude} <br>
 Kedalaman: ${kedalaman} <br>
 Koordinat: ${koordinat} <br>
