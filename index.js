@@ -26,6 +26,7 @@ function get_between(string, start, end) {
             if(err) throw err
             dataGempa = JSON.parse(data)
             if (dataGempa.waktu != waktu) {
+                console.log("Update require!");
                 fs.writeFile("./data/data.json", json, function(err){
                     if(err) throw err
                     let readMe = `
@@ -45,8 +46,11 @@ Waktu: ${waktu} <br>
 `
                     fs.writeFile("./README.md", readMe, function(err){
                         if(err) throw err
+                        console.log("Updated!");
                     })
                 })
+            } else{
+                console.log("No update require!");
             }
         })
         
