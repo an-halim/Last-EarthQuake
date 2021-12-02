@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20211201070545.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20211202102820.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 23 km Barat Daya Kab. Garut <br>
-Magnitude: 3.7 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 7.26 LS 107.69 BT <br>
-Waktu: 01/12/2021 07:05:45 WIB <br>
+Lokasi: Pusat gempa berada di laut 63 km barat daya Lebak <br>
+Magnitude: 3.8 <br>
+Kedalaman: 15 Km <br>
+Koordinat: 7.21 LS 106.1 BT <br>
+Waktu: 02/12/2021 10:28:20 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

@@ -1,8 +1,8 @@
 {
-  "gambar": "https://ews.bmkg.go.id/TEWS/data/20211201070545.mmi.jpg",
-  "magnitude": "3.7",
-  "kedalaman": "10 Km",
-  "koordinat": "7.26 LS 107.69 BT",
-  "lokasi": "Pusat gempa berada di darat 23 km Barat Daya Kab. Garut",
-  "waktu": "01/12/2021 07:05:45 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211202102820.mmi.jpg", 
+      "magnitude": "3.8", 
+      "kedalaman": "15 Km", 
+      "koordinat": "7.21 LS 106.1 BT", 
+      "lokasi": "Pusat gempa berada di laut 63 km barat daya Lebak", 
+      "waktu": "02/12/2021 10:28:20 WIB"
 }
