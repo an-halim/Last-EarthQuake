@@ -27,14 +27,13 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="${gambar}" width="400">
+<img src="${gambar}" width="400"/>
 <br>
 Lokasi: ${lokasi} <br>
 Magnitude: ${magnitude} <br>
 Kedalaman: ${kedalaman} <br>
 Koordinat: ${koordinat} <br>
 Waktu: ${waktu} <br>
-
 
 <a href="./data/data.json">**JSON Data**</a>
 `;
