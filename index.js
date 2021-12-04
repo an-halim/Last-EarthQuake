@@ -1,6 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
 const func = require("./func");
+const https = require("https");
 
 async function getUpdate() {
   let request = await axios.get("https://www.bmkg.go.id/gempabumi/gempabumi-dirasakan.bmkg");
@@ -18,8 +19,10 @@ async function getUpdate() {
 
 (async () => {
   try {
+    let counter = 0;
     var notif = setInterval(function () {
       console.log("Looking update....");
+      counter++;
     }, 200);
 
     let gempa = await getUpdate();
@@ -43,5 +46,6 @@ async function getUpdate() {
   } catch (error) {
     throw error;
   }
-  clearInterval(notif);
+  if (counter == 50) clearInterval(notif);
+  else clearInterval(notif);
 })();
