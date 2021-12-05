@@ -1,8 +1,8 @@
 {
-  "gambar": "https://ews.bmkg.go.id/TEWS/data/20211202102820.mmi.jpg",
-  "magnitude": "3.8",
-  "kedalaman": "15 Km",
-  "koordinat": "7.21 LS 106.1 BT",
-  "lokasi": "Pusat gempa berada di laut 63 km barat daya Lebak",
-  "waktu": "02/12/2021 10:28:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211205121949.mmi.jpg", 
+      "magnitude": "4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.46 LS 129.47 BT", 
+      "lokasi": "Pusat gempa berada di laut 9 km Selatan Tehoru-Maluku Tengah", 
+      "waktu": "05/12/2021 12:19:49 WIB"
 }
