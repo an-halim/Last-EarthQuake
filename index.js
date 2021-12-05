@@ -18,8 +18,8 @@ async function getUpdate() {
 }
 
 (async () => {
+  let counter = 0;
   try {
-    let counter = 0;
     var notif = setInterval(function () {
       console.log("Looking update....");
       counter++;

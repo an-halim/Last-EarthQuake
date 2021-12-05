@@ -12,3 +12,5 @@ Magnitude: 3.8 <br>
 Kedalaman: 15 Km <br>
 Koordinat: 7.21 LS 106.1 BT <br>
 Waktu: 02/12/2021 10:28:20 WIB <br>
+
+<a href="./data/data.json">**JSON Data**</a>
