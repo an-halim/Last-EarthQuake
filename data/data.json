@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211206093955.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "8.72 LS 118.36 BT", 
-      "lokasi": "Pusat gempa berada di Laut 23 Km Barat Daya Dompu", 
-      "waktu": "06/12/2021 09:39:55 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211206212411.mmi.jpg", 
+      "magnitude": "4.5", 
+      "kedalaman": "15 Km", 
+      "koordinat": "7.74 LS 119.03 BT", 
+      "lokasi": "Pusat gempa berada di laut 85 km TimurLaut Bima", 
+      "waktu": "06/12/2021 21:24:11 WIB"
 }
