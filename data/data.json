@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211207181823.mmi.jpg", 
-      "magnitude": "2.8", 
-      "kedalaman": "16 Km", 
-      "koordinat": "7.24 LS 107.64 BT", 
-      "lokasi": "Pusat gempa berada di darat 11 km Tenggara Bandung", 
-      "waktu": "07/12/2021 18:18:23 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211208051833.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "7 Km", 
+      "koordinat": "6.71 LS 107.35 BT", 
+      "lokasi": "Pusat gempa berada di darat 18 km Barat Daya Purwakarta", 
+      "waktu": "08/12/2021 05:18:33 WIB"
 }
