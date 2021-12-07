@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20211206212411.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20211207181823.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 85 km TimurLaut Bima <br>
-Magnitude: 4.5 <br>
-Kedalaman: 15 Km <br>
-Koordinat: 7.74 LS 119.03 BT <br>
-Waktu: 06/12/2021 21:24:11 WIB <br>
+Lokasi: Pusat gempa berada di darat 11 km Tenggara Bandung <br>
+Magnitude: 2.8 <br>
+Kedalaman: 16 Km <br>
+Koordinat: 7.24 LS 107.64 BT <br>
+Waktu: 07/12/2021 18:18:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
