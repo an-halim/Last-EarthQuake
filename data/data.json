@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211208051833.mmi.jpg", 
-      "magnitude": "3.4", 
-      "kedalaman": "7 Km", 
-      "koordinat": "6.71 LS 107.35 BT", 
-      "lokasi": "Pusat gempa berada di darat 18 km Barat Daya Purwakarta", 
-      "waktu": "08/12/2021 05:18:33 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211211013920.mmi.jpg", 
+      "magnitude": "5.1", 
+      "kedalaman": "141 Km", 
+      "koordinat": "0.1 LS 122.96 BT", 
+      "lokasi": "Pusat gempa berada di laut 72 km barat daya Gorontalo", 
+      "waktu": "11/12/2021 01:39:20 WIB"
 }
