@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211211013920.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "141 Km", 
-      "koordinat": "0.1 LS 122.96 BT", 
-      "lokasi": "Pusat gempa berada di laut 72 km barat daya Gorontalo", 
-      "waktu": "11/12/2021 01:39:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211212070301.mmi.jpg", 
+      "magnitude": "2.9", 
+      "kedalaman": "4 Km", 
+      "koordinat": "2.94 LS 118.82 BT", 
+      "lokasi": "Pusat gempa berada di laut 13 km TimurLaut Majene", 
+      "waktu": "12/12/2021 07:03:01 WIB"
 }
