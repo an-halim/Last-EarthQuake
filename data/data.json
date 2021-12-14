@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211213124656.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "9.81 LS 113.67 BT", 
-      "lokasi": "Pusat gempa berada di laut 179 km Tenggara Jember", 
-      "waktu": "13/12/2021 12:46:56 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211214102022.mmi.jpg", 
+      "magnitude": "7.5", 
+      "kedalaman": "12 Km", 
+      "koordinat": "7.59 LS 122.26 BT", 
+      "lokasi": "Pusat gempa berada di laut 112 km BaratLaut Larantuka", 
+      "waktu": "14/12/2021 10:20:22 WIB"
 }

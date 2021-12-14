@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20211213124656.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20211214102022.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 179 km Tenggara Jember <br>
-Magnitude: 5.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 9.81 LS 113.67 BT <br>
-Waktu: 13/12/2021 12:46:56 WIB <br>
+Lokasi: Pusat gempa berada di laut 112 km BaratLaut Larantuka <br>
+Magnitude: 7.5 <br>
+Kedalaman: 12 Km <br>
+Koordinat: 7.59 LS 122.26 BT <br>
+Waktu: 14/12/2021 10:20:22 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
