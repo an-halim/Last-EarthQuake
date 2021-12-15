@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20211215231241.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20211216060133.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 13 Barat Laut Pulau Sarang <br>
-Magnitude: 4.6 <br>
+Lokasi: Pusat gempa berada di laut 42 km baratdaya Jember <br>
+Magnitude: 5.1 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 8.31 LS 116.94 BT <br>
-Waktu: 15/12/2021 23:12:41 WIB <br>
+Koordinat: 8.55 LS 113.49 BT <br>
+Waktu: 16/12/2021 06:01:33 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
