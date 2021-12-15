@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211215115311.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.88 LS 121.63 BT", 
-      "lokasi": "Pusat gempa berada di laut 95 km Timur Laut Mbay-Nagekeo", 
-      "waktu": "15/12/2021 11:53:11 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211215172747.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "24 Km", 
+      "koordinat": "9.71 LS 119.44 BT", 
+      "lokasi": "Pusat gempa berada di darat 8 km Tenggara Waikabubak", 
+      "waktu": "15/12/2021 17:27:47 WIB"
 }
