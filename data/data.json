@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211216180331.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "385 Km", 
-      "koordinat": "6.21 LS 128 BT", 
-      "lokasi": "Pusat gempa berada di laut 210 km Timurlaut Maluku Baratdaya", 
-      "waktu": "16/12/2021 18:03:31 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211216214020.mmi.jpg", 
+      "magnitude": "4.3", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.72 LS 135.66 BT", 
+      "lokasi": "Pusat gempa berada di darat 3 km timur laut Supiori", 
+      "waktu": "16/12/2021 21:40:20 WIB"
 }
