@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211218233050.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "17 Km", 
-      "koordinat": "3.92 LS 133.56 BT", 
-      "lokasi": "Pusat gempa berada di laut 36 km Barat Daya Kaimana", 
-      "waktu": "18/12/2021 23:30:50 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211219012601.mmi.jpg", 
+      "magnitude": "5.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.63 LS 131.49 BT", 
+      "lokasi": "Pusat gempa berada di laut 35 km Timur Laut Kota Sorong", 
+      "waktu": "19/12/2021 01:26:01 WIB"
 }

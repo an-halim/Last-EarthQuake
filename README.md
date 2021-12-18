@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20211218233050.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20211219012601.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 36 km Barat Daya Kaimana <br>
-Magnitude: 4.6 <br>
-Kedalaman: 17 Km <br>
-Koordinat: 3.92 LS 133.56 BT <br>
-Waktu: 18/12/2021 23:30:50 WIB <br>
+Lokasi: Pusat gempa berada di laut 35 km Timur Laut Kota Sorong <br>
+Magnitude: 5.5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.63 LS 131.49 BT <br>
+Waktu: 19/12/2021 01:26:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
