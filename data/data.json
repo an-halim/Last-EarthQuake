@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211218065653.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "14 Km", 
-      "koordinat": "8.29 LS 115.62 BT", 
-      "lokasi": "Pusat gempa berada di laut 12 km TimurLaut Karangasem", 
-      "waktu": "18/12/2021 06:56:53 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211218081231.mmi.jpg", 
+      "magnitude": "2.8", 
+      "kedalaman": "5 Km", 
+      "koordinat": "4.03 LS 122.59 BT", 
+      "lokasi": "Pusat gempa berada di darat 4km Barataya Abeli-Kendari", 
+      "waktu": "18/12/2021 08:12:31 WIB"
 }
