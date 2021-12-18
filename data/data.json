@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211217213836.mmi.jpg", 
-      "magnitude": "4.3", 
-      "kedalaman": "1 Km", 
-      "koordinat": "1.06 LU 97.82 BT", 
-      "lokasi": "Pusat gempa berada di darat 15 km Tenggara Nias", 
-      "waktu": "17/12/2021 21:38:36 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211218065653.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "14 Km", 
+      "koordinat": "8.29 LS 115.62 BT", 
+      "lokasi": "Pusat gempa berada di laut 12 km TimurLaut Karangasem", 
+      "waktu": "18/12/2021 06:56:53 WIB"
 }
