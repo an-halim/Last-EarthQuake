@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211219032732.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "11 Km", 
-      "koordinat": "8.03 LS 122.42 BT", 
-      "lokasi": "Pusat gempa berada di laut 68 km Barat Laut Larantuka", 
-      "waktu": "19/12/2021 03:27:32 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211219063658.mmi.jpg", 
+      "magnitude": "4.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.69 LS 131.49 BT", 
+      "lokasi": "Pusat gempa berada di laut 30 km Timur Laut Kota Sorong", 
+      "waktu": "19/12/2021 06:36:58 WIB"
 }
