@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211219224954.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "8.17 LS 116.48 BT", 
-      "lokasi": "Pusat gempa berada di laut 41 km timur laut Lombok Utara", 
-      "waktu": "19/12/2021 22:49:54 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211220050718.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "4 Km", 
+      "koordinat": "7.37 LS 121.86 BT", 
+      "lokasi": "Pusat gempa berada di 144 km baratlaut Maumere", 
+      "waktu": "20/12/2021 05:07:18 WIB"
 }
