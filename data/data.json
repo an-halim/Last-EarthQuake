@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211220050718.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "4 Km", 
-      "koordinat": "7.37 LS 121.86 BT", 
-      "lokasi": "Pusat gempa berada di 144 km baratlaut Maumere", 
-      "waktu": "20/12/2021 05:07:18 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211220074130.mmi.jpg", 
+      "magnitude": "3", 
+      "kedalaman": "5 Km", 
+      "koordinat": "6.99 LS 107.16 BT", 
+      "lokasi": "Pusat gempa berada di darat 18 km Tenggara Kab. Cianjur", 
+      "waktu": "20/12/2021 07:41:30 WIB"
 }
