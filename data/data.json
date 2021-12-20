@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211220074130.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "5 Km", 
-      "koordinat": "6.99 LS 107.16 BT", 
-      "lokasi": "Pusat gempa berada di darat 18 km Tenggara Kab. Cianjur", 
-      "waktu": "20/12/2021 07:41:30 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211220111748.mmi.jpg", 
+      "magnitude": "3.9", 
+      "kedalaman": "27 Km", 
+      "koordinat": "7.79 LS 120.34 BT", 
+      "lokasi": "Pusat gempa berada di laut 92 km barat laut Ruteng", 
+      "waktu": "20/12/2021 11:17:48 WIB"
 }
