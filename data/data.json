@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211220111748.mmi.jpg", 
-      "magnitude": "3.9", 
-      "kedalaman": "27 Km", 
-      "koordinat": "7.79 LS 120.34 BT", 
-      "lokasi": "Pusat gempa berada di laut 92 km barat laut Ruteng", 
-      "waktu": "20/12/2021 11:17:48 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211220214150.mmi.jpg", 
+      "magnitude": "2.6", 
+      "kedalaman": "5 Km", 
+      "koordinat": "2.58 LU 98.86 BT", 
+      "lokasi": "Pusat gempa berada di darat 18 km tenggara Samosir", 
+      "waktu": "20/12/2021 21:41:50 WIB"
 }
