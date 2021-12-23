@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211223133359.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "15 Km", 
-      "koordinat": "7.02 LS 105.49 BT", 
-      "lokasi": "Pusat gempa berada di laut 41 km barat daya Sumur", 
-      "waktu": "23/12/2021 13:33:59 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211223144418.mmi.jpg", 
+      "magnitude": "4.1", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.24 LS 116.47 BT", 
+      "lokasi": "Pusat gempa berada di darat 36 km TimurLaut Lombok Utara", 
+      "waktu": "23/12/2021 14:44:18 WIB"
 }
