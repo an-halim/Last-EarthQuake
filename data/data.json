@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211222213509.mmi.jpg", 
-      "magnitude": "4", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211223111318.mmi.jpg", 
+      "magnitude": "4.5", 
       "kedalaman": "4 Km", 
-      "koordinat": "0.66 LS 131.55 BT", 
-      "lokasi": "Pusat gempa berada di laut 38 km Timur Laut Kota Sorong", 
-      "waktu": "22/12/2021 21:35:09 WIB"
+      "koordinat": "0.66 LS 131.58 BT", 
+      "lokasi": "Pusat gempa berada di Laut 40 km TimurLaut Kota Sorong", 
+      "waktu": "23/12/2021 11:13:18 WIB"
 }
