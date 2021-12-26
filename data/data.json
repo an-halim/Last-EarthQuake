@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211226210913.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "22 Km", 
-      "koordinat": "4.57 LS 102.09 BT", 
-      "lokasi": "Pusat gempa berada di laut 77 km barat daya Seluma", 
-      "waktu": "26/12/2021 21:09:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211226220131.mmi.jpg", 
+      "magnitude": "5.5", 
+      "kedalaman": "90 Km", 
+      "koordinat": "0.06 LS 123.49 BT", 
+      "lokasi": "Pusat gempa berada di laut 73 Bolaang Mongondow Selatan", 
+      "waktu": "26/12/2021 22:01:31 WIB"
 }
