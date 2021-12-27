@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20211226220131.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20211227153219.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 73 Bolaang Mongondow Selatan <br>
-Magnitude: 5.5 <br>
-Kedalaman: 90 Km <br>
-Koordinat: 0.06 LS 123.49 BT <br>
-Waktu: 26/12/2021 22:01:31 WIB <br>
+Lokasi: Pusat gempa berada di laut 146 km Barat Daya Tanggamus <br>
+Magnitude: 5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 6.72 LS 104.24 BT <br>
+Waktu: 27/12/2021 15:32:19 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

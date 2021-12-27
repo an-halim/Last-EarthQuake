@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211226220131.mmi.jpg", 
-      "magnitude": "5.5", 
-      "kedalaman": "90 Km", 
-      "koordinat": "0.06 LS 123.49 BT", 
-      "lokasi": "Pusat gempa berada di laut 73 Bolaang Mongondow Selatan", 
-      "waktu": "26/12/2021 22:01:31 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211227153219.mmi.jpg", 
+      "magnitude": "5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "6.72 LS 104.24 BT", 
+      "lokasi": "Pusat gempa berada di laut 146 km Barat Daya Tanggamus", 
+      "waktu": "27/12/2021 15:32:19 WIB"
 }
