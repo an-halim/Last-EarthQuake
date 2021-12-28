@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211227153219.mmi.jpg", 
-      "magnitude": "5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "6.72 LS 104.24 BT", 
-      "lokasi": "Pusat gempa berada di laut 146 km Barat Daya Tanggamus", 
-      "waktu": "27/12/2021 15:32:19 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211228225018.mmi.jpg", 
+      "magnitude": "3.9", 
+      "kedalaman": "14 Km", 
+      "koordinat": "3.21 LS 135.21 BT", 
+      "lokasi": "Pusat gempa berada di laut 69 km BaratLaut Nabire", 
+      "waktu": "28/12/2021 22:50:18 WIB"
 }
