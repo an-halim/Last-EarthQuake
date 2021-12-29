@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211230012552.mmi.jpg", 
-      "magnitude": "7.4", 
-      "kedalaman": "210 Km", 
-      "koordinat": "7.76 LS 127.66 BT", 
-      "lokasi": "Pusat gempa berada di Laut 45 km BaratLaut Maluku Barat Daya", 
-      "waktu": "30/12/2021 01:25:52 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211230033253.mmi.jpg", 
+      "magnitude": "5.1", 
+      "kedalaman": "170 Km", 
+      "koordinat": "7.82 LS 127.78 BT", 
+      "lokasi": "Pusat gempa berada di laut 36 km BaratLaut Maluku Barat Daya", 
+      "waktu": "30/12/2021 03:32:53 WIB"
 }
