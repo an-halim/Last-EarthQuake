@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20211230230213.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20211231020512.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 25 km barat laut Tarakan <br>
-Magnitude: 3.5 <br>
+Lokasi: Pusat gempa berada di laut 16 km utara Nusalaut-Maluku Tengah <br>
+Magnitude: 3.4 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 3.54 LU 117.53 BT <br>
-Waktu: 30/12/2021 23:02:13 WIB <br>
+Koordinat: 3.53 LS 128.79 BT <br>
+Waktu: 31/12/2021 02:05:12 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
