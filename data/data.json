@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211230050536.mmi.jpg", 
-      "magnitude": "4.1", 
-      "kedalaman": "21 Km", 
-      "koordinat": "7.78 LS 106.9 BT", 
-      "lokasi": "Pusat gempa berada di laut 95 km BaratDaya Kota Sukabumi", 
-      "waktu": "30/12/2021 05:05:36 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211230201316.mmi.jpg", 
+      "magnitude": "5.6", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.16 LS 125.31 BT", 
+      "lokasi": "Pusat gempa berada di laut 128 km tenggara Boltim", 
+      "waktu": "30/12/2021 20:13:16 WIB"
 }
