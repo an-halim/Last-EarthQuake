@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211231020512.mmi.jpg", 
-      "magnitude": "3.4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.53 LS 128.79 BT", 
-      "lokasi": "Pusat gempa berada di laut 16 km utara Nusalaut-Maluku Tengah", 
-      "waktu": "31/12/2021 02:05:12 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211231085457.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "5 Km", 
+      "koordinat": "3.82 LS 103.73 BT", 
+      "lokasi": "Pusat gempa berada di darat 20 km baratdaya Muara Enim", 
+      "waktu": "31/12/2021 08:54:57 WIB"
 }
