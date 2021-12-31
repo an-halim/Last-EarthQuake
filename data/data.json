@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211231085457.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "5 Km", 
-      "koordinat": "3.82 LS 103.73 BT", 
-      "lokasi": "Pusat gempa berada di darat 20 km baratdaya Muara Enim", 
-      "waktu": "31/12/2021 08:54:57 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20211231125341.mmi.jpg", 
+      "magnitude": "5", 
+      "kedalaman": "87 Km", 
+      "koordinat": "0.05 LU 120.36 BT", 
+      "lokasi": "Pusat gempa berada di laut 76 km Barat Daya Parigi Moutong", 
+      "waktu": "31/12/2021 12:53:41 WIB"
 }
