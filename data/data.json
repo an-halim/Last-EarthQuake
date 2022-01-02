@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220102094122.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "9 Km", 
-      "koordinat": "8.59 LS 116.72 BT", 
-      "lokasi": "Pusat gempa berada di laut 22 km timur laut Lombok Timur", 
-      "waktu": "02/01/2022 09:41:22 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220102204527.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "100 Km", 
+      "koordinat": "8.82 LS 118.33 BT", 
+      "lokasi": "Pusat gempa berada di laut 35 km barat daya Dompu", 
+      "waktu": "02/01/2022 20:45:27 WIB"
 }
