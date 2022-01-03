@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220102204527.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220103225742.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 35 km barat daya Dompu <br>
-Magnitude: 4.2 <br>
-Kedalaman: 100 Km <br>
-Koordinat: 8.82 LS 118.33 BT <br>
-Waktu: 02/01/2022 20:45:27 WIB <br>
+Lokasi: Pusat gempa berada di laut 28 km timur laut Kota Sorong <br>
+Magnitude: 3.8 <br>
+Kedalaman: 2 Km <br>
+Koordinat: 0.71 LS 131.48 BT <br>
+Waktu: 03/01/2022 22:57:42 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
