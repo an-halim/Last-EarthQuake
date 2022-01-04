@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220103225742.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220105035546.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 28 km timur laut Kota Sorong <br>
-Magnitude: 3.8 <br>
-Kedalaman: 2 Km <br>
-Koordinat: 0.71 LS 131.48 BT <br>
-Waktu: 03/01/2022 22:57:42 WIB <br>
+Lokasi: Pusat gempa berada di Laut 182km TimurLaut Wakatobi <br>
+Magnitude: 5.8 <br>
+Kedalaman: 569 Km <br>
+Koordinat: 4.91 LS 125.18 BT <br>
+Waktu: 05/01/2022 03:55:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

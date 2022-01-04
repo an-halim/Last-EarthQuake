@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220103225742.mmi.jpg", 
-      "magnitude": "3.8", 
-      "kedalaman": "2 Km", 
-      "koordinat": "0.71 LS 131.48 BT", 
-      "lokasi": "Pusat gempa berada di laut 28 km timur laut Kota Sorong", 
-      "waktu": "03/01/2022 22:57:42 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220105035546.mmi.jpg", 
+      "magnitude": "5.8", 
+      "kedalaman": "569 Km", 
+      "koordinat": "4.91 LS 125.18 BT", 
+      "lokasi": "Pusat gempa berada di Laut 182km TimurLaut Wakatobi", 
+      "waktu": "05/01/2022 03:55:46 WIB"
 }
