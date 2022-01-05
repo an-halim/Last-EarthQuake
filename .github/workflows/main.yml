@@ -35,5 +35,33 @@ jobs:
           git config user.email "halimbla2@gmail.com"
           git add -A
           time=$(date '+%F %H:%M:%S %Z')
-          git commit -m "Update At ${time}" || exit 0
+          git commit -m "Updated At ${time}" || exit 0
+          git push
+      
+      - name: Modify last update
+        run: |-
+          time=$(date '+%F %H:%M:%S %Z')
+          echo $time > Last_Checked
+          
+      - name: Commit changes
+        run: |-
+          time=$(date '+%F %H:%M:%S %Z')
+          git config --local user.email "halimbla2@gmail.com"
+          git config --local user.name "an-halim"
+          git add -A
+          
+          arr[0]="bot: 😂 "
+          arr[1]="bot: 😱 "
+          arr[2]="bot: 👿 "
+          arr[3]="bot: 💩 "
+          arr[4]="bot: 🙏 "
+          arr[5]="bot: 🙈 "
+          arr[6]="bot: 🐐 "
+          arr[7]="bot: 🤖 "
+          arr[8]="bot: 🟩 "
+          arr[9]="bot: 👻 "
+          
+          rand=$[$RANDOM % ${#arr[@]}]
+          
+          git commit -m "${arr[$rand]} last checked at ${time}" || exit 0
           git push
