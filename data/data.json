@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220105101110.mmi.jpg", 
-      "magnitude": "3.5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220106123610.mmi.jpg", 
+      "magnitude": "1.5", 
       "kedalaman": "10 Km", 
-      "koordinat": "1.34 LS 120.48 BT", 
-      "lokasi": "Pusat gempa berada di darat 20 km barat daya Tambarana-Kab. Poso", 
-      "waktu": "05/01/2022 10:11:10 WIB"
+      "koordinat": "7.18 LS 109.8 BT", 
+      "lokasi": "Pusat gempa berada di darat 23 km BaratLaut Wonosobo", 
+      "waktu": "06/01/2022 12:36:10 WIB"
 }
