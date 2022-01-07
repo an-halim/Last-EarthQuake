@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220106123610.mmi.jpg", 
-      "magnitude": "1.5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220107045926.mmi.jpg", 
+      "magnitude": "4.9", 
       "kedalaman": "10 Km", 
-      "koordinat": "7.18 LS 109.8 BT", 
-      "lokasi": "Pusat gempa berada di darat 23 km BaratLaut Wonosobo", 
-      "waktu": "06/01/2022 12:36:10 WIB"
+      "koordinat": "9.4 LS 113.3 BT", 
+      "lokasi": "Pusat gempa berada di laut 139 km BaratDaya Jember", 
+      "waktu": "07/01/2022 04:59:26 WIB"
 }
