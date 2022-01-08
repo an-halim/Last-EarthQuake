@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220108165342.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "10 Km", 
-      "koordinat": "1.54 LU 127.83 BT", 
-      "lokasi": "Pusat gempa berada di darat 8 km Barat laut Halmahera Utara", 
-      "waktu": "08/01/2022 16:53:42 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220109000710.mmi.jpg", 
+      "magnitude": "4.5", 
+      "kedalaman": "3 Km", 
+      "koordinat": "1.44 LU 127.91 BT", 
+      "lokasi": "Pusat gempa berada di darat 33 km Barat Daya Tobelo", 
+      "waktu": "09/01/2022 00:07:10 WIB"
 }
