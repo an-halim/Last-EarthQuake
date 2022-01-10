@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220110172813.mmi.jpg", 
-      "magnitude": "4.9", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220110181307.mmi.jpg", 
+      "magnitude": "2.3", 
       "kedalaman": "10 Km", 
-      "koordinat": "9.13 LS 112.73 BT", 
-      "lokasi": "Pusat gempa berada di laut 111 Km Tenggara Kabupaten Malang", 
-      "waktu": "10/01/2022 17:28:13 WIB"
+      "koordinat": "0.96 LS 119.89 BT", 
+      "lokasi": "Pusat gempa berada di darat 7 km selatan Palu", 
+      "waktu": "10/01/2022 18:13:07 WIB"
 }
