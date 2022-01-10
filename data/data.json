@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220110045907.mmi.jpg", 
-      "magnitude": "5.5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220110172813.mmi.jpg", 
+      "magnitude": "4.9", 
       "kedalaman": "10 Km", 
-      "koordinat": "1.49 LU 127.85 BT", 
-      "lokasi": "Pusat gempa berada di darat 5 km barat daya Halmahera Utara", 
-      "waktu": "10/01/2022 04:59:07 WIB"
+      "koordinat": "9.13 LS 112.73 BT", 
+      "lokasi": "Pusat gempa berada di laut 111 Km Tenggara Kabupaten Malang", 
+      "waktu": "10/01/2022 17:28:13 WIB"
 }
