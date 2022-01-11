@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220110181307.mmi.jpg", 
-      "magnitude": "2.3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "0.96 LS 119.89 BT", 
-      "lokasi": "Pusat gempa berada di darat 7 km selatan Palu", 
-      "waktu": "10/01/2022 18:13:07 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220111043556.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "5 Km", 
+      "koordinat": "2.48 LS 121.19 BT", 
+      "lokasi": "Pusat gempa berada di darat 11 km timur laut Luwu Timur", 
+      "waktu": "11/01/2022 04:35:56 WIB"
 }
