@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220111135810.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220112050236.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 78 km Barat Laut Jailolo <br>
-Magnitude: 4.8 <br>
-Kedalaman: 97 Km <br>
-Koordinat: 1.36 LU 126.83 BT <br>
-Waktu: 11/01/2022 13:58:10 WIB <br>
+Lokasi: Pusat gempa berada di laut 63 km Timur Laut Maumere <br>
+Magnitude: 4.3 <br>
+Kedalaman: 13 Km <br>
+Koordinat: 8.08 LS 122.4 BT <br>
+Waktu: 12/01/2022 05:02:36 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

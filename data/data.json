@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220111135810.mmi.jpg", 
-      "magnitude": "4.8", 
-      "kedalaman": "97 Km", 
-      "koordinat": "1.36 LU 126.83 BT", 
-      "lokasi": "Pusat gempa berada di Laut 78 km Barat Laut Jailolo", 
-      "waktu": "11/01/2022 13:58:10 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220112050236.mmi.jpg", 
+      "magnitude": "4.3", 
+      "kedalaman": "13 Km", 
+      "koordinat": "8.08 LS 122.4 BT", 
+      "lokasi": "Pusat gempa berada di laut 63 km Timur Laut Maumere", 
+      "waktu": "12/01/2022 05:02:36 WIB"
 }
