@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220111043556.mmi.jpg", 
-      "magnitude": "3.4", 
-      "kedalaman": "5 Km", 
-      "koordinat": "2.48 LS 121.19 BT", 
-      "lokasi": "Pusat gempa berada di darat 11 km timur laut Luwu Timur", 
-      "waktu": "11/01/2022 04:35:56 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220111135810.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "97 Km", 
+      "koordinat": "1.36 LU 126.83 BT", 
+      "lokasi": "Pusat gempa berada di Laut 78 km Barat Laut Jailolo", 
+      "waktu": "11/01/2022 13:58:10 WIB"
 }
