@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220112100613.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.45 LS 128.84 BT", 
-      "lokasi": "Pusat gempa berada di laut 16 km Barat Daya Masohi", 
-      "waktu": "12/01/2022 10:06:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220112181031.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "31 Km", 
+      "koordinat": "7.67 LS 106.97 BT", 
+      "lokasi": "Pusat gempa berada di laut 82 km tenggara Kota Sukabumi", 
+      "waktu": "12/01/2022 18:10:31 WIB"
 }
