@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220112181031.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "31 Km", 
-      "koordinat": "7.67 LS 106.97 BT", 
-      "lokasi": "Pusat gempa berada di laut 82 km tenggara Kota Sukabumi", 
-      "waktu": "12/01/2022 18:10:31 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220112205757.mmi.jpg", 
+      "magnitude": "3.1", 
+      "kedalaman": "3 Km", 
+      "koordinat": "1.51 LU 127.85 BT", 
+      "lokasi": "Pusat gempa berada di darat 29 km Barat Daya Tobelo", 
+      "waktu": "12/01/2022 20:57:57 WIB"
 }
