@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220114001528.mmi.jpg", 
-      "magnitude": "2.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.35 LS 128.82 BT", 
-      "lokasi": "Pusat gempa berada di laut 10 km tenggara Elpaputih, Maluku tengah", 
-      "waktu": "14/01/2022 00:15:28 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220114040645.mmi.jpg", 
+      "magnitude": "2.2", 
+      "kedalaman": "17 Km", 
+      "koordinat": "7.28 LS 110.36 BT", 
+      "lokasi": "Pusat gempa berada di darat 16 km barat laut Kota Salatiga", 
+      "waktu": "14/01/2022 04:06:45 WIB"
 }

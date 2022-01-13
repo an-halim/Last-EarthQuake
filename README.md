@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220114001528.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220114040645.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 10 km tenggara Elpaputih, Maluku tengah <br>
-Magnitude: 2.9 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.35 LS 128.82 BT <br>
-Waktu: 14/01/2022 00:15:28 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km barat laut Kota Salatiga <br>
+Magnitude: 2.2 <br>
+Kedalaman: 17 Km <br>
+Koordinat: 7.28 LS 110.36 BT <br>
+Waktu: 14/01/2022 04:06:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
