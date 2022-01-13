@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220112205757.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "3 Km", 
-      "koordinat": "1.51 LU 127.85 BT", 
-      "lokasi": "Pusat gempa berada di darat 29 km Barat Daya Tobelo", 
-      "waktu": "12/01/2022 20:57:57 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220113142324.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "1.45 LS 127.3 BT", 
+      "lokasi": "Pusat gempa berada di laut 40 km barat Obi", 
+      "waktu": "13/01/2022 14:23:24 WIB"
 }
