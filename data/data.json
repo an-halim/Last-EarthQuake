@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220113142324.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "1.45 LS 127.3 BT", 
-      "lokasi": "Pusat gempa berada di laut 40 km barat Obi", 
-      "waktu": "13/01/2022 14:23:24 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220113170121.mmi.jpg", 
+      "magnitude": "4.7", 
+      "kedalaman": "29 Km", 
+      "koordinat": "1.59 LU 123.07 BT", 
+      "lokasi": "Pusat gempa berada di laut 99 km TimurLaut Sumalata", 
+      "waktu": "13/01/2022 17:01:21 WIB"
 }
