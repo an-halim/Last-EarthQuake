@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220113170121.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "29 Km", 
-      "koordinat": "1.59 LU 123.07 BT", 
-      "lokasi": "Pusat gempa berada di laut 99 km TimurLaut Sumalata", 
-      "waktu": "13/01/2022 17:01:21 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220113194021.mmi.jpg", 
+      "magnitude": "4.5", 
+      "kedalaman": "3 Km", 
+      "koordinat": "1.47 LU 127.94 BT", 
+      "lokasi": "Pusat gempa berada di darat 29 km barat daya Tobelo", 
+      "waktu": "13/01/2022 19:40:21 WIB"
 }
