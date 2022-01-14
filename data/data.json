@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220114040645.mmi.jpg", 
-      "magnitude": "2.2", 
-      "kedalaman": "17 Km", 
-      "koordinat": "7.28 LS 110.36 BT", 
-      "lokasi": "Pusat gempa berada di darat 16 km barat laut Kota Salatiga", 
-      "waktu": "14/01/2022 04:06:45 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220114160541.mmi.jpg", 
+      "magnitude": "6.7", 
+      "kedalaman": "10 Km", 
+      "koordinat": "7.01 LS 105.26 BT", 
+      "lokasi": "Pusat gempa berada di laut 52 km BaratDaya Sumur", 
+      "waktu": "14/01/2022 16:05:41 WIB"
 }
