@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220114160541.mmi.jpg", 
-      "magnitude": "6.7", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220114164921.mmi.jpg", 
+      "magnitude": "5.7", 
       "kedalaman": "10 Km", 
-      "koordinat": "7.01 LS 105.26 BT", 
-      "lokasi": "Pusat gempa berada di laut 52 km BaratDaya Sumur", 
-      "waktu": "14/01/2022 16:05:41 WIB"
+      "koordinat": "7.03 LS 105.25 BT", 
+      "lokasi": "Pusat gempa berada di laut 54 km BaratDaya Sumur", 
+      "waktu": "14/01/2022 16:49:21 WIB"
 }
