@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220115092938.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "21 Km", 
-      "koordinat": "6.96 LS 105.26 BT", 
-      "lokasi": "Pusat gempa berada di laut 48 Km Barat Daya Sumur", 
-      "waktu": "15/01/2022 09:29:38 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220115151809.mmi.jpg", 
+      "magnitude": "4.1", 
+      "kedalaman": "14 Km", 
+      "koordinat": "7.25 LS 112.92 BT", 
+      "lokasi": "Pusat gempa berada di laut 23 km tenggara Bangkalan", 
+      "waktu": "15/01/2022 15:18:09 WIB"
 }
