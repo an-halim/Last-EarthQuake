@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220117072556.mmi.jpg", 
-      "magnitude": "5.4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.6 LS 105.9 BT", 
-      "lokasi": "Pusat gempa berada di laut 84 km BaratDaya Bayah", 
-      "waktu": "17/01/2022 07:25:56 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220118090806.mmi.jpg", 
+      "magnitude": "4.5", 
+      "kedalaman": "26 Km", 
+      "koordinat": "7.82 LS 118.64 BT", 
+      "lokasi": "Pusat gempa berada di laut 70 km BaratLaut Bima", 
+      "waktu": "18/01/2022 09:08:06 WIB"
 }
