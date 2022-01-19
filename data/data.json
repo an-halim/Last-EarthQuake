@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220119212948.mmi.jpg", 
-      "magnitude": "5.7", 
-      "kedalaman": "85 Km", 
-      "koordinat": "3.37 LS 130.98 BT", 
-      "lokasi": "Pusat gempa berada di laut 61 Km Tenggara Bula", 
-      "waktu": "19/01/2022 21:29:48 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220119214800.mmi.jpg", 
+      "magnitude": "4.5", 
+      "kedalaman": "37 Km", 
+      "koordinat": "7.88 LS 118.59 BT", 
+      "lokasi": "Pusat gempa berada di laut 64 Km Barat Laut Bima", 
+      "waktu": "19/01/2022 21:48:00 WIB"
 }
