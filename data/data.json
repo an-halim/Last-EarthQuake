@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220120174411.mmi.jpg", 
-      "magnitude": "5.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.04 LS 140.37 BT", 
-      "lokasi": "Pusat gempa berada di laut 119 km Timur laut Kab Jayapura", 
-      "waktu": "20/01/2022 17:44:11 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220120180636.mmi.jpg", 
+      "magnitude": "4.1", 
+      "kedalaman": "4 Km", 
+      "koordinat": "2.24 LS 140.21 BT", 
+      "lokasi": "Pusat gempa berada di laut 44 km Barat laut Kabupaten Jayapura-Papua", 
+      "waktu": "20/01/2022 18:06:36 WIB"
 }
