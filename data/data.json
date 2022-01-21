@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220120180636.mmi.jpg", 
-      "magnitude": "4.1", 
-      "kedalaman": "4 Km", 
-      "koordinat": "2.24 LS 140.21 BT", 
-      "lokasi": "Pusat gempa berada di laut 44 km Barat laut Kabupaten Jayapura-Papua", 
-      "waktu": "20/01/2022 18:06:36 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220121174727.mmi.jpg", 
+      "magnitude": "4.4", 
+      "kedalaman": "3 Km", 
+      "koordinat": "0.5 LU 99.61 BT", 
+      "lokasi": "Pusat gempa berada di darat 41 km Tenggara Mandailing Natal", 
+      "waktu": "21/01/2022 17:47:27 WIB"
 }
