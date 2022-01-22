@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220121174727.mmi.jpg", 
-      "magnitude": "4.4", 
-      "kedalaman": "3 Km", 
-      "koordinat": "0.5 LU 99.61 BT", 
-      "lokasi": "Pusat gempa berada di darat 41 km Tenggara Mandailing Natal", 
-      "waktu": "21/01/2022 17:47:27 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220122092613.mmi.jpg", 
+      "magnitude": "6.1", 
+      "kedalaman": "12 Km", 
+      "koordinat": "3.67 LU 126.82 BT", 
+      "lokasi": "Pusat gempa berada di laut 39 km Tenggara Melonguane", 
+      "waktu": "22/01/2022 09:26:13 WIB"
 }
