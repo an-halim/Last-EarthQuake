@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220122140811.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220122153438.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 36 km TimurLaut Melonguane <br>
-Magnitude: 4.8 <br>
-Kedalaman: 53 Km <br>
-Koordinat: 4.2 LU 126.94 BT <br>
-Waktu: 22/01/2022 14:08:11 WIB <br>
+Lokasi: Pusat gempa berada di darat 57 km BaratDaya Kab-Bandung <br>
+Magnitude: 3.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 7.49 LS 107.31 BT <br>
+Waktu: 22/01/2022 15:34:38 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
