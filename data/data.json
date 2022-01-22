@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220122092613.mmi.jpg", 
-      "magnitude": "6.1", 
-      "kedalaman": "12 Km", 
-      "koordinat": "3.67 LU 126.82 BT", 
-      "lokasi": "Pusat gempa berada di laut 39 km Tenggara Melonguane", 
-      "waktu": "22/01/2022 09:26:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220122140811.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "53 Km", 
+      "koordinat": "4.2 LU 126.94 BT", 
+      "lokasi": "Pusat gempa berada di laut 36 km TimurLaut Melonguane", 
+      "waktu": "22/01/2022 14:08:11 WIB"
 }
