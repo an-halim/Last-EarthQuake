@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220122153438.mmi.jpg", 
-      "magnitude": "3.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.49 LS 107.31 BT", 
-      "lokasi": "Pusat gempa berada di darat 57 km BaratDaya Kab-Bandung", 
-      "waktu": "22/01/2022 15:34:38 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220123122013.mmi.jpg", 
+      "magnitude": "3.8", 
+      "kedalaman": "9 Km", 
+      "koordinat": "7.41 LS 121.87 BT", 
+      "lokasi": "Pusat gempa berada di laut 139 km Barat Laut Maumere", 
+      "waktu": "23/01/2022 12:20:13 WIB"
 }
