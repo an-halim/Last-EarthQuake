@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220123122013.mmi.jpg", 
-      "magnitude": "3.8", 
-      "kedalaman": "9 Km", 
-      "koordinat": "7.41 LS 121.87 BT", 
-      "lokasi": "Pusat gempa berada di laut 139 km Barat Laut Maumere", 
-      "waktu": "23/01/2022 12:20:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220125041414.mmi.jpg", 
+      "magnitude": "4.6", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.78 LS 116.14 BT", 
+      "lokasi": "Pusat gempa berada di darat 10 km Tenggara Lombok Barat", 
+      "waktu": "25/01/2022 04:14:14 WIB"
 }

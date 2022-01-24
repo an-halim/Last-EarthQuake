@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220123122013.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220125041414.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 139 km Barat Laut Maumere <br>
-Magnitude: 3.8 <br>
-Kedalaman: 9 Km <br>
-Koordinat: 7.41 LS 121.87 BT <br>
-Waktu: 23/01/2022 12:20:13 WIB <br>
+Lokasi: Pusat gempa berada di darat 10 km Tenggara Lombok Barat <br>
+Magnitude: 4.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 8.78 LS 116.14 BT <br>
+Waktu: 25/01/2022 04:14:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
