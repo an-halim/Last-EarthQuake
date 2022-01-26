@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220125041414.mmi.jpg", 
-      "magnitude": "4.6", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220126010605.mmi.jpg", 
+      "magnitude": "3", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.78 LS 116.14 BT", 
-      "lokasi": "Pusat gempa berada di darat 10 km Tenggara Lombok Barat", 
-      "waktu": "25/01/2022 04:14:14 WIB"
+      "koordinat": "1.05 LU 127.51 BT", 
+      "lokasi": "Pusat gempa berada di darat 5 km Tenggara Jailolo", 
+      "waktu": "26/01/2022 01:06:05 WIB"
 }
