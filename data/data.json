@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220126114526.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "5 Km", 
-      "koordinat": "1.09 LU 127.46 BT", 
-      "lokasi": "Pusat gempa berada di darat 3 km BaratLaut Jailolo", 
-      "waktu": "26/01/2022 11:45:26 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220127042612.mmi.jpg", 
+      "magnitude": "4.1", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.73 LS 121.99 BT", 
+      "lokasi": "Pusat gempa berada di darat 6 km selatan Kab.Morowali", 
+      "waktu": "27/01/2022 04:26:12 WIB"
 }
