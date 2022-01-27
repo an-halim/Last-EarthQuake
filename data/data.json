@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220127042612.mmi.jpg", 
-      "magnitude": "4.1", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220127202002.mmi.jpg", 
+      "magnitude": "4.7", 
       "kedalaman": "10 Km", 
-      "koordinat": "2.73 LS 121.99 BT", 
-      "lokasi": "Pusat gempa berada di darat 6 km selatan Kab.Morowali", 
-      "waktu": "27/01/2022 04:26:12 WIB"
+      "koordinat": "6.73 LS 120.5 BT", 
+      "lokasi": "Pusat gempa berada di laut 49 km baratdaya Selayar", 
+      "waktu": "27/01/2022 20:20:02 WIB"
 }
