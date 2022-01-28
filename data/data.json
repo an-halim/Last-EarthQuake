@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220127230303.mmi.jpg", 
-      "magnitude": "5.3", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220128135356.mmi.jpg", 
+      "magnitude": "5", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.86 LS 108.16 BT", 
-      "lokasi": "Pusat gempa berada di Laut 133 km Barat Daya Pangandaran", 
-      "waktu": "27/01/2022 23:03:03 WIB"
+      "koordinat": "0.22 LS 124.49 BT", 
+      "lokasi": "Pusat gempa berada di laut 86 km Tenggara Bolaanguki", 
+      "waktu": "28/01/2022 13:53:56 WIB"
 }

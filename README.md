@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220127230303.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220128135356.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 133 km Barat Daya Pangandaran <br>
-Magnitude: 5.3 <br>
+Lokasi: Pusat gempa berada di laut 86 km Tenggara Bolaanguki <br>
+Magnitude: 5 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 8.86 LS 108.16 BT <br>
-Waktu: 27/01/2022 23:03:03 WIB <br>
+Koordinat: 0.22 LS 124.49 BT <br>
+Waktu: 28/01/2022 13:53:56 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
