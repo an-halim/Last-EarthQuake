@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220128135356.mmi.jpg", 
-      "magnitude": "5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "0.22 LS 124.49 BT", 
-      "lokasi": "Pusat gempa berada di laut 86 km Tenggara Bolaanguki", 
-      "waktu": "28/01/2022 13:53:56 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220130041713.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "14 Km", 
+      "koordinat": "4.24 LS 140.15 BT", 
+      "lokasi": "Pusat gempa berada di darat 33 km Barat Laut Kab. Jayapura", 
+      "waktu": "30/01/2022 04:17:13 WIB"
 }
