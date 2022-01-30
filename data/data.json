@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220130041713.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "14 Km", 
-      "koordinat": "4.24 LS 140.15 BT", 
-      "lokasi": "Pusat gempa berada di darat 33 km Barat Laut Kab. Jayapura", 
-      "waktu": "30/01/2022 04:17:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220130163755.mmi.jpg", 
+      "magnitude": "2.5", 
+      "kedalaman": "4 Km", 
+      "koordinat": "3.26 LU 98.45 BT", 
+      "lokasi": "Pusat gempa berada di darat 18 km barat laut Kab. Karo", 
+      "waktu": "30/01/2022 16:37:55 WIB"
 }
