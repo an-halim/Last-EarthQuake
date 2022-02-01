@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220131032221.mmi.jpg", 
-      "magnitude": "5.2", 
-      "kedalaman": "40 Km", 
-      "koordinat": "10.2 LS 122.35 BT", 
-      "lokasi": "Pusat gempa berada di Laut 67 km Timurlaut Saburaijua", 
-      "waktu": "31/01/2022 03:22:21 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220201070135.mmi.jpg", 
+      "magnitude": "4.7", 
+      "kedalaman": "111 Km", 
+      "koordinat": "8.62 LS 118.39 BT", 
+      "lokasi": "Pusat gempa berada di laut 12 km barat daya Dompu", 
+      "waktu": "01/02/2022 07:01:35 WIB"
 }
