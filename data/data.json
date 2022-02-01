@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220201145043.mmi.jpg", 
-      "magnitude": "4.4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.66 LS 133.71 BT", 
-      "lokasi": "Pusat gempa berada di darat 49 km barat daya Kaimana", 
-      "waktu": "01/02/2022 14:50:43 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220201205938.mmi.jpg", 
+      "magnitude": "2.8", 
+      "kedalaman": "2 Km", 
+      "koordinat": "3.61 LS 120.92 BT", 
+      "lokasi": "Pusat gempa berada di laut 6.7km BaratLaut Kolaka Utara", 
+      "waktu": "01/02/2022 20:59:38 WIB"
 }
