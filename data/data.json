@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220201070135.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "111 Km", 
-      "koordinat": "8.62 LS 118.39 BT", 
-      "lokasi": "Pusat gempa berada di laut 12 km barat daya Dompu", 
-      "waktu": "01/02/2022 07:01:35 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220201145043.mmi.jpg", 
+      "magnitude": "4.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.66 LS 133.71 BT", 
+      "lokasi": "Pusat gempa berada di darat 49 km barat daya Kaimana", 
+      "waktu": "01/02/2022 14:50:43 WIB"
 }
