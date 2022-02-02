@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220202102302.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "18 Km", 
-      "koordinat": "8.16 LS 107.91 BT", 
-      "lokasi": "Pusat gempa berada di laut 82 km BaratDaya Kabupaten Pangandaran", 
-      "waktu": "02/02/2022 10:23:02 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220203022918.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "45 Km", 
+      "koordinat": "0.83 LU 98.5 BT", 
+      "lokasi": "Pusat gempa berada di laut 81 km Timur Laut Nias Selatan", 
+      "waktu": "03/02/2022 02:29:18 WIB"
 }
