@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220202022510.mmi.jpg", 
-      "magnitude": "6.2", 
-      "kedalaman": "131 Km", 
-      "koordinat": "7.75 LS 128.46 BT", 
-      "lokasi": "Pusat gempa berada di laut 86km TimurLaut MalukuBaratDAya", 
-      "waktu": "02/02/2022 02:25:10 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220202065938.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "9 Km", 
+      "koordinat": "7.1 LS 105.28 BT", 
+      "lokasi": "Pusat gempa berada di laut 58 km barat daya Sumur", 
+      "waktu": "02/02/2022 06:59:38 WIB"
 }
