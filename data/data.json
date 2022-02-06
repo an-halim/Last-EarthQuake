@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220204171045.mmi.jpg", 
-      "magnitude": "5.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.48 LS 105.92 BT", 
-      "lokasi": "Pusat gempa berada di laut 71 Km Barat Daya Bayah", 
-      "waktu": "04/02/2022 17:10:45 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220207043120.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "114 Km", 
+      "koordinat": "0.32 LU 122.35 BT", 
+      "lokasi": "Pusat gempa berada di laut 23 km Tenggara Boalemo", 
+      "waktu": "07/02/2022 04:31:20 WIB"
 }
