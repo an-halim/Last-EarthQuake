@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220207043120.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "114 Km", 
-      "koordinat": "0.32 LU 122.35 BT", 
-      "lokasi": "Pusat gempa berada di laut 23 km Tenggara Boalemo", 
-      "waktu": "07/02/2022 04:31:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220208072930.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.52 LS 140.55 BT", 
+      "lokasi": "Pusat gempa berada di darat 8 km barat laut Kota Jayapura", 
+      "waktu": "08/02/2022 07:29:30 WIB"
 }
