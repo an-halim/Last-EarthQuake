@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220208072930.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.52 LS 140.55 BT", 
-      "lokasi": "Pusat gempa berada di darat 8 km barat laut Kota Jayapura", 
-      "waktu": "08/02/2022 07:29:30 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220213072449.mmi.jpg", 
+      "magnitude": "3.5", 
+      "kedalaman": "17 Km", 
+      "koordinat": "8.47 LS 115.99 BT", 
+      "lokasi": "Pusat gempa berada dilaut 22 km BaratDaya Lombok Utara", 
+      "waktu": "13/02/2022 07:24:49 WIB"
 }
