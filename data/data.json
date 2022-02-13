@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220213072449.mmi.jpg", 
-      "magnitude": "3.5", 
-      "kedalaman": "17 Km", 
-      "koordinat": "8.47 LS 115.99 BT", 
-      "lokasi": "Pusat gempa berada dilaut 22 km BaratDaya Lombok Utara", 
-      "waktu": "13/02/2022 07:24:49 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220213135050.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.84 LU 117.2 BT", 
+      "lokasi": "Pusat gempa berada di darat 24 km Tenggara Bulungan", 
+      "waktu": "13/02/2022 13:50:50 WIB"
 }
