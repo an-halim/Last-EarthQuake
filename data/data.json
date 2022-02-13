@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220213141415.mmi.jpg", 
-      "magnitude": "3.8", 
-      "kedalaman": "27 Km", 
-      "koordinat": "7.57 LS 106.73 BT", 
-      "lokasi": "Pusat gempa berada di laut 67 km Tenggara Kab. Sukabumi", 
-      "waktu": "13/02/2022 14:14:15 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220213152146.mmi.jpg", 
+      "magnitude": "5.7", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.89 LU 126.23 BT", 
+      "lokasi": "Pusat gempa berada di laut 127 km BaratLaut Ternate", 
+      "waktu": "13/02/2022 15:21:46 WIB"
 }
