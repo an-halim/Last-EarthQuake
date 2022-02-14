@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220214125747.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "12 Km", 
-      "koordinat": "4.52 LS 100.93 BT", 
-      "lokasi": "Pusat gempa berada di laut 174 km barat laut Enggano", 
-      "waktu": "14/02/2022 12:57:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220214231134.mmi.jpg", 
+      "magnitude": "4.3", 
+      "kedalaman": "32 Km", 
+      "koordinat": "7.86 LS 118.57 BT", 
+      "lokasi": "Pusat gempa berada di laut 67 km barat laut Bima", 
+      "waktu": "14/02/2022 23:11:34 WIB"
 }
