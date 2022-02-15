@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220214231134.mmi.jpg", 
-      "magnitude": "4.3", 
-      "kedalaman": "32 Km", 
-      "koordinat": "7.86 LS 118.57 BT", 
-      "lokasi": "Pusat gempa berada di laut 67 km barat laut Bima", 
-      "waktu": "14/02/2022 23:11:34 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220215165143.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.72 LS 131.51 BT", 
+      "lokasi": "Pusat gempa berada di laut 29 km Timur Laut Kota Sorong", 
+      "waktu": "15/02/2022 16:51:43 WIB"
 }
