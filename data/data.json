@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220215165143.mmi.jpg", 
-      "magnitude": "3.4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "0.72 LS 131.51 BT", 
-      "lokasi": "Pusat gempa berada di laut 29 km Timur Laut Kota Sorong", 
-      "waktu": "15/02/2022 16:51:43 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220216094650.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "84 Km", 
+      "koordinat": "0.25 LS 123.95 BT", 
+      "lokasi": "Pusat gempa berada di laut 69 km Barat Daya Bolaanguki - Bolsel", 
+      "waktu": "16/02/2022 09:46:50 WIB"
 }

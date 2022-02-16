@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220215165143.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220216094650.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 29 km Timur Laut Kota Sorong <br>
-Magnitude: 3.4 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 0.72 LS 131.51 BT <br>
-Waktu: 15/02/2022 16:51:43 WIB <br>
+Lokasi: Pusat gempa berada di laut 69 km Barat Daya Bolaanguki - Bolsel <br>
+Magnitude: 4.9 <br>
+Kedalaman: 84 Km <br>
+Koordinat: 0.25 LS 123.95 BT <br>
+Waktu: 16/02/2022 09:46:50 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
