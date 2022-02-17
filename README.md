@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220216094650.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220218013044.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 69 km Barat Daya Bolaanguki - Bolsel <br>
-Magnitude: 4.9 <br>
-Kedalaman: 84 Km <br>
-Koordinat: 0.25 LS 123.95 BT <br>
-Waktu: 16/02/2022 09:46:50 WIB <br>
+Lokasi: Pusat gempa berada di darat 30 km BaratDaya Kab. Garut <br>
+Magnitude: 2.7 <br>
+Kedalaman: 2 Km <br>
+Koordinat: 7.28 LS 107.63 BT <br>
+Waktu: 18/02/2022 01:30:44 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
