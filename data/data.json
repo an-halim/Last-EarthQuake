@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220218013044.mmi.jpg", 
-      "magnitude": "2.7", 
-      "kedalaman": "2 Km", 
-      "koordinat": "7.28 LS 107.63 BT", 
-      "lokasi": "Pusat gempa berada di darat 30 km BaratDaya Kab. Garut", 
-      "waktu": "18/02/2022 01:30:44 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220218024201.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.38 LS 120.89 BT", 
+      "lokasi": "Pusat gempa berada di darat 38 km Baratlaut Luwu Timur", 
+      "waktu": "18/02/2022 02:42:01 WIB"
 }
