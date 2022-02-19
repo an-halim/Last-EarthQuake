@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220219023228.mmi.jpg", 
-      "magnitude": "3.1", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220220002615.mmi.jpg", 
+      "magnitude": "4.3", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.28 LS 114.79 BT", 
-      "lokasi": "Pusat gempa berada di darat 22 km timur laut Jembrana", 
-      "waktu": "19/02/2022 02:32:28 WIB"
+      "koordinat": "7.19 LS 106.08 BT", 
+      "lokasi": "Pusat gempa berada di laut 34 km barat daya Bayah", 
+      "waktu": "20/02/2022 00:26:15 WIB"
 }
