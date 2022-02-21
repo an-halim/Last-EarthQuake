@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220220193759.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "42 Km", 
-      "koordinat": "9.77 LS 124.8 BT", 
-      "lokasi": "Pusat gempa berada di darat 29 km BaratDaya Malaka", 
-      "waktu": "20/02/2022 19:37:59 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220221193559.mmi.jpg", 
+      "magnitude": "5.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.12 LS 120.7 BT", 
+      "lokasi": "Pusat gempa berada di laut 60 km Timur Laut Ruteng", 
+      "waktu": "21/02/2022 19:35:59 WIB"
 }
