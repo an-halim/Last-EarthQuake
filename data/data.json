@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220221232235.mmi.jpg", 
-      "magnitude": "5.4", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220222102601.mmi.jpg", 
+      "magnitude": "4.9", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.03 LS 120.73 BT", 
-      "lokasi": "Pusat gempa berada di laut 71 km TimurLaut Ruteng-Manggarai", 
-      "waktu": "21/02/2022 23:22:35 WIB"
+      "koordinat": "7.98 LS 120.65 BT", 
+      "lokasi": "Pusat gempa berada di laut 73 km timur laut Ruteng-Manggarai", 
+      "waktu": "22/02/2022 10:26:01 WIB"
 }
