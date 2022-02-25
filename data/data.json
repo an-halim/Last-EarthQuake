@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220225184459.mmi.jpg", 
-      "magnitude": "4.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.97 LS 120.72 BT", 
-      "lokasi": "Pusat gempa berada di laut 76 km timur laut Ruteng", 
-      "waktu": "25/02/2022 18:44:59 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220225212815.mmi.jpg", 
+      "magnitude": "3.1", 
+      "kedalaman": "11 Km", 
+      "koordinat": "0.79 LS 121.55 BT", 
+      "lokasi": "Pusat gempa berada di laut 10 km Utara Ampana-Kab. Tojo Unauna", 
+      "waktu": "25/02/2022 21:28:15 WIB"
 }
