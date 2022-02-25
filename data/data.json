@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220225212815.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "11 Km", 
-      "koordinat": "0.79 LS 121.55 BT", 
-      "lokasi": "Pusat gempa berada di laut 10 km Utara Ampana-Kab. Tojo Unauna", 
-      "waktu": "25/02/2022 21:28:15 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220225221721.mmi.jpg", 
+      "magnitude": "4.7", 
+      "kedalaman": "8 Km", 
+      "koordinat": "0.16 LU 100.01 BT", 
+      "lokasi": "Pusat gempa berada di darat 8 km Tenggara Talu, Pasaman Barat", 
+      "waktu": "25/02/2022 22:17:21 WIB"
 }
