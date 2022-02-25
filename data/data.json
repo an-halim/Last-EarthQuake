@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220225083929.mmi.jpg", 
-      "magnitude": "6.2", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220225104206.mmi.jpg", 
+      "magnitude": "4.3", 
       "kedalaman": "10 Km", 
-      "koordinat": "0.15 LU 99.98 BT", 
-      "lokasi": "Pusat gempa berada di darat 17 km TimurLaut Pasaman Barat", 
-      "waktu": "25/02/2022 08:39:29 WIB"
+      "koordinat": "0.16 LU 100 BT", 
+      "lokasi": "Pusat gempa berada di darat 7 km Tenggara Talu-Pasaman Barat", 
+      "waktu": "25/02/2022 10:42:06 WIB"
 }
