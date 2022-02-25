@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220224134505.mmi.jpg", 
-      "magnitude": "4.5", 
-      "kedalaman": "20 Km", 
-      "koordinat": "3.28 LS 135.21 BT", 
-      "lokasi": "Pusat gempa berada di darat 65 km BaratLaut NABIRE", 
-      "waktu": "24/02/2022 13:45:05 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220225083929.mmi.jpg", 
+      "magnitude": "6.2", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.15 LU 99.98 BT", 
+      "lokasi": "Pusat gempa berada di darat 17 km TimurLaut Pasaman Barat", 
+      "waktu": "25/02/2022 08:39:29 WIB"
 }
