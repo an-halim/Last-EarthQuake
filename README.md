@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220225221721.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220226065807.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 8 km Tenggara Talu, Pasaman Barat <br>
-Magnitude: 4.7 <br>
-Kedalaman: 8 Km <br>
-Koordinat: 0.16 LU 100.01 BT <br>
-Waktu: 25/02/2022 22:17:21 WIB <br>
+Lokasi: Pusat gempa berada di laut 77 km arah BaratLaut Enggano <br>
+Magnitude: 5.1 <br>
+Kedalaman: 18 Km <br>
+Koordinat: 4.92 LS 101.72 BT <br>
+Waktu: 26/02/2022 06:58:07 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

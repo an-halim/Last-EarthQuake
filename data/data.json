@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220225221721.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "8 Km", 
-      "koordinat": "0.16 LU 100.01 BT", 
-      "lokasi": "Pusat gempa berada di darat 8 km Tenggara Talu, Pasaman Barat", 
-      "waktu": "25/02/2022 22:17:21 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220226065807.mmi.jpg", 
+      "magnitude": "5.1", 
+      "kedalaman": "18 Km", 
+      "koordinat": "4.92 LS 101.72 BT", 
+      "lokasi": "Pusat gempa berada di laut 77 km arah BaratLaut Enggano", 
+      "waktu": "26/02/2022 06:58:07 WIB"
 }
