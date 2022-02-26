@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220226065807.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "18 Km", 
-      "koordinat": "4.92 LS 101.72 BT", 
-      "lokasi": "Pusat gempa berada di laut 77 km arah BaratLaut Enggano", 
-      "waktu": "26/02/2022 06:58:07 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220227020818.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.23 LU 99.91 BT", 
+      "lokasi": "Pusat gempa berada di darat 7km BaratLaut Talu Pasaman Barat", 
+      "waktu": "27/02/2022 02:08:18 WIB"
 }
