@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220227045549.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.55 LS 126.15 BT", 
-      "lokasi": "Pusat gempa berada di laut 58 km selatan Sanana", 
-      "waktu": "27/02/2022 04:55:49 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220228060429.mmi.jpg", 
+      "magnitude": "4.1", 
+      "kedalaman": "12 Km", 
+      "koordinat": "5.15 LU 94.73 BT", 
+      "lokasi": "Pusat gempa berada di laut 98 km BaratDaya Jantho-Aceh Besar", 
+      "waktu": "28/02/2022 06:04:29 WIB"
 }
