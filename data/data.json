@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301001042.mmi.jpg", 
-      "magnitude": "4.6", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301055906.mmi.jpg", 
+      "magnitude": "3.9", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.1 LS 120.56 BT", 
-      "lokasi": "Pusat gempa berada di laut 57 km Timur Laut Ruteng, Manggarai", 
-      "waktu": "01/03/2022 00:10:42 WIB"
+      "koordinat": "8.06 LS 120.49 BT", 
+      "lokasi": "Pusat gempa berada di laut 61 km TimurLaut Ruteng-Manggarai", 
+      "waktu": "01/03/2022 05:59:06 WIB"
 }
