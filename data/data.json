@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220228060429.mmi.jpg", 
-      "magnitude": "4.1", 
-      "kedalaman": "12 Km", 
-      "koordinat": "5.15 LU 94.73 BT", 
-      "lokasi": "Pusat gempa berada di laut 98 km BaratDaya Jantho-Aceh Besar", 
-      "waktu": "28/02/2022 06:04:29 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220228211658.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.12 LS 120.56 BT", 
+      "lokasi": "Pusat gempa berada di laut 55 km Timur Laut Ruteng, Manggarai", 
+      "waktu": "28/02/2022 21:16:58 WIB"
 }
