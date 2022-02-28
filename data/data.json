@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220228211658.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "8.12 LS 120.56 BT", 
-      "lokasi": "Pusat gempa berada di laut 55 km Timur Laut Ruteng, Manggarai", 
-      "waktu": "28/02/2022 21:16:58 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220228223811.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "28 Km", 
+      "koordinat": "7.34 LS 106.08 BT", 
+      "lokasi": "Pusat gempa berada di laut 49 Km Barat Daya Bayah", 
+      "waktu": "28/02/2022 22:38:11 WIB"
 }
