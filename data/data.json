@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301055906.mmi.jpg", 
-      "magnitude": "3.9", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301141630.mmi.jpg", 
+      "magnitude": "4.5", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.06 LS 120.49 BT", 
-      "lokasi": "Pusat gempa berada di laut 61 km TimurLaut Ruteng-Manggarai", 
-      "waktu": "01/03/2022 05:59:06 WIB"
+      "koordinat": "1.94 LS 115.81 BT", 
+      "lokasi": "Pusat gempa berada di darat 46 Km Barat Laut Paser", 
+      "waktu": "01/03/2022 14:16:30 WIB"
 }
