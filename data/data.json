@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301141630.mmi.jpg", 
-      "magnitude": "4.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "1.94 LS 115.81 BT", 
-      "lokasi": "Pusat gempa berada di darat 46 Km Barat Laut Paser", 
-      "waktu": "01/03/2022 14:16:30 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301180411.mmi.jpg", 
+      "magnitude": "5.3", 
+      "kedalaman": "28 Km", 
+      "koordinat": "3.97 LU 95.96 BT", 
+      "lokasi": "Pusat gempa berada di laut 26 Km Barat Daya Meulaboh", 
+      "waktu": "01/03/2022 18:04:11 WIB"
 }
