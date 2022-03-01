@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301180411.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "28 Km", 
-      "koordinat": "3.97 LU 95.96 BT", 
-      "lokasi": "Pusat gempa berada di laut 26 Km Barat Daya Meulaboh", 
-      "waktu": "01/03/2022 18:04:11 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301221226.mmi.jpg", 
+      "magnitude": "5.2", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.48 LS 107.57 BT", 
+      "lokasi": "Pusat gempa berada di laut 134km BaratDaya Kab-Pangandaran", 
+      "waktu": "01/03/2022 22:12:26 WIB"
 }
