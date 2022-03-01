@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301221226.mmi.jpg", 
-      "magnitude": "5.2", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220301223703.mmi.jpg", 
+      "magnitude": "4.5", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.48 LS 107.57 BT", 
-      "lokasi": "Pusat gempa berada di laut 134km BaratDaya Kab-Pangandaran", 
-      "waktu": "01/03/2022 22:12:26 WIB"
+      "koordinat": "0.22 LU 99.93 BT", 
+      "lokasi": "Pusat gempa berada di darat 5km BaratDaya Talu-Pasaman Barat", 
+      "waktu": "01/03/2022 22:37:03 WIB"
 }
