@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220302020816.mmi.jpg", 
-      "magnitude": "2.4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.34 LS 128.38 BT", 
-      "lokasi": "Pusat gempa berada di darat 3 km Timur Kairatu", 
-      "waktu": "02/03/2022 02:08:16 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220302114114.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "3 Km", 
+      "koordinat": "0.26 LU 99.89 BT", 
+      "lokasi": "Pusat gempa berada di darat 10 km barat laut Talu-Pasaman Barat", 
+      "waktu": "02/03/2022 11:41:14 WIB"
 }
