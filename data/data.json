@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220304204619.mmi.jpg", 
-      "magnitude": "2.8", 
-      "kedalaman": "10 Km", 
-      "koordinat": "4.08 LS 121.98 BT", 
-      "lokasi": "Pusat gempa berada di darat 5 km barat daya Onembute", 
-      "waktu": "04/03/2022 20:46:19 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220305190239.mmi.jpg", 
+      "magnitude": "5.9", 
+      "kedalaman": "17 Km", 
+      "koordinat": "4.56 LU 94.84 BT", 
+      "lokasi": "Pusat gempa berada di laut 82 km barat daya Aceh Jaya", 
+      "waktu": "05/03/2022 19:02:39 WIB"
 }
