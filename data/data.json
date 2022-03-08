@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220308011315.mmi.jpg", 
-      "magnitude": "5.6", 
-      "kedalaman": "32 Km", 
-      "koordinat": "2.57 LU 125.92 BT", 
-      "lokasi": "Pusat gempa berada di laut 65 km Tenggara Ondong", 
-      "waktu": "08/03/2022 01:13:15 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220308183951.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.43 LS 116.01 BT", 
+      "lokasi": "Pusat gempa berada di laut 18 km barat daya Lombok Utara", 
+      "waktu": "08/03/2022 18:39:51 WIB"
 }
