@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220308183951.mmi.jpg", 
-      "magnitude": "3.4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "8.43 LS 116.01 BT", 
-      "lokasi": "Pusat gempa berada di laut 18 km barat daya Lombok Utara", 
-      "waktu": "08/03/2022 18:39:51 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220309084918.mmi.jpg", 
+      "magnitude": "5.2", 
+      "kedalaman": "14 Km", 
+      "koordinat": "2.57 LU 128.43 BT", 
+      "lokasi": "Pusat gempa berada di Laut 60 km TimurLaut Daruba", 
+      "waktu": "09/03/2022 08:49:18 WIB"
 }
