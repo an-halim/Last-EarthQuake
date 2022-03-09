@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220309084918.mmi.jpg", 
-      "magnitude": "5.2", 
-      "kedalaman": "14 Km", 
-      "koordinat": "2.57 LU 128.43 BT", 
-      "lokasi": "Pusat gempa berada di Laut 60 km TimurLaut Daruba", 
-      "waktu": "09/03/2022 08:49:18 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220309140929.mmi.jpg", 
+      "magnitude": "3.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.25 LS 140.56 BT", 
+      "lokasi": "Pusat gempa berada di laut 35 km BaratLaut Kota Jayapura", 
+      "waktu": "09/03/2022 14:09:29 WIB"
 }
