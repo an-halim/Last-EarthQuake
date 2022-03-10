@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220309140929.mmi.jpg", 
-      "magnitude": "3.8", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.25 LS 140.56 BT", 
-      "lokasi": "Pusat gempa berada di laut 35 km BaratLaut Kota Jayapura", 
-      "waktu": "09/03/2022 14:09:29 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220310112652.mmi.jpg", 
+      "magnitude": "5.2", 
+      "kedalaman": "15 Km", 
+      "koordinat": "3.86 LU 95.89 BT", 
+      "lokasi": "Pusat gempa berada di laut 41 km Barat Daya Meulaboh", 
+      "waktu": "10/03/2022 11:26:52 WIB"
 }

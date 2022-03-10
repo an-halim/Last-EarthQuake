@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220309140929.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220310112652.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 35 km BaratLaut Kota Jayapura <br>
-Magnitude: 3.8 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.25 LS 140.56 BT <br>
-Waktu: 09/03/2022 14:09:29 WIB <br>
+Lokasi: Pusat gempa berada di laut 41 km Barat Daya Meulaboh <br>
+Magnitude: 5.2 <br>
+Kedalaman: 15 Km <br>
+Koordinat: 3.86 LU 95.89 BT <br>
+Waktu: 10/03/2022 11:26:52 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
