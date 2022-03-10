@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220310112652.mmi.jpg", 
-      "magnitude": "5.2", 
-      "kedalaman": "15 Km", 
-      "koordinat": "3.86 LU 95.89 BT", 
-      "lokasi": "Pusat gempa berada di laut 41 km Barat Daya Meulaboh", 
-      "waktu": "10/03/2022 11:26:52 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220310144212.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "2 Km", 
+      "koordinat": "2.96 LS 119.34 BT", 
+      "lokasi": "Pusat gempa berada di darat 5 km tenggara Mamasa", 
+      "waktu": "10/03/2022 14:42:12 WIB"
 }
