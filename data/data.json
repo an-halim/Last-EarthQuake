@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220312123107.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.19 LS 105.98 BT", 
-      "lokasi": "Pusat gempa berada di laut 41 km Barat Daya Bayah", 
-      "waktu": "12/03/2022 12:31:07 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220313011342.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "20 Km", 
+      "koordinat": "1.53 LS 134.22 BT", 
+      "lokasi": "Pusat gempa berada di laut 8 km Tenggara Ransiki", 
+      "waktu": "13/03/2022 01:13:42 WIB"
 }
