@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220313011342.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "20 Km", 
-      "koordinat": "1.53 LS 134.22 BT", 
-      "lokasi": "Pusat gempa berada di laut 8 km Tenggara Ransiki", 
-      "waktu": "13/03/2022 01:13:42 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220313101150.mmi.jpg", 
+      "magnitude": "3", 
+      "kedalaman": "7 Km", 
+      "koordinat": "6.95 LS 107.21 BT", 
+      "lokasi": "Pusat gempa berada di darat 16 km Tenggara Kabupaten Cianjur", 
+      "waktu": "13/03/2022 10:11:50 WIB"
 }
