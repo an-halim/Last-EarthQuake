@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220313194637.mmi.jpg", 
-      "magnitude": "2.5", 
-      "kedalaman": "4 Km", 
-      "koordinat": "7.22 LS 107.6 BT", 
-      "lokasi": "Pusat gempa berada di darat 23 km Tenggara Kabupaten Bandung", 
-      "waktu": "13/03/2022 19:46:37 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220314040921.mmi.jpg", 
+      "magnitude": "6.9", 
+      "kedalaman": "25 Km", 
+      "koordinat": "0.71 LS 98.5 BT", 
+      "lokasi": "Pusat gempa berada di laut 161 km Tenggara NiasSelatan", 
+      "waktu": "14/03/2022 04:09:21 WIB"
 }
