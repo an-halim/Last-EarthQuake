@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220314043843.mmi.jpg", 
-      "magnitude": "6", 
-      "kedalaman": "26 Km", 
-      "koordinat": "0.66 LS 98.45 BT", 
-      "lokasi": "Pusat gempa berada di laut 154 km tenggara Nias Selatan", 
-      "waktu": "14/03/2022 04:38:43 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220314100846.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.02 LU 126.7 BT", 
+      "lokasi": "Pusat gempa berada di Laut 110 km Barat Daya Tidore", 
+      "waktu": "14/03/2022 10:08:46 WIB"
 }
