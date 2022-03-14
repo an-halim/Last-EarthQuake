@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220314211210.mmi.jpg", 
-      "magnitude": "5.4", 
-      "kedalaman": "16 Km", 
-      "koordinat": "0.56 LS 98.54 BT", 
-      "lokasi": "Pusat gempa berada di laut 149 km Tenggara Nias Selatan", 
-      "waktu": "14/03/2022 21:12:10 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220314211518.mmi.jpg", 
+      "magnitude": "3.9", 
+      "kedalaman": "27 Km", 
+      "koordinat": "8.12 LS 107.82 BT", 
+      "lokasi": "Pusat gempa berada di laut 88 km Barat daya Kab.Pangandaran", 
+      "waktu": "14/03/2022 21:15:18 WIB"
 }
