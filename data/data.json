@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220316100001.mmi.jpg", 
-      "magnitude": "5.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.94 LS 106.94 BT", 
-      "lokasi": "Pusat gempa berada di laut 113 km Tenggara Kota Sukabumi", 
-      "waktu": "16/03/2022 10:00:01 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220316110643.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "16 Km", 
+      "koordinat": "7.9 LS 107.04 BT", 
+      "lokasi": "Pusat gempa berada di laut 109 km Tenggara Kota Sukabumi", 
+      "waktu": "16/03/2022 11:06:43 WIB"
 }
