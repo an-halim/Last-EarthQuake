@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220316141428.mmi.jpg", 
-      "magnitude": "3.3", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220316170614.mmi.jpg", 
+      "magnitude": "2.6", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.7 LS 128.12 BT", 
-      "lokasi": "Pusat gempa berada di laut 7 km Barat Ambon", 
-      "waktu": "16/03/2022 14:14:28 WIB"
+      "koordinat": "3.69 LS 128.13 BT", 
+      "lokasi": "Pusat gempa berada di laut 6 km Barat Ambon", 
+      "waktu": "16/03/2022 17:06:14 WIB"
 }
