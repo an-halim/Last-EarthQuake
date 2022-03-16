@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220315235322.mmi.jpg", 
-      "magnitude": "3.6", 
-      "kedalaman": "1 Km", 
-      "koordinat": "7.26 LS 107.72 BT", 
-      "lokasi": "Pusat gempa berada di darat 17 km Tenggara Kab. Bandung", 
-      "waktu": "15/03/2022 23:53:22 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220316100001.mmi.jpg", 
+      "magnitude": "5.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "7.94 LS 106.94 BT", 
+      "lokasi": "Pusat gempa berada di laut 113 km Tenggara Kota Sukabumi", 
+      "waktu": "16/03/2022 10:00:01 WIB"
 }
