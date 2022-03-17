@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220316211200.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220318035330.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 47 km Baratdaya Kairatu <br>
-Magnitude: 2.7 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.7 LS 128.12 BT <br>
-Waktu: 16/03/2022 21:12:00 WIB <br>
+Lokasi: Pusat gempa berada di darat 20 km baratlaut Bayah <br>
+Magnitude: 5.1 <br>
+Kedalaman: 137 Km <br>
+Koordinat: 6.75 LS 106.21 BT <br>
+Waktu: 18/03/2022 03:53:30 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
