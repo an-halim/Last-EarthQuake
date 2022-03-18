@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220318035330.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "137 Km", 
-      "koordinat": "6.75 LS 106.21 BT", 
-      "lokasi": "Pusat gempa berada di darat 20 km baratlaut Bayah", 
-      "waktu": "18/03/2022 03:53:30 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220318113301.mmi.jpg", 
+      "magnitude": "4", 
+      "kedalaman": "18 Km", 
+      "koordinat": "9.91 LS 120.56 BT", 
+      "lokasi": "Pusat gempa berada di darat 35 km Timurlaut Wula-Waijelu", 
+      "waktu": "18/03/2022 11:33:01 WIB"
 }
