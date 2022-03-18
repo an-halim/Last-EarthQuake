@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220318113301.mmi.jpg", 
-      "magnitude": "4", 
-      "kedalaman": "18 Km", 
-      "koordinat": "9.91 LS 120.56 BT", 
-      "lokasi": "Pusat gempa berada di darat 35 km Timurlaut Wula-Waijelu", 
-      "waktu": "18/03/2022 11:33:01 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220318220403.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "16 Km", 
+      "koordinat": "8.33 LS 106.83 BT", 
+      "lokasi": "Pusat gempa berada di laut 152 km Tenggara Kab. Sukabumi", 
+      "waktu": "18/03/2022 22:04:03 WIB"
 }
