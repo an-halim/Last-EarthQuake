@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220319080340.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "94 Km", 
-      "koordinat": "3.38 LS 102.17 BT", 
-      "lokasi": "Pusat gempa berada di darat 7 km BaratLaut BENGKULU UTARA", 
-      "waktu": "19/03/2022 08:03:40 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220319112626.mmi.jpg", 
+      "magnitude": "5.2", 
+      "kedalaman": "10 Km", 
+      "koordinat": "1.93 LS 133.32 BT", 
+      "lokasi": "Pusat gempa berada di darat 2 km Barat Daya Teluk Bintuni", 
+      "waktu": "19/03/2022 11:26:26 WIB"
 }
