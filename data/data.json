@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220319112626.mmi.jpg", 
-      "magnitude": "5.2", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220319211016.mmi.jpg", 
+      "magnitude": "4.5", 
       "kedalaman": "10 Km", 
-      "koordinat": "1.93 LS 133.32 BT", 
-      "lokasi": "Pusat gempa berada di darat 2 km Barat Daya Teluk Bintuni", 
-      "waktu": "19/03/2022 11:26:26 WIB"
+      "koordinat": "6.93 LS 105.37 BT", 
+      "lokasi": "Pusat gempa berada di laut 37 km barat daya Sumur", 
+      "waktu": "19/03/2022 21:10:16 WIB"
 }
