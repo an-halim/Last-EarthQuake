@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220321071154.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220321191342.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 25 Km Barat Daya Garut <br>
-Magnitude: 2.7 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 7.26 LS 107.67 BT <br>
-Waktu: 21/03/2022 07:11:54 WIB <br>
+Lokasi: Pusat gempa berada di laut 20 km Selatan Banda-MALTENG <br>
+Magnitude: 4 <br>
+Kedalaman: 14 Km <br>
+Koordinat: 4.71 LS 129.89 BT <br>
+Waktu: 21/03/2022 19:13:42 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

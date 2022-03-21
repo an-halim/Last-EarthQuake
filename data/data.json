@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220321071154.mmi.jpg", 
-      "magnitude": "2.7", 
-      "kedalaman": "12 Km", 
-      "koordinat": "7.26 LS 107.67 BT", 
-      "lokasi": "Pusat gempa berada di darat 25 Km Barat Daya Garut", 
-      "waktu": "21/03/2022 07:11:54 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220321191342.mmi.jpg", 
+      "magnitude": "4", 
+      "kedalaman": "14 Km", 
+      "koordinat": "4.71 LS 129.89 BT", 
+      "lokasi": "Pusat gempa berada di laut 20 km Selatan Banda-MALTENG", 
+      "waktu": "21/03/2022 19:13:42 WIB"
 }
