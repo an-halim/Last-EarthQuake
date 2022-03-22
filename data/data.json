@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220322022620.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "10 Km", 
-      "koordinat": "8.21 LS 119.84 BT", 
-      "lokasi": "Pusat gempa berada di laut 32 km Barat Laut Labuan Bajo", 
-      "waktu": "22/03/2022 02:26:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220322085208.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "8 Km", 
+      "koordinat": "6.95 LS 107.06 BT", 
+      "lokasi": "Pusat gempa berada di darat 14 km tenggara Kota Sukabumi", 
+      "waktu": "22/03/2022 08:52:08 WIB"
 }
