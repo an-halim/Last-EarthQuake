@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220322085208.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "8 Km", 
-      "koordinat": "6.95 LS 107.06 BT", 
-      "lokasi": "Pusat gempa berada di darat 14 km tenggara Kota Sukabumi", 
-      "waktu": "22/03/2022 08:52:08 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220323040659.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.67 LS 120.47 BT", 
+      "lokasi": "Pusat gempa berada di darat 6 km tenggara RUTENG-MANGGARAI", 
+      "waktu": "23/03/2022 04:06:59 WIB"
 }
