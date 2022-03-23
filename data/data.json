@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220323171039.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "12 Km", 
-      "koordinat": "0.65 LS 133.55 BT", 
-      "lokasi": "Pusat gempa berada di laut 46 km barat laut Pegunungan Arfak", 
-      "waktu": "23/03/2022 17:10:39 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220323171532.mmi.jpg", 
+      "magnitude": "4.7", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.49 LS 133.46 BT", 
+      "lokasi": "Pusat gempa berada di laut 66 km barat laut Pegunungan Arfak", 
+      "waktu": "23/03/2022 17:15:32 WIB"
 }
