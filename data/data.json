@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220323041629.mmi.jpg", 
-      "magnitude": "2.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "8.64 LS 120.47 BT", 
-      "lokasi": "Pusat gempa berada di darat 3 km tenggara RUTENG-MANGGARAI", 
-      "waktu": "23/03/2022 04:16:29 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220323171039.mmi.jpg", 
+      "magnitude": "5.1", 
+      "kedalaman": "12 Km", 
+      "koordinat": "0.65 LS 133.55 BT", 
+      "lokasi": "Pusat gempa berada di laut 46 km barat laut Pegunungan Arfak", 
+      "waktu": "23/03/2022 17:10:39 WIB"
 }
