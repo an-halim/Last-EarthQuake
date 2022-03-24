@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220324205153.mmi.jpg", 
-      "magnitude": "4.9", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220324215611.mmi.jpg", 
+      "magnitude": "3.5", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.44 LS 128.4 BT", 
-      "lokasi": "Pusat gempa berada di Laut 12 km Tenggara Kairatu", 
-      "waktu": "24/03/2022 20:51:53 WIB"
+      "koordinat": "3.39 LS 128.34 BT", 
+      "lokasi": "Pusat gempa berada di laut 5 km Selatan Kairatu", 
+      "waktu": "24/03/2022 21:56:11 WIB"
 }
