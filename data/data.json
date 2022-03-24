@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220323232935.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "102 Km", 
-      "koordinat": "1.86 LU 127.23 BT", 
-      "lokasi": "Pusat gempa berada di laut 68 km barat laut Halmahera Barat", 
-      "waktu": "23/03/2022 23:29:35 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220324065446.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "15 Km", 
+      "koordinat": "0.73 LS 133.6 BT", 
+      "lokasi": "Pusat gempa berada di laut 53 Km baratlaut Manokwari", 
+      "waktu": "24/03/2022 06:54:46 WIB"
 }
