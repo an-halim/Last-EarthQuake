@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220324065446.mmi.jpg", 
-      "magnitude": "4.8", 
-      "kedalaman": "15 Km", 
-      "koordinat": "0.73 LS 133.6 BT", 
-      "lokasi": "Pusat gempa berada di laut 53 Km baratlaut Manokwari", 
-      "waktu": "24/03/2022 06:54:46 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220324205153.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.44 LS 128.4 BT", 
+      "lokasi": "Pusat gempa berada di Laut 12 km Tenggara Kairatu", 
+      "waktu": "24/03/2022 20:51:53 WIB"
 }
