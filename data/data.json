@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220324215611.mmi.jpg", 
-      "magnitude": "3.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.39 LS 128.34 BT", 
-      "lokasi": "Pusat gempa berada di laut 5 km Selatan Kairatu", 
-      "waktu": "24/03/2022 21:56:11 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220325202013.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "2 Km", 
+      "koordinat": "3.87 LS 122.76 BT", 
+      "lokasi": "Pusat gempa berada di laut, 11.9km Timur Laut Soropia", 
+      "waktu": "25/03/2022 20:20:13 WIB"
 }
