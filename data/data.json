@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220326201640.mmi.jpg", 
-      "magnitude": "5.2", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220326210145.mmi.jpg", 
+      "magnitude": "3.2", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.83 LS 122.69 BT", 
-      "lokasi": "Pusat gempa berada di laut 27 km Timur Laut Kendari", 
-      "waktu": "26/03/2022 20:16:40 WIB"
+      "koordinat": "3.96 LS 122.62 BT", 
+      "lokasi": "Pusat gempa berada di darat 4 km Timur laut Kendari, Kota kendari", 
+      "waktu": "26/03/2022 21:01:45 WIB"
 }
