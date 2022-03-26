@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220326223101.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "5 Km", 
-      "koordinat": "2.49 LS 121.23 BT", 
-      "lokasi": "Pusat gempa berada di darat 12 km Timur laut Luwu Timur", 
-      "waktu": "26/03/2022 22:31:01 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220327005940.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.88 LS 122.69 BT", 
+      "lokasi": "Pusat gempa berada di laut 5 km timur laut Soropia, Kab. Konawe", 
+      "waktu": "27/03/2022 00:59:40 WIB"
 }

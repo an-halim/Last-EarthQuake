@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220326223101.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220327005940.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 12 km Timur laut Luwu Timur <br>
-Magnitude: 3.1 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 2.49 LS 121.23 BT <br>
-Waktu: 26/03/2022 22:31:01 WIB <br>
+Lokasi: Pusat gempa berada di laut 5 km timur laut Soropia, Kab. Konawe <br>
+Magnitude: 3.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.88 LS 122.69 BT <br>
+Waktu: 27/03/2022 00:59:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
