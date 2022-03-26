@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220326152348.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "12 Km", 
-      "koordinat": "1.79 LS 133.36 BT", 
-      "lokasi": "Pusat gempa berada di darat 39 km Barat Laut Teluk Bintuni", 
-      "waktu": "26/03/2022 15:23:48 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220326165431.mmi.jpg", 
+      "magnitude": "4.3", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.83 LS 122.72 BT", 
+      "lokasi": "Pusat gempa berada di laut 11 km Timur Laut Soropia, Kab. Konawe", 
+      "waktu": "26/03/2022 16:54:31 WIB"
 }
