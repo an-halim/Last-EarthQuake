@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220325202013.mmi.jpg", 
-      "magnitude": "4.9", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220326100351.mmi.jpg", 
+      "magnitude": "3.1", 
       "kedalaman": "2 Km", 
-      "koordinat": "3.87 LS 122.76 BT", 
-      "lokasi": "Pusat gempa berada di laut, 11.9km Timur Laut Soropia", 
-      "waktu": "25/03/2022 20:20:13 WIB"
+      "koordinat": "0.5 LS 100.24 BT", 
+      "lokasi": "Pusat gempa berada di darat 14 km barat laut Padang Pariaman", 
+      "waktu": "26/03/2022 10:03:51 WIB"
 }
