@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220326100351.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "2 Km", 
-      "koordinat": "0.5 LS 100.24 BT", 
-      "lokasi": "Pusat gempa berada di darat 14 km barat laut Padang Pariaman", 
-      "waktu": "26/03/2022 10:03:51 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220326122556.mmi.jpg", 
+      "magnitude": "2.9", 
+      "kedalaman": "4 Km", 
+      "koordinat": "6.33 LS 105.96 BT", 
+      "lokasi": "Pusat gempa berada di darat 14 km timur laut Labuan", 
+      "waktu": "26/03/2022 12:25:56 WIB"
 }
