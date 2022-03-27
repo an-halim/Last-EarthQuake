@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220327155833.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220327233456.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 42 km Timur Laut Toli-Toli <br>
-Magnitude: 3.4 <br>
+Lokasi: Pusat gempa berada di darat 16 km barat daya Tambarana Kab. Poso <br>
+Magnitude: 4.5 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 1.19 LU 120.98 BT <br>
-Waktu: 27/03/2022 15:58:33 WIB <br>
+Koordinat: 1.31 LS 120.5 BT <br>
+Waktu: 27/03/2022 23:34:56 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
