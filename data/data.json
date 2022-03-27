@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220327005940.mmi.jpg", 
-      "magnitude": "3.6", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.88 LS 122.69 BT", 
-      "lokasi": "Pusat gempa berada di laut 5 km timur laut Soropia, Kab. Konawe", 
-      "waktu": "27/03/2022 00:59:40 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220327125353.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "134 Km", 
+      "koordinat": "6.56 LS 106.06 BT", 
+      "lokasi": "Pusat gempa berada di darat 21 km barat laut Rangkasbitung", 
+      "waktu": "27/03/2022 12:53:53 WIB"
 }
