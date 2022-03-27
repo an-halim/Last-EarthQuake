@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220327125353.mmi.jpg", 
-      "magnitude": "4.8", 
-      "kedalaman": "134 Km", 
-      "koordinat": "6.56 LS 106.06 BT", 
-      "lokasi": "Pusat gempa berada di darat 21 km barat laut Rangkasbitung", 
-      "waktu": "27/03/2022 12:53:53 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220327155833.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "1.19 LU 120.98 BT", 
+      "lokasi": "Pusat gempa berada di darat 42 km Timur Laut Toli-Toli", 
+      "waktu": "27/03/2022 15:58:33 WIB"
 }
