@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220328001830.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.17 LU 128.61 BT", 
-      "lokasi": "Pusat gempa berada di laut 37 km Timur laut Daruba", 
-      "waktu": "28/03/2022 00:18:30 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220329055649.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "1 Km", 
+      "koordinat": "3.85 LS 122.83 BT", 
+      "lokasi": "Pusat gempa berada di laut 20 km Timur Laut Soropia, Kab. Konawe", 
+      "waktu": "29/03/2022 05:56:49 WIB"
 }
