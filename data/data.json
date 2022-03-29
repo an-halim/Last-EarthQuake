@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220329055649.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "1 Km", 
-      "koordinat": "3.85 LS 122.83 BT", 
-      "lokasi": "Pusat gempa berada di laut 20 km Timur Laut Soropia, Kab. Konawe", 
-      "waktu": "29/03/2022 05:56:49 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220329171054.mmi.jpg", 
+      "magnitude": "4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.38 LS 140.59 BT", 
+      "lokasi": "Pusat gempa berada di laut 105 Km TimurLaut Kab. Jayapura", 
+      "waktu": "29/03/2022 17:10:54 WIB"
 }
