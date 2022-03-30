@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220330071829.mmi.jpg", 
-      "magnitude": "3.3", 
-      "kedalaman": "7 Km", 
-      "koordinat": "3.89 LS 122.64 BT", 
-      "lokasi": "Pusat gempa berada di laut 3.1 km BaratLaut Soropia", 
-      "waktu": "30/03/2022 07:18:29 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220330144437.mmi.jpg", 
+      "magnitude": "5.3", 
+      "kedalaman": "10 Km", 
+      "koordinat": "6.21 LS 104.35 BT", 
+      "lokasi": "Pusat gempa berada di laut 89 km Barat Daya Tanggamus", 
+      "waktu": "30/03/2022 14:44:37 WIB"
 }
