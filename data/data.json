@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220329194826.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "6.7 LS 105.64 BT", 
-      "lokasi": "Pusat gempa berada di darat 8 Km Tenggara Sumur", 
-      "waktu": "29/03/2022 19:48:26 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220330071829.mmi.jpg", 
+      "magnitude": "3.3", 
+      "kedalaman": "7 Km", 
+      "koordinat": "3.89 LS 122.64 BT", 
+      "lokasi": "Pusat gempa berada di laut 3.1 km BaratLaut Soropia", 
+      "waktu": "30/03/2022 07:18:29 WIB"
 }
