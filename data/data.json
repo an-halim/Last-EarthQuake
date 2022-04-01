@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220401181147.mmi.jpg", 
-      "magnitude": "2.8", 
-      "kedalaman": "19 Km", 
-      "koordinat": "7.97 LS 110.45 BT", 
-      "lokasi": "Pusat gempa berada di darat 13 km Tenggara Bantul", 
-      "waktu": "01/04/2022 18:11:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220401192215.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "53 Km", 
+      "koordinat": "0.44 LS 123.07 BT", 
+      "lokasi": "Pusat gempa berada di laut 65 km TimurLaut Luwuk", 
+      "waktu": "01/04/2022 19:22:15 WIB"
 }
