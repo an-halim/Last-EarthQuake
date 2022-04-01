@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220401115419.mmi.jpg", 
-      "magnitude": "5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220401141411.mmi.jpg", 
+      "magnitude": "5.1", 
       "kedalaman": "10 Km", 
-      "koordinat": "7.04 LS 106.1 BT", 
-      "lokasi": "Pusat gempa berada di laut 20 km BaratDaya Bayah", 
-      "waktu": "01/04/2022 11:54:19 WIB"
+      "koordinat": "7.14 LS 106.01 BT", 
+      "lokasi": "Pusat gempa berada di laut 35 Km Barat Daya Bayah", 
+      "waktu": "01/04/2022 14:14:11 WIB"
 }
