@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220402133718.mmi.jpg", 
-      "magnitude": "3.3", 
-      "kedalaman": "5 Km", 
-      "koordinat": "3.87 LS 122.65 BT", 
-      "lokasi": "Pusat gempa berada di laut 5 km Baratlaut Konawe", 
-      "waktu": "02/04/2022 13:37:18 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220403081004.mmi.jpg", 
+      "magnitude": "3.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.88 LS 122.69 BT", 
+      "lokasi": "Pusat gempa berada di laut 5 km TimurLaut Soropia, Kab. Konawe", 
+      "waktu": "03/04/2022 08:10:04 WIB"
 }
