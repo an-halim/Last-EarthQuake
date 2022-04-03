@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220404055843.mmi.jpg", 
-      "magnitude": "2.8", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220404061238.mmi.jpg", 
+      "magnitude": "3.3", 
       "kedalaman": "10 Km", 
-      "koordinat": "4.49 LS 129.87 BT", 
-      "lokasi": "Pusat gempa berada di laut 5 km barat laut Banda", 
-      "waktu": "04/04/2022 05:58:43 WIB"
+      "koordinat": "4.65 LS 129.46 BT", 
+      "lokasi": "Pusat gempa berada di laut 50 km barat Banda", 
+      "waktu": "04/04/2022 06:12:38 WIB"
 }
