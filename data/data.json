@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220404061238.mmi.jpg", 
-      "magnitude": "3.3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "4.65 LS 129.46 BT", 
-      "lokasi": "Pusat gempa berada di laut 50 km barat Banda", 
-      "waktu": "04/04/2022 06:12:38 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220404103711.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "5 Km", 
+      "koordinat": "2.92 LS 119.37 BT", 
+      "lokasi": "Pusat gempa berada di darat 5 km tenggara Mamasa", 
+      "waktu": "04/04/2022 10:37:11 WIB"
 }
