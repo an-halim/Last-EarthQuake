@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220404103711.mmi.jpg", 
-      "magnitude": "3.6", 
-      "kedalaman": "5 Km", 
-      "koordinat": "2.92 LS 119.37 BT", 
-      "lokasi": "Pusat gempa berada di darat 5 km tenggara Mamasa", 
-      "waktu": "04/04/2022 10:37:11 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220405054659.mmi.jpg", 
+      "magnitude": "3.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.24 LS 100.27 BT", 
+      "lokasi": "Pusat gempa berada di darat 13 km Baratlaut Bukit Tnggi", 
+      "waktu": "05/04/2022 05:46:59 WIB"
 }
