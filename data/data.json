@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220405084406.mmi.jpg", 
-      "magnitude": "6", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.11 LU 126.97 BT", 
-      "lokasi": "Pusat gempa berada di laut 109 km Barat Laut Halmahera Barat", 
-      "waktu": "05/04/2022 08:44:06 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220405153715.mmi.jpg", 
+      "magnitude": "4.3", 
+      "kedalaman": "64 Km", 
+      "koordinat": "7.36 LS 106.05 BT", 
+      "lokasi": "Pusat gempa berada di laut 52 km Barat Daya Bayah", 
+      "waktu": "05/04/2022 15:37:15 WIB"
 }
