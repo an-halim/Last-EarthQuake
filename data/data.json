@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220405054659.mmi.jpg", 
-      "magnitude": "3.5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220405084406.mmi.jpg", 
+      "magnitude": "6", 
       "kedalaman": "10 Km", 
-      "koordinat": "0.24 LS 100.27 BT", 
-      "lokasi": "Pusat gempa berada di darat 13 km Baratlaut Bukit Tnggi", 
-      "waktu": "05/04/2022 05:46:59 WIB"
+      "koordinat": "2.11 LU 126.97 BT", 
+      "lokasi": "Pusat gempa berada di laut 109 km Barat Laut Halmahera Barat", 
+      "waktu": "05/04/2022 08:44:06 WIB"
 }
