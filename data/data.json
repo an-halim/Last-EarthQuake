@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220405202821.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "19 Km", 
-      "koordinat": "1.93 LS 125.93 BT", 
-      "lokasi": "Pusat gempa berada di darat 9 km barat laut Sanana", 
-      "waktu": "05/04/2022 20:28:21 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220405211633.mmi.jpg", 
+      "magnitude": "2.4", 
+      "kedalaman": "4 Km", 
+      "koordinat": "3.96 LS 122.61 BT", 
+      "lokasi": "Pusat gempa berada di darat 3 km Timur Laut Kendari", 
+      "waktu": "05/04/2022 21:16:33 WIB"
 }
