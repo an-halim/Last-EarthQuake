@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220405211633.mmi.jpg", 
-      "magnitude": "2.4", 
-      "kedalaman": "4 Km", 
-      "koordinat": "3.96 LS 122.61 BT", 
-      "lokasi": "Pusat gempa berada di darat 3 km Timur Laut Kendari", 
-      "waktu": "05/04/2022 21:16:33 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220406100336.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "123 Km", 
+      "koordinat": "8.21 LS 110.57 BT", 
+      "lokasi": "Pusat gempa berada di laut 24 Km Barat Daya Gunung Kidul", 
+      "waktu": "06/04/2022 10:03:36 WIB"
 }
