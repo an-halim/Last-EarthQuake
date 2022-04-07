@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220407133641.mmi.jpg", 
-      "magnitude": "4.8", 
-      "kedalaman": "60 Km", 
-      "koordinat": "4.16 LS 102.06 BT", 
-      "lokasi": "Pusat gempa berada di laut 58 km BaratDaya Seluma Bengkulu", 
-      "waktu": "07/04/2022 13:36:41 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220407154051.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.36 LU 117.6 BT", 
+      "lokasi": "Pusat gempa berada di darat 8 km tenggara Tarakan", 
+      "waktu": "07/04/2022 15:40:51 WIB"
 }
