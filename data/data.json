@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220408152835.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "2 Km", 
-      "koordinat": "2.35 LS 121.02 BT", 
-      "lokasi": "Pusat gempa berada di darat 30 km BaratLaut LuwuTimur", 
-      "waktu": "08/04/2022 15:28:35 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220408193213.mmi.jpg", 
+      "magnitude": "5.1", 
+      "kedalaman": "68 Km", 
+      "koordinat": "3.18 LS 139.01 BT", 
+      "lokasi": "Pusat gempa berada di darat 67 km Timur Laut Tolikara", 
+      "waktu": "08/04/2022 19:32:13 WIB"
 }
