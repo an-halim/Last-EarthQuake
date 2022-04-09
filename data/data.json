@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220410030005.mmi.jpg", 
-      "magnitude": "4.5", 
-      "kedalaman": "127 Km", 
-      "koordinat": "0.07 LS 123.66 BT", 
-      "lokasi": "Pusat gempa berada di laut 61 km baratdaya Bolaang Uki, Bolsel", 
-      "waktu": "10/04/2022 03:00:05 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220410042213.mmi.jpg", 
+      "magnitude": "5.2", 
+      "kedalaman": "53 Km", 
+      "koordinat": "3.12 LS 139.98 BT", 
+      "lokasi": "Pusat gempa berada di darat 20 km Tenggara Kab.Jayapura", 
+      "waktu": "10/04/2022 04:22:13 WIB"
 }
