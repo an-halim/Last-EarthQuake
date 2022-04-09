@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220408193213.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "68 Km", 
-      "koordinat": "3.18 LS 139.01 BT", 
-      "lokasi": "Pusat gempa berada di darat 67 km Timur Laut Tolikara", 
-      "waktu": "08/04/2022 19:32:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220409164107.mmi.jpg", 
+      "magnitude": "4.6", 
+      "kedalaman": "82 Km", 
+      "koordinat": "8.76 LS 114.73 BT", 
+      "lokasi": "Pusat gempa berada di laut 48 km tenggara Jembrana", 
+      "waktu": "09/04/2022 16:41:07 WIB"
 }
