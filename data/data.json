@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220410042213.mmi.jpg", 
-      "magnitude": "5.2", 
-      "kedalaman": "53 Km", 
-      "koordinat": "3.12 LS 139.98 BT", 
-      "lokasi": "Pusat gempa berada di darat 20 km Tenggara Kab.Jayapura", 
-      "waktu": "10/04/2022 04:22:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220410213358.mmi.jpg", 
+      "magnitude": "3.1", 
+      "kedalaman": "23 Km", 
+      "koordinat": "1.11 LU 97.49 BT", 
+      "lokasi": "Pusat gempa berada di darat 15 km timurlaut Nias Barat", 
+      "waktu": "10/04/2022 21:33:58 WIB"
 }
