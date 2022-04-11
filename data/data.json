@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220410213358.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "23 Km", 
-      "koordinat": "1.11 LU 97.49 BT", 
-      "lokasi": "Pusat gempa berada di darat 15 km timurlaut Nias Barat", 
-      "waktu": "10/04/2022 21:33:58 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220411100657.mmi.jpg", 
+      "magnitude": "3.9", 
+      "kedalaman": "55 Km", 
+      "koordinat": "5.26 LS 103.86 BT", 
+      "lokasi": "Pusat gempa berada di laut 11 km Barat daya Pesisir Barat", 
+      "waktu": "11/04/2022 10:06:57 WIB"
 }
