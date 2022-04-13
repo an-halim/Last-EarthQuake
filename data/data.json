@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220411100657.mmi.jpg", 
-      "magnitude": "3.9", 
-      "kedalaman": "55 Km", 
-      "koordinat": "5.26 LS 103.86 BT", 
-      "lokasi": "Pusat gempa berada di laut 11 km Barat daya Pesisir Barat", 
-      "waktu": "11/04/2022 10:06:57 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220414004531.mmi.jpg", 
+      "magnitude": "2.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.35 LS 128.38 BT", 
+      "lokasi": "Pusat gempa berada di darat 3 km timur Kairatu,Seram Bagian Barat", 
+      "waktu": "14/04/2022 00:45:31 WIB"
 }
