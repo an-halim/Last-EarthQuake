@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220415182729.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "48 Km", 
-      "koordinat": "4.04 LU 95.83 BT", 
-      "lokasi": "Pusat gempa berada di laut 34 km Barat Daya Meulaboh", 
-      "waktu": "15/04/2022 18:27:29 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220415233228.mmi.jpg", 
+      "magnitude": "4", 
+      "kedalaman": "15 Km", 
+      "koordinat": "7.73 LS 106.43 BT", 
+      "lokasi": "Pusat gempa berada di laut 83 km Barat Daya Kab. Sukabumi", 
+      "waktu": "15/04/2022 23:32:28 WIB"
 }
