@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220417105332.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220417124929.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 93 Km Barat Daya Pesisir Barat <br>
-Magnitude: 4.4 <br>
+Lokasi: Pusat gempa berada di laut 111 km timur laut Kep. Yapen <br>
+Magnitude: 5.8 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 5.82 LS 103.38 BT <br>
-Waktu: 17/04/2022 10:53:32 WIB <br>
+Koordinat: 1.24 LS 137.04 BT <br>
+Waktu: 17/04/2022 12:49:29 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
