@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220418194310.mmi.jpg", 
-      "magnitude": "2.9", 
-      "kedalaman": "11 Km", 
-      "koordinat": "3.47 LS 128.81 BT", 
-      "lokasi": "Pusat gempa berada di laut 21 km selatan Elpaputih", 
-      "waktu": "18/04/2022 19:43:10 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220418230531.mmi.jpg", 
+      "magnitude": "2.8", 
+      "kedalaman": "5 Km", 
+      "koordinat": "1.71 LU 127.8 BT", 
+      "lokasi": "Pusat gempa berada di darat 21 km Barat Daya Tobelo", 
+      "waktu": "18/04/2022 23:05:31 WIB"
 }
