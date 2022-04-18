@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220418124647.mmi.jpg", 
-      "magnitude": "4.4", 
-      "kedalaman": "7 Km", 
-      "koordinat": "1.31 LS 120.49 BT", 
-      "lokasi": "Pusat gempa berada di darat 17 km BaratDaya Tambarana kab. Poso", 
-      "waktu": "18/04/2022 12:46:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220418194310.mmi.jpg", 
+      "magnitude": "2.9", 
+      "kedalaman": "11 Km", 
+      "koordinat": "3.47 LS 128.81 BT", 
+      "lokasi": "Pusat gempa berada di laut 21 km selatan Elpaputih", 
+      "waktu": "18/04/2022 19:43:10 WIB"
 }

@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220418124647.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220418194310.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 17 km BaratDaya Tambarana kab. Poso <br>
-Magnitude: 4.4 <br>
-Kedalaman: 7 Km <br>
-Koordinat: 1.31 LS 120.49 BT <br>
-Waktu: 18/04/2022 12:46:47 WIB <br>
+Lokasi: Pusat gempa berada di laut 21 km selatan Elpaputih <br>
+Magnitude: 2.9 <br>
+Kedalaman: 11 Km <br>
+Koordinat: 3.47 LS 128.81 BT <br>
+Waktu: 18/04/2022 19:43:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
