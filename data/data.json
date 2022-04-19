@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220419192939.mmi.jpg", 
-      "magnitude": "3.4", 
-      "kedalaman": "4 Km", 
-      "koordinat": "7.27 LS 107.61 BT", 
-      "lokasi": "Pusat gempa berada di Darat 29 km Tenggara Kab. Bandung", 
-      "waktu": "19/04/2022 19:29:39 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220419221132.mmi.jpg", 
+      "magnitude": "2.5", 
+      "kedalaman": "7 Km", 
+      "koordinat": "4.06 LS 122.46 BT", 
+      "lokasi": "Pusat gempa berada di darat 2 km barat daya Ranomeeto, Kab. Konawe", 
+      "waktu": "19/04/2022 22:11:32 WIB"
 }
