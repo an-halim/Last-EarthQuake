@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220419221132.mmi.jpg", 
-      "magnitude": "2.5", 
-      "kedalaman": "7 Km", 
-      "koordinat": "4.06 LS 122.46 BT", 
-      "lokasi": "Pusat gempa berada di darat 2 km barat daya Ranomeeto, Kab. Konawe", 
-      "waktu": "19/04/2022 22:11:32 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220420042004.mmi.jpg", 
+      "magnitude": "5.3", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.63 LU 126.77 BT", 
+      "lokasi": "Pusat gempa berada di Laut 42 km Tenggara Melonguane Sulawesi Utara", 
+      "waktu": "20/04/2022 04:20:04 WIB"
 }
