@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220419110424.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "111 Km", 
-      "koordinat": "8.58 LS 118.4 BT", 
-      "lokasi": "Pusat gempa berada di darat 8 km barat daya Dompu", 
-      "waktu": "19/04/2022 11:04:24 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220419192939.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "4 Km", 
+      "koordinat": "7.27 LS 107.61 BT", 
+      "lokasi": "Pusat gempa berada di Darat 29 km Tenggara Kab. Bandung", 
+      "waktu": "19/04/2022 19:29:39 WIB"
 }
