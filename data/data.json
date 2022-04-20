@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220420042004.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.63 LU 126.77 BT", 
-      "lokasi": "Pusat gempa berada di Laut 42 km Tenggara Melonguane Sulawesi Utara", 
-      "waktu": "20/04/2022 04:20:04 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220420172148.mmi.jpg", 
+      "magnitude": "5", 
+      "kedalaman": "11 Km", 
+      "koordinat": "1.8 LS 122.48 BT", 
+      "lokasi": "Pusat gempa berada di laut 82 km BaratDaya BanggaiKep", 
+      "waktu": "20/04/2022 17:21:48 WIB"
 }
