@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220420172148.mmi.jpg", 
-      "magnitude": "5", 
-      "kedalaman": "11 Km", 
-      "koordinat": "1.8 LS 122.48 BT", 
-      "lokasi": "Pusat gempa berada di laut 82 km BaratDaya BanggaiKep", 
-      "waktu": "20/04/2022 17:21:48 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220420225559.mmi.jpg", 
+      "magnitude": "3", 
+      "kedalaman": "10 Km", 
+      "koordinat": "4.63 LS 129.61 BT", 
+      "lokasi": "Pusat gempa berada di laut 34 km Barat Banda", 
+      "waktu": "20/04/2022 22:55:59 WIB"
 }
