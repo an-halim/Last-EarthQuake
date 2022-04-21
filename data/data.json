@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220421171404.mmi.jpg", 
-      "magnitude": "4.1", 
-      "kedalaman": "7 Km", 
-      "koordinat": "1.33 LS 120.48 BT", 
-      "lokasi": "Pusat gempa berada di darat 19 km Barat Daya Tambarana, Kab.Poso", 
-      "waktu": "21/04/2022 17:14:04 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220421192804.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "21 Km", 
+      "koordinat": "2.03 LU 97.88 BT", 
+      "lokasi": "Pusat gempa berada di laut 35 km Tenggara Kabupaten Aceh Singkil", 
+      "waktu": "21/04/2022 19:28:04 WIB"
 }
