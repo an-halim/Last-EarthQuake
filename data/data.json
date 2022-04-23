@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220423024926.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "2 Km", 
-      "koordinat": "2.79 LS 122.26 BT", 
-      "lokasi": "Pusat gempa berada dilaut 41Km Tenggara Morowali", 
-      "waktu": "23/04/2022 02:49:26 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220423201152.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "4.8 LS 140.76 BT", 
+      "lokasi": "Pusat gempa berada di darat 38 km Tenggara Pegunungan Bintang", 
+      "waktu": "23/04/2022 20:11:52 WIB"
 }
