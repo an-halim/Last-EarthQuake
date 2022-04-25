@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220424180356.mmi.jpg", 
-      "magnitude": "3.3", 
-      "kedalaman": "19 Km", 
-      "koordinat": "8.57 LS 115.29 BT", 
-      "lokasi": "Pusat gempa berada di darat 5 km Barat Daya Gianyar", 
-      "waktu": "24/04/2022 18:03:56 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220425065033.mmi.jpg", 
+      "magnitude": "5.7", 
+      "kedalaman": "87 Km", 
+      "koordinat": "3.67 LS 140.55 BT", 
+      "lokasi": "Pusat gempa berada di darat 43 km barat daya Keerom", 
+      "waktu": "25/04/2022 06:50:33 WIB"
 }
