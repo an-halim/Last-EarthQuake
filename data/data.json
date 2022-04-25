@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220425065033.mmi.jpg", 
-      "magnitude": "5.7", 
-      "kedalaman": "87 Km", 
-      "koordinat": "3.67 LS 140.55 BT", 
-      "lokasi": "Pusat gempa berada di darat 43 km barat daya Keerom", 
-      "waktu": "25/04/2022 06:50:33 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220426000106.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "25 Km", 
+      "koordinat": "7.48 LS 106.68 BT", 
+      "lokasi": "Pusat gempa berada di laut 56 km tenggarakab. Sukabumi", 
+      "waktu": "26/04/2022 00:01:06 WIB"
 }
