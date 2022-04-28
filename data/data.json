@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220426000106.mmi.jpg", 
-      "magnitude": "4.8", 
-      "kedalaman": "25 Km", 
-      "koordinat": "7.48 LS 106.68 BT", 
-      "lokasi": "Pusat gempa berada di laut 56 km tenggarakab. Sukabumi", 
-      "waktu": "26/04/2022 00:01:06 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220428220441.mmi.jpg", 
+      "magnitude": "2.3", 
+      "kedalaman": "5 Km", 
+      "koordinat": "7.26 LS 107.57 BT", 
+      "lokasi": "Pusat gempa berada di darat 26 km tenggara Kab. Bandung", 
+      "waktu": "28/04/2022 22:04:41 WIB"
 }
