@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220430000536.mmi.jpg", 
-      "magnitude": "3.7", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220430012525.mmi.jpg", 
+      "magnitude": "5.1", 
       "kedalaman": "10 Km", 
-      "koordinat": "4.17 LS 123.35 BT", 
-      "lokasi": "Pusat gempa berada di laut 16 Km Tenggara Wawonii Timur", 
-      "waktu": "30/04/2022 00:05:36 WIB"
+      "koordinat": "9.75 LS 116.27 BT", 
+      "lokasi": "Pusat gempa berada di laut 115 km selatan Lombok Tengah", 
+      "waktu": "30/04/2022 01:25:25 WIB"
 }
