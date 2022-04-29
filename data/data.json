@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220429183503.mmi.jpg", 
-      "magnitude": "4.5", 
-      "kedalaman": "28 Km", 
-      "koordinat": "0.27 LS 122.79 BT", 
-      "lokasi": "Pusat gempa berada di laut 97 km barat daya Bonebolango", 
-      "waktu": "29/04/2022 18:35:03 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220429203102.mmi.jpg", 
+      "magnitude": "3.9", 
+      "kedalaman": "5 Km", 
+      "koordinat": "1.32 LS 120.49 BT", 
+      "lokasi": "Pusat gempa berada di darat 8 km Baratdaya Tambarana, Kab. Poso", 
+      "waktu": "29/04/2022 20:31:02 WIB"
 }
