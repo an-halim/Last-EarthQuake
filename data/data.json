@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220430012525.mmi.jpg", 
-      "magnitude": "5.1", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220430200459.mmi.jpg", 
+      "magnitude": "5.2", 
       "kedalaman": "10 Km", 
-      "koordinat": "9.75 LS 116.27 BT", 
-      "lokasi": "Pusat gempa berada di laut 115 km selatan Lombok Tengah", 
-      "waktu": "30/04/2022 01:25:25 WIB"
+      "koordinat": "6.67 LS 120.7 BT", 
+      "lokasi": "Pusat gempa berada di laut 47 km Tenggara Selayar", 
+      "waktu": "30/04/2022 20:04:59 WIB"
 }
