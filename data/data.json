@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220430200459.mmi.jpg", 
-      "magnitude": "5.2", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220502084140.mmi.jpg", 
+      "magnitude": "3.3", 
       "kedalaman": "10 Km", 
-      "koordinat": "6.67 LS 120.7 BT", 
-      "lokasi": "Pusat gempa berada di laut 47 km Tenggara Selayar", 
-      "waktu": "30/04/2022 20:04:59 WIB"
+      "koordinat": "0.57 LS 127.6 BT", 
+      "lokasi": "Pusat gempa berada di darat 15 km timur laut Labuha", 
+      "waktu": "02/05/2022 08:41:40 WIB"
 }
