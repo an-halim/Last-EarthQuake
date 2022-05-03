@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220503202046.mmi.jpg", 
-      "magnitude": "2.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "5.4 LS 105.22 BT", 
-      "lokasi": "Pusat gempa berada di darat 16 km Tenggara Pesawaran", 
-      "waktu": "03/05/2022 20:20:46 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220503214458.mmi.jpg", 
+      "magnitude": "2.2", 
+      "kedalaman": "4 Km", 
+      "koordinat": "5.73 LS 105.42 BT", 
+      "lokasi": "Pusat gempa berada di laut 18 km Barat Daya Lampung Selatan", 
+      "waktu": "03/05/2022 21:44:58 WIB"
 }
