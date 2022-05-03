@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220503045146.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "23 Km", 
-      "koordinat": "2.44 LU 128.48 BT", 
-      "lokasi": "Pusat gempa berada di darat 48 km Timur laut Daruba", 
-      "waktu": "03/05/2022 04:51:46 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220503202046.mmi.jpg", 
+      "magnitude": "2.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "5.4 LS 105.22 BT", 
+      "lokasi": "Pusat gempa berada di darat 16 km Tenggara Pesawaran", 
+      "waktu": "03/05/2022 20:20:46 WIB"
 }
