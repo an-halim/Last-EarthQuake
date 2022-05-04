@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220504234408.mmi.jpg", 
-      "magnitude": "2.2", 
-      "kedalaman": "3 Km", 
-      "koordinat": "5.52 LS 105.23 BT", 
-      "lokasi": "Pusat gempa berada di darat 22 km Tenggara Pesawaran", 
-      "waktu": "04/05/2022 23:44:08 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220504084531.mmi.jpg", 
+      "magnitude": "2.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "4.08 LS 121.89 BT", 
+      "lokasi": "Pusat gempa berada di darat 0.8 Km Timur Laut Loea", 
+      "waktu": "04/05/2022 08:45:31 WIB"
 }
