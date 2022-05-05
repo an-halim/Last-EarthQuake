@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220505141420.mmi.jpg", 
-      "magnitude": "4.3", 
-      "kedalaman": "16 Km", 
-      "koordinat": "7.06 LS 105.39 BT", 
-      "lokasi": "Pusat gempa berada di laut 48 Km Barat Daya Sumur", 
-      "waktu": "05/05/2022 14:14:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220505182603.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.63 LS 119.16 BT", 
+      "lokasi": "Pusat gempa berada di darat 36 km Barat Laut Mamasa", 
+      "waktu": "05/05/2022 18:26:03 WIB"
 }
