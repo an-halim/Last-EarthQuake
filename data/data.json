@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220504084531.mmi.jpg", 
-      "magnitude": "2.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "4.08 LS 121.89 BT", 
-      "lokasi": "Pusat gempa berada di darat 0.8 Km Timur Laut Loea", 
-      "waktu": "04/05/2022 08:45:31 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220505141420.mmi.jpg", 
+      "magnitude": "4.3", 
+      "kedalaman": "16 Km", 
+      "koordinat": "7.06 LS 105.39 BT", 
+      "lokasi": "Pusat gempa berada di laut 48 Km Barat Daya Sumur", 
+      "waktu": "05/05/2022 14:14:20 WIB"
 }
