@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220505205639.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "11 Km", 
-      "koordinat": "8.66 LS 115.13 BT", 
-      "lokasi": "Pusat gempa berada di laut 10 km barat daya Badung", 
-      "waktu": "05/05/2022 20:56:39 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220506142316.mmi.jpg", 
+      "magnitude": "3.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "7.87 LS 110.13 BT", 
+      "lokasi": "Pusat gempa berada di darat, 7 km barat daya Kulonprogo - DIY", 
+      "waktu": "06/05/2022 14:23:16 WIB"
 }
