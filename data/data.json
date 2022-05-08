@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220509000943.mmi.jpg", 
-      "magnitude": "2.3", 
-      "kedalaman": "3 Km", 
-      "koordinat": "5.52 LS 105.21 BT", 
-      "lokasi": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung", 
-      "waktu": "09/05/2022 00:09:43 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220509045139.mmi.jpg", 
+      "magnitude": "5.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "1.83 LU 127.15 BT", 
+      "lokasi": "Pusat gempa berada di laut 72 km Barat Laut Halmahera Barat", 
+      "waktu": "09/05/2022 04:51:39 WIB"
 }
