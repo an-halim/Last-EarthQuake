@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220508092904.mmi.jpg", 
-      "magnitude": "5.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.63 LU 127.01 BT", 
-      "lokasi": "Pusat gempa berada di laut 55 km Tenggara Melonguane", 
-      "waktu": "08/05/2022 09:29:04 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220508195204.mmi.jpg", 
+      "magnitude": "2.5", 
+      "kedalaman": "3 Km", 
+      "koordinat": "5.53 LS 105.24 BT", 
+      "lokasi": "Pusat gempa berada di darat 10 km barat daya Bandar Lampung", 
+      "waktu": "08/05/2022 19:52:04 WIB"
 }
