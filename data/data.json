@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220509115031.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "32 Km", 
-      "koordinat": "8.23 LS 108.28 BT", 
-      "lokasi": "Pusat gempa berada di 63 Km Barat Daya Kabupaten Pangandaran", 
-      "waktu": "09/05/2022 11:50:31 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220509223438.mmi.jpg", 
+      "magnitude": "2.9", 
+      "kedalaman": "5 Km", 
+      "koordinat": "5.53 LS 105.25 BT", 
+      "lokasi": "Pusat gempa berada di laut 9 km barat daya Bandar Lampung", 
+      "waktu": "09/05/2022 22:34:38 WIB"
 }
