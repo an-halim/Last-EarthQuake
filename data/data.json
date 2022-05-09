@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220509223438.mmi.jpg", 
-      "magnitude": "2.9", 
-      "kedalaman": "5 Km", 
-      "koordinat": "5.53 LS 105.25 BT", 
-      "lokasi": "Pusat gempa berada di laut 9 km barat daya Bandar Lampung", 
-      "waktu": "09/05/2022 22:34:38 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220510035411.mmi.jpg", 
+      "magnitude": "4.7", 
+      "kedalaman": "58 Km", 
+      "koordinat": "0.64 LU 122.15 BT", 
+      "lokasi": "Pusat gempa berada di darat 25 km barat laut Boalemo", 
+      "waktu": "10/05/2022 03:54:11 WIB"
 }
