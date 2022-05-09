@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220509103025.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.77 LS 133.71 BT", 
-      "lokasi": "Pusat gempa berada di laut 60 km barat daya Kaimana", 
-      "waktu": "09/05/2022 10:30:25 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220509115031.mmi.jpg", 
+      "magnitude": "4.6", 
+      "kedalaman": "32 Km", 
+      "koordinat": "8.23 LS 108.28 BT", 
+      "lokasi": "Pusat gempa berada di 63 Km Barat Daya Kabupaten Pangandaran", 
+      "waktu": "09/05/2022 11:50:31 WIB"
 }
