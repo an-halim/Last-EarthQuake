@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220511232012.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "27 Km", 
-      "koordinat": "3.71 LU 126.81 BT", 
-      "lokasi": "Pusat gempa berada di laut 36 km tenggara Melonguane", 
-      "waktu": "11/05/2022 23:20:12 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220512002736.mmi.jpg", 
+      "magnitude": "5.2", 
+      "kedalaman": "13 Km", 
+      "koordinat": "4.6 LU 94.84 BT", 
+      "lokasi": "Pusat gempa berada di laut 117 Km Barat Daya Banda Aceh", 
+      "waktu": "12/05/2022 00:27:36 WIB"
 }
