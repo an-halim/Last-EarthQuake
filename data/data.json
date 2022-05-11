@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220510035411.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "58 Km", 
-      "koordinat": "0.64 LU 122.15 BT", 
-      "lokasi": "Pusat gempa berada di darat 25 km barat laut Boalemo", 
-      "waktu": "10/05/2022 03:54:11 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220511083427.mmi.jpg", 
+      "magnitude": "3.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.62 LS 120.48 BT", 
+      "lokasi": "Pusat gempa berada di darat 1 km tenggara Ruteng, Manggarai", 
+      "waktu": "11/05/2022 08:34:27 WIB"
 }
