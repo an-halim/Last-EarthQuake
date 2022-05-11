@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220512002736.mmi.jpg", 
-      "magnitude": "5.2", 
-      "kedalaman": "13 Km", 
-      "koordinat": "4.6 LU 94.84 BT", 
-      "lokasi": "Pusat gempa berada di laut 117 Km Barat Daya Banda Aceh", 
-      "waktu": "12/05/2022 00:27:36 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220512004303.mmi.jpg", 
+      "magnitude": "3.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "6.89 LS 113.99 BT", 
+      "lokasi": "Pusat gempa berada di darat 21 km timur laut Sumenep", 
+      "waktu": "12/05/2022 00:43:03 WIB"
 }
