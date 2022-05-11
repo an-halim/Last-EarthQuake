@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220511091855.mmi.jpg", 
-      "magnitude": "3.9", 
-      "kedalaman": "7 Km", 
-      "koordinat": "3.78 LS 119.4 BT", 
-      "lokasi": "Pusat gempa berada di laut 22 km barat daya Pinrang", 
-      "waktu": "11/05/2022 09:18:55 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220511232012.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "27 Km", 
+      "koordinat": "3.71 LU 126.81 BT", 
+      "lokasi": "Pusat gempa berada di laut 36 km tenggara Melonguane", 
+      "waktu": "11/05/2022 23:20:12 WIB"
 }
