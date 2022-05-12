@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220512120730.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220512142212.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 6 km BaratLaut Maligano <br>
-Magnitude: 4.2 <br>
-Kedalaman: 8 Km <br>
-Koordinat: 4.71 LS 122.79 BT <br>
-Waktu: 12/05/2022 12:07:30 WIB <br>
+Lokasi: Pusat gempa berada di laut 74 km Barat Daya Bolaanguki-BolSel <br>
+Magnitude: 5.2 <br>
+Kedalaman: 116 Km <br>
+Koordinat: 0.06 LS 123.48 BT <br>
+Waktu: 12/05/2022 14:22:12 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
