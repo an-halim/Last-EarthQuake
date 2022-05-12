@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220512004303.mmi.jpg", 
-      "magnitude": "3.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "6.89 LS 113.99 BT", 
-      "lokasi": "Pusat gempa berada di darat 21 km timur laut Sumenep", 
-      "waktu": "12/05/2022 00:43:03 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220512120730.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "8 Km", 
+      "koordinat": "4.71 LS 122.79 BT", 
+      "lokasi": "Pusat gempa berada di laut 6 km BaratLaut Maligano", 
+      "waktu": "12/05/2022 12:07:30 WIB"
 }
