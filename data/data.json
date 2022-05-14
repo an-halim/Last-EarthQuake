@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220512142212.mmi.jpg", 
-      "magnitude": "5.2", 
-      "kedalaman": "116 Km", 
-      "koordinat": "0.06 LS 123.48 BT", 
-      "lokasi": "Pusat gempa berada di laut 74 km Barat Daya Bolaanguki-BolSel", 
-      "waktu": "12/05/2022 14:22:12 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220514092520.mmi.jpg", 
+      "magnitude": "5.3", 
+      "kedalaman": "90 Km", 
+      "koordinat": "3.06 LS 139.86 BT", 
+      "lokasi": "Pusat gempa berada di darat 8 km tenggara Kab. Jayapura", 
+      "waktu": "14/05/2022 09:25:20 WIB"
 }
