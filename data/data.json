@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220514092520.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "90 Km", 
-      "koordinat": "3.06 LS 139.86 BT", 
-      "lokasi": "Pusat gempa berada di darat 8 km tenggara Kab. Jayapura", 
-      "waktu": "14/05/2022 09:25:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220515054204.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "4 Km", 
+      "koordinat": "4.11 LS 121.64 BT", 
+      "lokasi": "Pusat gempa berada di darat 4.2 km barat laut Kolaka", 
+      "waktu": "15/05/2022 05:42:04 WIB"
 }
