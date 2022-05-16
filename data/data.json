@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220515064027.mmi.jpg", 
-      "magnitude": "2.7", 
-      "kedalaman": "2 Km", 
-      "koordinat": "4.12 LS 121.67 BT", 
-      "lokasi": "Pusat gempa berada di darat 1.1 km barat daya Kolaka", 
-      "waktu": "15/05/2022 06:40:27 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220516171348.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "77 Km", 
+      "koordinat": "0.56 LU 122.14 BT", 
+      "lokasi": "Pusat gempa berada di darat 23 km Barat Laut Boalemo", 
+      "waktu": "16/05/2022 17:13:48 WIB"
 }
