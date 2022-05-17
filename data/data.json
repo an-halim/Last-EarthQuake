@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220517141130.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "121 Km", 
-      "koordinat": "3.57 LS 140.46 BT", 
-      "lokasi": "Pusat gempa berada di darat 41 km barat daya Keerom", 
-      "waktu": "17/05/2022 14:11:30 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220517194111.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.73 LS 128.35 BT", 
+      "lokasi": "Pusat gempa berada di laut 89 km tenggara Maluku Baratdaya", 
+      "waktu": "17/05/2022 19:41:11 WIB"
 }
