@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220519041208.mmi.jpg", 
-      "magnitude": "2.9", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220519222916.mmi.jpg", 
+      "magnitude": "5.5", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.63 LS 128.17 BT", 
-      "lokasi": "Pusat gempa berada di darat 7 km Utara Ambon", 
-      "waktu": "19/05/2022 04:12:08 WIB"
+      "koordinat": "1.75 LU 126.38 BT", 
+      "lokasi": "Pusat gempa berada di laut 141 km baratLaut Halmahera barat", 
+      "waktu": "19/05/2022 22:29:16 WIB"
 }
