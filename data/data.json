@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220523003814.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "60 Km", 
-      "koordinat": "0.48 LS 99.56 BT", 
-      "lokasi": "Pusat gempa berada di laut 55 km Baratdaya Lubukbasung", 
-      "waktu": "23/05/2022 00:38:14 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220523193202.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "41 Km", 
+      "koordinat": "4.61 LS 102.75 BT", 
+      "lokasi": "Pusat gempa berada di laut 25 km baratdaya Bengkulu Selatan", 
+      "waktu": "23/05/2022 19:32:02 WIB"
 }
