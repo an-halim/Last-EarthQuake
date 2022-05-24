@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220523193202.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "41 Km", 
-      "koordinat": "4.61 LS 102.75 BT", 
-      "lokasi": "Pusat gempa berada di laut 25 km baratdaya Bengkulu Selatan", 
-      "waktu": "23/05/2022 19:32:02 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220525041856.mmi.jpg", 
+      "magnitude": "4.4", 
+      "kedalaman": "24 Km", 
+      "koordinat": "9.5 LS 115.89 BT", 
+      "lokasi": "Pusat gempa berada di laut 94 km barat daya Lombok Barat", 
+      "waktu": "25/05/2022 04:18:56 WIB"
 }

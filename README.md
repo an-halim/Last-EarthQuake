@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220523193202.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220525041856.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 25 km baratdaya Bengkulu Selatan <br>
-Magnitude: 4.9 <br>
-Kedalaman: 41 Km <br>
-Koordinat: 4.61 LS 102.75 BT <br>
-Waktu: 23/05/2022 19:32:02 WIB <br>
+Lokasi: Pusat gempa berada di laut 94 km barat daya Lombok Barat <br>
+Magnitude: 4.4 <br>
+Kedalaman: 24 Km <br>
+Koordinat: 9.5 LS 115.89 BT <br>
+Waktu: 25/05/2022 04:18:56 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
