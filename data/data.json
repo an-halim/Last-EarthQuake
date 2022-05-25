@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220525041856.mmi.jpg", 
-      "magnitude": "4.4", 
-      "kedalaman": "24 Km", 
-      "koordinat": "9.5 LS 115.89 BT", 
-      "lokasi": "Pusat gempa berada di laut 94 km barat daya Lombok Barat", 
-      "waktu": "25/05/2022 04:18:56 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220525202049.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.4 LS 118.55 BT", 
+      "lokasi": "Pusat gempa berada di darat 17 km timur laut Dompu", 
+      "waktu": "25/05/2022 20:20:49 WIB"
 }
