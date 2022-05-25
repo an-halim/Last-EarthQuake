@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220525220506.mmi.jpg", 
-      "magnitude": "6.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "4.71 LS 92.67 BT", 
-      "lokasi": "Pusat gempa berada di laut 819 km BaratDaya Nias Selatan", 
-      "waktu": "25/05/2022 22:05:06 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220526032445.mmi.jpg", 
+      "magnitude": "3.1", 
+      "kedalaman": "2 Km", 
+      "koordinat": "5.89 LU 95.19 BT", 
+      "lokasi": "Pusat gempa berada di laut 14 km BaratDaya Kota Sabang", 
+      "waktu": "26/05/2022 03:24:45 WIB"
 }
