@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220526205321.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "4 Km", 
-      "koordinat": "4.85 LU 96.06 BT", 
-      "lokasi": "Pusat gempa berada di darat 29 km barat daya Kab. Pidie Jaya", 
-      "waktu": "26/05/2022 20:53:21 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220526235512.mmi.jpg", 
+      "magnitude": "3", 
+      "kedalaman": "7 Km", 
+      "koordinat": "0.91 LS 119.94 BT", 
+      "lokasi": "Pusat gempa berada di darat 8 km Timur Palu", 
+      "waktu": "26/05/2022 23:55:12 WIB"
 }
