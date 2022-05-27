@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220526235512.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "7 Km", 
-      "koordinat": "0.91 LS 119.94 BT", 
-      "lokasi": "Pusat gempa berada di darat 8 km Timur Palu", 
-      "waktu": "26/05/2022 23:55:12 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220527073850.mmi.jpg", 
+      "magnitude": "4", 
+      "kedalaman": "25 Km", 
+      "koordinat": "8.16 LS 107.92 BT", 
+      "lokasi": "Pusat gempa berada di laut 81 km BaratDaya Pangandaran", 
+      "waktu": "27/05/2022 07:38:50 WIB"
 }
