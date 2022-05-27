@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220527073850.mmi.jpg", 
-      "magnitude": "4", 
-      "kedalaman": "25 Km", 
-      "koordinat": "8.16 LS 107.92 BT", 
-      "lokasi": "Pusat gempa berada di laut 81 km BaratDaya Pangandaran", 
-      "waktu": "27/05/2022 07:38:50 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220527093606.mmi.jpg", 
+      "magnitude": "6.5", 
+      "kedalaman": "104 Km", 
+      "koordinat": "8.64 LS 127.2 BT", 
+      "lokasi": "Pusat gempa berada di laut 85 km BaratDaya Maluku Barat Daya", 
+      "waktu": "27/05/2022 09:36:06 WIB"
 }
