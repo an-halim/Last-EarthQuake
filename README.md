@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220527093606.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220530134240.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 85 km BaratDaya Maluku Barat Daya <br>
-Magnitude: 6.5 <br>
-Kedalaman: 104 Km <br>
-Koordinat: 8.64 LS 127.2 BT <br>
-Waktu: 27/05/2022 09:36:06 WIB <br>
+Lokasi: Pusat gempa berada di laut 55 km BaratDaya Painan-Pesisir Selatan <br>
+Magnitude: 4.1 <br>
+Kedalaman: 23 Km <br>
+Koordinat: 1.75 LS 100.29 BT <br>
+Waktu: 30/05/2022 13:42:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
