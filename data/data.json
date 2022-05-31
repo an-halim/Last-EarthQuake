@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220531081026.mmi.jpg", 
-      "magnitude": "4.1", 
-      "kedalaman": "5 Km", 
-      "koordinat": "3.86 LU 97.33 BT", 
-      "lokasi": "Pusat gempa berada di darat 15 km baratdaya Gayo Lues", 
-      "waktu": "31/05/2022 08:10:26 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220531141006.mmi.jpg", 
+      "magnitude": "5.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "6.18 LS 104.11 BT", 
+      "lokasi": "Pusat gempa berada di laut 100 km barat daya Tanggamus", 
+      "waktu": "31/05/2022 14:10:06 WIB"
 }
