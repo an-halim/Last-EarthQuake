@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220530134240.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220531081026.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 55 km BaratDaya Painan-Pesisir Selatan <br>
+Lokasi: Pusat gempa berada di darat 15 km baratdaya Gayo Lues <br>
 Magnitude: 4.1 <br>
-Kedalaman: 23 Km <br>
-Koordinat: 1.75 LS 100.29 BT <br>
-Waktu: 30/05/2022 13:42:40 WIB <br>
+Kedalaman: 5 Km <br>
+Koordinat: 3.86 LU 97.33 BT <br>
+Waktu: 31/05/2022 08:10:26 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
