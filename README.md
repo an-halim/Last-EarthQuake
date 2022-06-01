@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220531141006.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220602055545.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 100 km barat daya Tanggamus <br>
-Magnitude: 5.4 <br>
+Lokasi: Pusat gempa berada di laut 62 km BaratDaya Labuha <br>
+Magnitude: 5 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 6.18 LS 104.11 BT <br>
-Waktu: 31/05/2022 14:10:06 WIB <br>
+Koordinat: 1.11 LS 127.18 BT <br>
+Waktu: 02/06/2022 05:55:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

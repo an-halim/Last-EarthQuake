@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220531141006.mmi.jpg", 
-      "magnitude": "5.4", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220602055545.mmi.jpg", 
+      "magnitude": "5", 
       "kedalaman": "10 Km", 
-      "koordinat": "6.18 LS 104.11 BT", 
-      "lokasi": "Pusat gempa berada di laut 100 km barat daya Tanggamus", 
-      "waktu": "31/05/2022 14:10:06 WIB"
+      "koordinat": "1.11 LS 127.18 BT", 
+      "lokasi": "Pusat gempa berada di laut 62 km BaratDaya Labuha", 
+      "waktu": "02/06/2022 05:55:45 WIB"
 }
