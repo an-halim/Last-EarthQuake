@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220603003127.mmi.jpg", 
-      "magnitude": "4.8", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220603021955.mmi.jpg", 
+      "magnitude": "5", 
       "kedalaman": "10 Km", 
-      "koordinat": "2.12 LS 120.55 BT", 
-      "lokasi": "Pusat gempa berada di darat 66 km TimurLaut LUWU UTARA", 
-      "waktu": "03/06/2022 00:31:27 WIB"
+      "koordinat": "0.62 LS 124.42 BT", 
+      "lokasi": "Pusat gempa berada di laut 120 km tenggara Bolaanguki-Bolaang Mongondow Selatan", 
+      "waktu": "03/06/2022 02:19:55 WIB"
 }
