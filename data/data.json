@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220602072640.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "2 Km", 
-      "koordinat": "1.66 LU 99.18 BT", 
-      "lokasi": "Pusat gempa berada di darat 12 km BaratLaut Tapanuli Selatan", 
-      "waktu": "02/06/2022 07:26:40 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220602140447.mmi.jpg", 
+      "magnitude": "2.7", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.62 LS 120.44 BT", 
+      "lokasi": "Pusat gempa berada di darat 2 km BaratDaya RUTENG-MANGGARAI", 
+      "waktu": "02/06/2022 14:04:47 WIB"
 }
