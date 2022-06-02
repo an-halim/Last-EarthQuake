@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220602150255.mmi.jpg", 
-      "magnitude": "3.6", 
-      "kedalaman": "11 Km", 
-      "koordinat": "8.31 LS 120.58 BT", 
-      "lokasi": "Pusat gempa berada di darat 35 km timur laut Ruteng", 
-      "waktu": "02/06/2022 15:02:55 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220603003127.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.12 LS 120.55 BT", 
+      "lokasi": "Pusat gempa berada di darat 66 km TimurLaut LUWU UTARA", 
+      "waktu": "03/06/2022 00:31:27 WIB"
 }
