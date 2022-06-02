@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220603021955.mmi.jpg", 
-      "magnitude": "5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220603031910.mmi.jpg", 
+      "magnitude": "3.9", 
       "kedalaman": "10 Km", 
-      "koordinat": "0.62 LS 124.42 BT", 
-      "lokasi": "Pusat gempa berada di laut 120 km tenggara Bolaanguki-Bolaang Mongondow Selatan", 
-      "waktu": "03/06/2022 02:19:55 WIB"
+      "koordinat": "3.43 LS 128.83 BT", 
+      "lokasi": "Pusat gempa berada di laut 15 km baratdaya Masohi", 
+      "waktu": "03/06/2022 03:19:10 WIB"
 }
