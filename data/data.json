@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220602055545.mmi.jpg", 
-      "magnitude": "5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "1.11 LS 127.18 BT", 
-      "lokasi": "Pusat gempa berada di laut 62 km BaratDaya Labuha", 
-      "waktu": "02/06/2022 05:55:45 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220602072640.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "2 Km", 
+      "koordinat": "1.66 LU 99.18 BT", 
+      "lokasi": "Pusat gempa berada di darat 12 km BaratLaut Tapanuli Selatan", 
+      "waktu": "02/06/2022 07:26:40 WIB"
 }
