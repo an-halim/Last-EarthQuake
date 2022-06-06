@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220603070447.mmi.jpg", 
-      "magnitude": "2.6", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.65 LS 128.16 BT", 
-      "lokasi": "Pusat gempa berada di darat 6 km Baratlaut Ambon", 
-      "waktu": "03/06/2022 07:04:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220606104439.mmi.jpg", 
+      "magnitude": "5.1", 
+      "kedalaman": "104 Km", 
+      "koordinat": "8.66 LS 118.39 BT", 
+      "lokasi": "Pusat gempa berada di laut 16 km BaratDaya Dompu", 
+      "waktu": "06/06/2022 10:44:39 WIB"
 }
