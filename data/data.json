@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220607130313.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "10 Km", 
-      "koordinat": "8.17 LS 117.31 BT", 
-      "lokasi": "Pusat gempa berada di laut 37 km Barat Laut Sumbawa", 
-      "waktu": "07/06/2022 13:03:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220607202414.mmi.jpg", 
+      "magnitude": "5.8", 
+      "kedalaman": "137 Km", 
+      "koordinat": "0.08 LU 123.7 BT", 
+      "lokasi": "Pusat gempa berada di laut 45 km barat daya Bolaang Uki, Bolaang", 
+      "waktu": "07/06/2022 20:24:14 WIB"
 }
