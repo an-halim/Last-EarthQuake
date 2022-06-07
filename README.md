@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220606104439.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220607082738.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 16 km BaratDaya Dompu <br>
-Magnitude: 5.1 <br>
-Kedalaman: 104 Km <br>
-Koordinat: 8.66 LS 118.39 BT <br>
-Waktu: 06/06/2022 10:44:39 WIB <br>
+Lokasi: Pusat gempa berada di darat 46 km Tenggara Donggala <br>
+Magnitude: 2.7 <br>
+Kedalaman: 4 Km <br>
+Koordinat: 0.82 LS 119.96 BT <br>
+Waktu: 07/06/2022 08:27:38 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
