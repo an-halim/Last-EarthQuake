@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220607090648.mmi.jpg", 
-      "magnitude": "3.5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220607130313.mmi.jpg", 
+      "magnitude": "4.6", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.37 LS 128.38 BT", 
-      "lokasi": "Pusat gempa berada di darat 4 km Tenggara Kairatu", 
-      "waktu": "07/06/2022 09:06:48 WIB"
+      "koordinat": "8.17 LS 117.31 BT", 
+      "lokasi": "Pusat gempa berada di laut 37 km Barat Laut Sumbawa", 
+      "waktu": "07/06/2022 13:03:13 WIB"
 }
