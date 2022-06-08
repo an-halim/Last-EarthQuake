@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220608194759.mmi.jpg", 
-      "magnitude": "4.8", 
-      "kedalaman": "5 Km", 
-      "koordinat": "2.75 LS 118.5 BT", 
-      "lokasi": "Pusat gempa berada di laut 54 km BaratLaut Majene", 
-      "waktu": "08/06/2022 19:47:59 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220608212520.mmi.jpg", 
+      "magnitude": "2.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.26 LS 128.34 BT", 
+      "lokasi": "Pusat gempa berada di darat 9 km utara Kairatu", 
+      "waktu": "08/06/2022 21:25:20 WIB"
 }
