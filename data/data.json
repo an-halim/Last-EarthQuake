@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220608123236.mmi.jpg", 
-      "magnitude": "5.8", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.74 LS 118.54 BT", 
-      "lokasi": "Pusat gempa berada di laut 43 km Barat Daya Mamuju", 
-      "waktu": "08/06/2022 12:32:36 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220608194759.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "5 Km", 
+      "koordinat": "2.75 LS 118.5 BT", 
+      "lokasi": "Pusat gempa berada di laut 54 km BaratLaut Majene", 
+      "waktu": "08/06/2022 19:47:59 WIB"
 }
