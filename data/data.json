@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220607202414.mmi.jpg", 
-      "magnitude": "5.8", 
-      "kedalaman": "137 Km", 
-      "koordinat": "0.08 LU 123.7 BT", 
-      "lokasi": "Pusat gempa berada di laut 45 km barat daya Bolaang Uki, Bolaang", 
-      "waktu": "07/06/2022 20:24:14 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220608105442.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.76 LS 133.81 BT", 
+      "lokasi": "Pusat gempa berada di darat 22 km barat laut Pegunungan Arfak", 
+      "waktu": "08/06/2022 10:54:42 WIB"
 }
