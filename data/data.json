@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220609160121.mmi.jpg", 
-      "magnitude": "4", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220609183337.mmi.jpg", 
+      "magnitude": "4.2", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.47 LS 128.82 BT", 
-      "lokasi": "Pusat gempa berada di laut 19 km BaratDaya Masohi-MALTENG", 
-      "waktu": "09/06/2022 16:01:21 WIB"
+      "koordinat": "9.19 LS 125.03 BT", 
+      "lokasi": "Pusat gempa berada di darat 14 km tenggara Belu", 
+      "waktu": "09/06/2022 18:33:37 WIB"
 }
