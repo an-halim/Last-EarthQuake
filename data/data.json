@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220608212520.mmi.jpg", 
-      "magnitude": "2.5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220609160121.mmi.jpg", 
+      "magnitude": "4", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.26 LS 128.34 BT", 
-      "lokasi": "Pusat gempa berada di darat 9 km utara Kairatu", 
-      "waktu": "08/06/2022 21:25:20 WIB"
+      "koordinat": "3.47 LS 128.82 BT", 
+      "lokasi": "Pusat gempa berada di laut 19 km BaratDaya Masohi-MALTENG", 
+      "waktu": "09/06/2022 16:01:21 WIB"
 }
