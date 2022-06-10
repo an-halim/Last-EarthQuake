@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220609183337.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "9.19 LS 125.03 BT", 
-      "lokasi": "Pusat gempa berada di darat 14 km tenggara Belu", 
-      "waktu": "09/06/2022 18:33:37 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220610190802.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "64 Km", 
+      "koordinat": "0.21 LS 122.95 BT", 
+      "lokasi": "Pusat gempa berada di laut 85 km barat daya Bonebolango", 
+      "waktu": "10/06/2022 19:08:02 WIB"
 }
