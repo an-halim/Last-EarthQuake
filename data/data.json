@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220610190802.mmi.jpg", 
-      "magnitude": "4.8", 
-      "kedalaman": "64 Km", 
-      "koordinat": "0.21 LS 122.95 BT", 
-      "lokasi": "Pusat gempa berada di laut 85 km barat daya Bonebolango", 
-      "waktu": "10/06/2022 19:08:02 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220611220316.mmi.jpg", 
+      "magnitude": "2.4", 
+      "kedalaman": "4 Km", 
+      "koordinat": "6.97 LS 107.16 BT", 
+      "lokasi": "Pusat gempa berada di darat 16 km tenggara Kab-Cianjur", 
+      "waktu": "11/06/2022 22:03:16 WIB"
 }
