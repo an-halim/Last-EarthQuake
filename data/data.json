@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220611220316.mmi.jpg", 
-      "magnitude": "2.4", 
-      "kedalaman": "4 Km", 
-      "koordinat": "6.97 LS 107.16 BT", 
-      "lokasi": "Pusat gempa berada di darat 16 km tenggara Kab-Cianjur", 
-      "waktu": "11/06/2022 22:03:16 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220612051827.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "7 Km", 
+      "koordinat": "2.39 LS 121.35 BT", 
+      "lokasi": "Pusat gempa berada di darat 15 Km Utara Soroako Kabupaten Luwu Timur", 
+      "waktu": "12/06/2022 05:18:27 WIB"
 }
