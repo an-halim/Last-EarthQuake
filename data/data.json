@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220612102526.mmi.jpg", 
-      "magnitude": "4.7", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220612160845.mmi.jpg", 
+      "magnitude": "3.6", 
       "kedalaman": "10 Km", 
-      "koordinat": "9.72 LS 119.08 BT", 
-      "lokasi": "Pusat gempa berada di laut 17 km Tenggara KODI-SUMBA BARAT DAYA", 
-      "waktu": "12/06/2022 10:25:26 WIB"
+      "koordinat": "3.8 LS 128.26 BT", 
+      "lokasi": "Pusat gempa berada di laut 15 km Tenggara Ambon", 
+      "waktu": "12/06/2022 16:08:45 WIB"
 }
