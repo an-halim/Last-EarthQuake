@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220612051827.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "7 Km", 
-      "koordinat": "2.39 LS 121.35 BT", 
-      "lokasi": "Pusat gempa berada di darat 15 Km Utara Soroako Kabupaten Luwu Timur", 
-      "waktu": "12/06/2022 05:18:27 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220612065532.mmi.jpg", 
+      "magnitude": "5.3", 
+      "kedalaman": "79 Km", 
+      "koordinat": "8.67 LS 111.42 BT", 
+      "lokasi": "Pusat gempa berada di laut 64 km tenggara Pacitan", 
+      "waktu": "12/06/2022 06:55:32 WIB"
 }
