@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220612065532.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "79 Km", 
-      "koordinat": "8.67 LS 111.42 BT", 
-      "lokasi": "Pusat gempa berada di laut 64 km tenggara Pacitan", 
-      "waktu": "12/06/2022 06:55:32 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220612102526.mmi.jpg", 
+      "magnitude": "4.7", 
+      "kedalaman": "10 Km", 
+      "koordinat": "9.72 LS 119.08 BT", 
+      "lokasi": "Pusat gempa berada di laut 17 km Tenggara KODI-SUMBA BARAT DAYA", 
+      "waktu": "12/06/2022 10:25:26 WIB"
 }
