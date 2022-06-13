@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220612210454.mmi.jpg", 
-      "magnitude": "3.5", 
-      "kedalaman": "11 Km", 
-      "koordinat": "7.06 LS 120.97 BT", 
-      "lokasi": "Pusat gempa berada di laut 100 km tenggara Selayar", 
-      "waktu": "12/06/2022 21:04:54 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220613143842.mmi.jpg", 
+      "magnitude": "3.8", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.74 LS 135.88 BT", 
+      "lokasi": "Pusat gempa berada di laut 87 Km Timur laut Nabire", 
+      "waktu": "13/06/2022 14:38:42 WIB"
 }
