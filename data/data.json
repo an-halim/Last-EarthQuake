@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220618182219.mmi.jpg", 
-      "magnitude": "5.4", 
-      "kedalaman": "26 Km", 
-      "koordinat": "4.93 LS 102.98 BT", 
-      "lokasi": "Pusat gempa berada di laut 43 km Barat Daya Kaur", 
-      "waktu": "18/06/2022 18:22:19 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220619013154.mmi.jpg", 
+      "magnitude": "2.6", 
+      "kedalaman": "5 Km", 
+      "koordinat": "7.27 LS 110.22 BT", 
+      "lokasi": "Pusat gempa berada di darat 6 km TimurLaut Temanggung", 
+      "waktu": "19/06/2022 01:31:54 WIB"
 }
