@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220613192536.mmi.jpg", 
-      "magnitude": "2.6", 
-      "kedalaman": "10 Km", 
-      "koordinat": "4.68 LS 123.32 BT", 
-      "lokasi": "Pusat gempa berada di laut 12.5 km Timur laut Kulisusu Utara Buton", 
-      "waktu": "13/06/2022 19:25:36 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220618182219.mmi.jpg", 
+      "magnitude": "5.4", 
+      "kedalaman": "26 Km", 
+      "koordinat": "4.93 LS 102.98 BT", 
+      "lokasi": "Pusat gempa berada di laut 43 km Barat Daya Kaur", 
+      "waktu": "18/06/2022 18:22:19 WIB"
 }
