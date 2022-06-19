@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220619013154.mmi.jpg", 
-      "magnitude": "2.6", 
-      "kedalaman": "5 Km", 
-      "koordinat": "7.27 LS 110.22 BT", 
-      "lokasi": "Pusat gempa berada di darat 6 km TimurLaut Temanggung", 
-      "waktu": "19/06/2022 01:31:54 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220619225149.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "7 Km", 
+      "koordinat": "2.98 LS 118.86 BT", 
+      "lokasi": "Pusat gempa berada di darat 7 km barat laut Majene", 
+      "waktu": "19/06/2022 22:51:49 WIB"
 }
