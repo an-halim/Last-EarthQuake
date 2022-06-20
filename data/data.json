@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220619225149.mmi.jpg", 
-      "magnitude": "3.6", 
-      "kedalaman": "7 Km", 
-      "koordinat": "2.98 LS 118.86 BT", 
-      "lokasi": "Pusat gempa berada di darat 7 km barat laut Majene", 
-      "waktu": "19/06/2022 22:51:49 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220620120137.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "77 Km", 
+      "koordinat": "2.2 LU 96.23 BT", 
+      "lokasi": "Pusat gempa berada di laut 33 km barat daya Sinabang", 
+      "waktu": "20/06/2022 12:01:37 WIB"
 }
