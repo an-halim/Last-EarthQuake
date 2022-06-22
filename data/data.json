@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220622020817.mmi.jpg", 
-      "magnitude": "5.3", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220622134808.mmi.jpg", 
+      "magnitude": "4.9", 
       "kedalaman": "10 Km", 
-      "koordinat": "2.08 LU 96.35 BT", 
-      "lokasi": "Pusat gempa berada di laut 43 km baratdaya Sinabang", 
-      "waktu": "22/06/2022 02:08:17 WIB"
+      "koordinat": "2.1 LU 96.46 BT", 
+      "lokasi": "Pusat gempa berada di laut 42 km tenggara Sinabang", 
+      "waktu": "22/06/2022 13:48:08 WIB"
 }
