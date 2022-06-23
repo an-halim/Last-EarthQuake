@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220622134808.mmi.jpg", 
-      "magnitude": "4.9", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220623110347.mmi.jpg", 
+      "magnitude": "2.8", 
       "kedalaman": "10 Km", 
-      "koordinat": "2.1 LU 96.46 BT", 
-      "lokasi": "Pusat gempa berada di laut 42 km tenggara Sinabang", 
-      "waktu": "22/06/2022 13:48:08 WIB"
+      "koordinat": "3.33 LS 135.64 BT", 
+      "lokasi": "Pusat gempa berada di darat 23 km BaratLaut Nabire", 
+      "waktu": "23/06/2022 11:03:47 WIB"
 }
