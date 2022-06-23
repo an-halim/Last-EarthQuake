@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220623182647.mmi.jpg", 
-      "magnitude": "3.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.63 LS 135.56 BT", 
-      "lokasi": "Pusat gempa berada di darat 25 km BaratDaya Nabire", 
-      "waktu": "23/06/2022 18:26:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220623190455.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "13 Km", 
+      "koordinat": "3.46 LS 135.54 BT", 
+      "lokasi": "Pusat gempa berada di darat 24 km BaratLaut Nabire", 
+      "waktu": "23/06/2022 19:04:55 WIB"
 }
