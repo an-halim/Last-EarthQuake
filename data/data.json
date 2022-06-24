@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220624212254.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "13 Km", 
-      "koordinat": "4.74 LU 94.89 BT", 
-      "lokasi": "Pusat gempa berada di laut 77 km Barat laut Calang - Aceh", 
-      "waktu": "24/06/2022 21:22:54 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220625015634.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "24 Km", 
+      "koordinat": "1.86 LS 100.36 BT", 
+      "lokasi": "Pusat gempa berada di laut 60 km BaratLaut Airhaji-Pesisir selatan", 
+      "waktu": "25/06/2022 01:56:34 WIB"
 }
