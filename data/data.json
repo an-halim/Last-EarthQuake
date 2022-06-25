@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220625015634.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "24 Km", 
-      "koordinat": "1.86 LS 100.36 BT", 
-      "lokasi": "Pusat gempa berada di laut 60 km BaratLaut Airhaji-Pesisir selatan", 
-      "waktu": "25/06/2022 01:56:34 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220625152526.mmi.jpg", 
+      "magnitude": "3", 
+      "kedalaman": "10 Km", 
+      "koordinat": "6.91 LS 106.23 BT", 
+      "lokasi": "Pusat gempa berada di darat 3 km Barat Laut Bayah", 
+      "waktu": "25/06/2022 15:25:26 WIB"
 }
