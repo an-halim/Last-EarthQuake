@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220626124347.mmi.jpg", 
-      "magnitude": "3.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.63 LS 135.7 BT", 
-      "lokasi": "Pusat gempa berada di darat 15 km baratdaya Nabire", 
-      "waktu": "26/06/2022 12:43:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220626192536.mmi.jpg", 
+      "magnitude": "4.4", 
+      "kedalaman": "81 Km", 
+      "koordinat": "8.76 LS 115.32 BT", 
+      "lokasi": "Pusat gempa berada di laut 11 km timur laut Kuta Selatan", 
+      "waktu": "26/06/2022 19:25:36 WIB"
 }
