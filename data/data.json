@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220628225212.mmi.jpg", 
-      "magnitude": "5", 
-      "kedalaman": "78 Km", 
-      "koordinat": "9.41 LS 123.67 BT", 
-      "lokasi": "Pusat gempa berada di laut 68 km Baratlaut Kupang", 
-      "waktu": "28/06/2022 22:52:12 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220629024215.mmi.jpg", 
+      "magnitude": "2.7", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.65 LS 128.19 BT", 
+      "lokasi": "Pusat gempa berada di darat 5 km Utara Ambon", 
+      "waktu": "29/06/2022 02:42:15 WIB"
 }
