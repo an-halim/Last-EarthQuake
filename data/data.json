@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220629024215.mmi.jpg", 
-      "magnitude": "2.7", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220629074132.mmi.jpg", 
+      "magnitude": "4.8", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.65 LS 128.19 BT", 
-      "lokasi": "Pusat gempa berada di darat 5 km Utara Ambon", 
-      "waktu": "29/06/2022 02:42:15 WIB"
+      "koordinat": "0.73 LU 125 BT", 
+      "lokasi": "Pusat gempa berada di laut 42 km Tenggara Ratahan-Mitra", 
+      "waktu": "29/06/2022 07:41:32 WIB"
 }
