@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220630222243.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.42 LS 140.43 BT", 
-      "lokasi": "Pusat gempa berada di darat 18 km timur laut Kab. Jayapura", 
-      "waktu": "30/06/2022 22:22:43 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220701085458.mmi.jpg", 
+      "magnitude": "3.1", 
+      "kedalaman": "5 Km", 
+      "koordinat": "4.88 LU 96.04 BT", 
+      "lokasi": "Pusat gempa berada di darat 29 km BaratDaya Kab. PidieJaya", 
+      "waktu": "01/07/2022 08:54:58 WIB"
 }
