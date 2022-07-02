@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220701085458.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "5 Km", 
-      "koordinat": "4.88 LU 96.04 BT", 
-      "lokasi": "Pusat gempa berada di darat 29 km BaratDaya Kab. PidieJaya", 
-      "waktu": "01/07/2022 08:54:58 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220703020528.mmi.jpg", 
+      "magnitude": "4.1", 
+      "kedalaman": "10 Km", 
+      "koordinat": "8.05 LS 116.81 BT", 
+      "lokasi": "Pusat gempa berada di laut 44 km baratlaut Pulau Panjang", 
+      "waktu": "03/07/2022 02:05:28 WIB"
 }
