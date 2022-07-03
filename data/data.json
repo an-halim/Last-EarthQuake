@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220703020528.mmi.jpg", 
-      "magnitude": "4.1", 
-      "kedalaman": "10 Km", 
-      "koordinat": "8.05 LS 116.81 BT", 
-      "lokasi": "Pusat gempa berada di laut 44 km baratlaut Pulau Panjang", 
-      "waktu": "03/07/2022 02:05:28 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220703072844.mmi.jpg", 
+      "magnitude": "3.8", 
+      "kedalaman": "3 Km", 
+      "koordinat": "4.42 LU 96.59 BT", 
+      "lokasi": "Pusat gempa berada di darat 36 km Baratdaya Takengon-Aceh Tengah", 
+      "waktu": "03/07/2022 07:28:44 WIB"
 }
