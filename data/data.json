@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220703072844.mmi.jpg", 
-      "magnitude": "3.8", 
-      "kedalaman": "3 Km", 
-      "koordinat": "4.42 LU 96.59 BT", 
-      "lokasi": "Pusat gempa berada di darat 36 km Baratdaya Takengon-Aceh Tengah", 
-      "waktu": "03/07/2022 07:28:44 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220706062708.mmi.jpg", 
+      "magnitude": "5", 
+      "kedalaman": "13 Km", 
+      "koordinat": "0.87 LU 126.89 BT", 
+      "lokasi": "Pusat gempa berada di laut 54 km barat laut Ternate", 
+      "waktu": "06/07/2022 06:27:08 WIB"
 }
