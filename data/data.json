@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220707213520.mmi.jpg", 
-      "magnitude": "3.9", 
-      "kedalaman": "30 Km", 
-      "koordinat": "8.13 LS 120.55 BT", 
-      "lokasi": "Pusat gempa berada di laut 54 km Timur laut Ruteng - Manggarai", 
-      "waktu": "07/07/2022 21:35:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220709032707.mmi.jpg", 
+      "magnitude": "5.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "9.64 LS 112.91 BT", 
+      "lokasi": "Pusat gempa berada di laut 171 km Barat Daya Lumajang", 
+      "waktu": "09/07/2022 03:27:07 WIB"
 }
