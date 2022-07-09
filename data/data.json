@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220709032707.mmi.jpg", 
-      "magnitude": "5.4", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220709095344.mmi.jpg", 
+      "magnitude": "5.3", 
       "kedalaman": "10 Km", 
-      "koordinat": "9.64 LS 112.91 BT", 
-      "lokasi": "Pusat gempa berada di laut 171 km Barat Daya Lumajang", 
-      "waktu": "09/07/2022 03:27:07 WIB"
+      "koordinat": "9.61 LS 112.91 BT", 
+      "lokasi": "Pusat gempa berada di laut 167 km BaratDaya Lumajang", 
+      "waktu": "09/07/2022 09:53:44 WIB"
 }
