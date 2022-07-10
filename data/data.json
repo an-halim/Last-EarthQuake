@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220709095344.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "9.61 LS 112.91 BT", 
-      "lokasi": "Pusat gempa berada di laut 167 km BaratDaya Lumajang", 
-      "waktu": "09/07/2022 09:53:44 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220710155356.mmi.jpg", 
+      "magnitude": "4.6", 
+      "kedalaman": "1 Km", 
+      "koordinat": "1.24 LU 99.42 BT", 
+      "lokasi": "Pusat gempa berada di darat 21 km tenggara Padang Sidempuan", 
+      "waktu": "10/07/2022 15:53:56 WIB"
 }
