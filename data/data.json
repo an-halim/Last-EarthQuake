@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220710175515.mmi.jpg", 
-      "magnitude": "4.1", 
-      "kedalaman": "5 Km", 
-      "koordinat": "4.28 LS 136.03 BT", 
-      "lokasi": "Pusat gempa berada di darat 30 km tenggara Dogiyai", 
-      "waktu": "10/07/2022 17:55:15 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220712095207.mmi.jpg", 
+      "magnitude": "5.1", 
+      "kedalaman": "13 Km", 
+      "koordinat": "6.06 LS 104.22 BT", 
+      "lokasi": "Pusat gempa berada di laut 82 km barat daya Tanggamus", 
+      "waktu": "12/07/2022 09:52:07 WIB"
 }
