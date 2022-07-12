@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220712095207.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "13 Km", 
-      "koordinat": "6.06 LS 104.22 BT", 
-      "lokasi": "Pusat gempa berada di laut 82 km barat daya Tanggamus", 
-      "waktu": "12/07/2022 09:52:07 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220713061851.mmi.jpg", 
+      "magnitude": "3.8", 
+      "kedalaman": "7 Km", 
+      "koordinat": "2.47 LS 140.72 BT", 
+      "lokasi": "Pusat gempa berada di laut 8 km timur laut Kota Jayapura", 
+      "waktu": "13/07/2022 06:18:51 WIB"
 }
