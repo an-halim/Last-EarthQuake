@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220714095849.mmi.jpg", 
-      "magnitude": "5.4", 
-      "kedalaman": "25 Km", 
-      "koordinat": "0.07 LS 124.41 BT", 
-      "lokasi": "Pusat gempa berada di laut 68 km Tenggara Bolaanguki-Bolsel", 
-      "waktu": "14/07/2022 09:58:49 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220714133059.mmi.jpg", 
+      "magnitude": "3.3", 
+      "kedalaman": "13 Km", 
+      "koordinat": "6.88 LS 106.84 BT", 
+      "lokasi": "Pusat gempa berada di darat 10 km BaratLaut Kota Sukabumi", 
+      "waktu": "14/07/2022 13:30:59 WIB"
 }
