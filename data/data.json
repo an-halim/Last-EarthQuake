@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220715224739.mmi.jpg", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220716163635.mmi.jpg", 
       "magnitude": "3", 
-      "kedalaman": "3 Km", 
-      "koordinat": "0.41 LS 100.3 BT", 
-      "lokasi": "Pusat gempa berada di darat 11 km Barat Laut Padang Panjang", 
-      "waktu": "15/07/2022 22:47:39 WIB"
+      "kedalaman": "10 Km", 
+      "koordinat": "2.4 LS 140.74 BT", 
+      "lokasi": "Pusat gempa berada di laut 16 km timurlaut Jayapura", 
+      "waktu": "16/07/2022 16:36:35 WIB"
 }
