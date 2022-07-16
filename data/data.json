@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220716163635.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.4 LS 140.74 BT", 
-      "lokasi": "Pusat gempa berada di laut 16 km timurlaut Jayapura", 
-      "waktu": "16/07/2022 16:36:35 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220716220515.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "28 Km", 
+      "koordinat": "8.17 LS 107.89 BT", 
+      "lokasi": "Pusat gempa berada di laut 84 km BaratDaya Pangandaran", 
+      "waktu": "16/07/2022 22:05:15 WIB"
 }
