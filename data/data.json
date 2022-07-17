@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220717161305.mmi.jpg", 
-      "magnitude": "5.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "9.14 LS 110.83 BT", 
-      "lokasi": "Pusat gempa berada di Laut 111 km BaratDaya Pacitan", 
-      "waktu": "17/07/2022 16:13:05 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220717195837.mmi.jpg", 
+      "magnitude": "5.3", 
+      "kedalaman": "104 Km", 
+      "koordinat": "0.1 LS 123.12 BT", 
+      "lokasi": "Pusat gempa berada di laut 70 km Baratdaya Bonebolango", 
+      "waktu": "17/07/2022 19:58:37 WIB"
 }
