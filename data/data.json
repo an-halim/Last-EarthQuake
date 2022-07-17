@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220717195837.mmi.jpg", 
-      "magnitude": "5.3", 
-      "kedalaman": "104 Km", 
-      "koordinat": "0.1 LS 123.12 BT", 
-      "lokasi": "Pusat gempa berada di laut 70 km Baratdaya Bonebolango", 
-      "waktu": "17/07/2022 19:58:37 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220717225006.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "11 Km", 
+      "koordinat": "7.16 LS 106.02 BT", 
+      "lokasi": "Pusat gempa berada di laut 36 km barat daya Bayah", 
+      "waktu": "17/07/2022 22:50:06 WIB"
 }
