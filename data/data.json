@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220716220515.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "28 Km", 
-      "koordinat": "8.17 LS 107.89 BT", 
-      "lokasi": "Pusat gempa berada di laut 84 km BaratDaya Pangandaran", 
-      "waktu": "16/07/2022 22:05:15 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220717161305.mmi.jpg", 
+      "magnitude": "5.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "9.14 LS 110.83 BT", 
+      "lokasi": "Pusat gempa berada di Laut 111 km BaratDaya Pacitan", 
+      "waktu": "17/07/2022 16:13:05 WIB"
 }
