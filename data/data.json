@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220718095424.mmi.jpg", 
-      "magnitude": "4.4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "4.91 LS 129.62 BT", 
-      "lokasi": "Pusat gempa berada di laut 52 km BaratDaya Banda", 
-      "waktu": "18/07/2022 09:54:24 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220720064650.mmi.jpg", 
+      "magnitude": "5.8", 
+      "kedalaman": "16 Km", 
+      "koordinat": "4.33 LS 101.95 BT", 
+      "lokasi": "Pusat gempa berada di laut 68 km BaratDaya Bengkulu", 
+      "waktu": "20/07/2022 06:46:50 WIB"
 }
