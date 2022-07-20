@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220720123137.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220720213002.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 91 km barat daya Gorontalo <br>
-Magnitude: 5 <br>
-Kedalaman: 46 Km <br>
-Koordinat: 0.25 LS 122.83 BT <br>
-Waktu: 20/07/2022 12:31:37 WIB <br>
+Lokasi: Pusat gempa berada di darat 11 km timur laut Raja Ampat <br>
+Magnitude: 3.2 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.16 LS 130.58 BT <br>
+Waktu: 20/07/2022 21:30:02 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

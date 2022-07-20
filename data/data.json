@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220720123137.mmi.jpg", 
-      "magnitude": "5", 
-      "kedalaman": "46 Km", 
-      "koordinat": "0.25 LS 122.83 BT", 
-      "lokasi": "Pusat gempa berada di laut 91 km barat daya Gorontalo", 
-      "waktu": "20/07/2022 12:31:37 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220720213002.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.16 LS 130.58 BT", 
+      "lokasi": "Pusat gempa berada di darat 11 km timur laut Raja Ampat", 
+      "waktu": "20/07/2022 21:30:02 WIB"
 }
