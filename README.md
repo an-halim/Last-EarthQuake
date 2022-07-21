@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220721043859.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220721165748.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 54 km barat laut Luwu Timur <br>
-Magnitude: 4.7 <br>
+Lokasi: Pusat gempa berada di darat 62 Km Timur Laut Luwu Utara <br>
+Magnitude: 4.3 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 2.14 LS 120.62 BT <br>
-Waktu: 21/07/2022 04:38:59 WIB <br>
+Koordinat: 2.09 LS 120.51 BT <br>
+Waktu: 21/07/2022 16:57:48 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
