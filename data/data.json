@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220721165748.mmi.jpg", 
-      "magnitude": "4.3", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220722044101.mmi.jpg", 
+      "magnitude": "5.1", 
       "kedalaman": "10 Km", 
-      "koordinat": "2.09 LS 120.51 BT", 
-      "lokasi": "Pusat gempa berada di darat 62 Km Timur Laut Luwu Utara", 
-      "waktu": "21/07/2022 16:57:48 WIB"
+      "koordinat": "0.19 LU 98.29 BT", 
+      "lokasi": "Pusat gempa berada di laut 67 km Tenggara Nias Selatan", 
+      "waktu": "22/07/2022 04:41:01 WIB"
 }
