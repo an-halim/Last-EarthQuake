@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220722044101.mmi.jpg", 
-      "magnitude": "5.1", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220722165809.mmi.jpg", 
+      "magnitude": "3.1", 
       "kedalaman": "10 Km", 
-      "koordinat": "0.19 LU 98.29 BT", 
-      "lokasi": "Pusat gempa berada di laut 67 km Tenggara Nias Selatan", 
-      "waktu": "22/07/2022 04:41:01 WIB"
+      "koordinat": "3.65 LS 128.03 BT", 
+      "lokasi": "Pusat gempa berada di darat 17 km barat Ambon", 
+      "waktu": "22/07/2022 16:58:09 WIB"
 }
