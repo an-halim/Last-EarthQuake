@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220722165809.mmi.jpg", 
-      "magnitude": "3.1", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220723130917.mmi.jpg", 
+      "magnitude": "5.5", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.65 LS 128.03 BT", 
-      "lokasi": "Pusat gempa berada di darat 17 km barat Ambon", 
-      "waktu": "22/07/2022 16:58:09 WIB"
+      "koordinat": "7.65 LS 122.43 BT", 
+      "lokasi": "Pusat gempa berada di laut 94 km Barat Laut Larantuka", 
+      "waktu": "23/07/2022 13:09:17 WIB"
 }

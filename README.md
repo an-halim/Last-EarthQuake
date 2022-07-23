@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220722165809.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220723130917.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 17 km barat Ambon <br>
-Magnitude: 3.1 <br>
+Lokasi: Pusat gempa berada di laut 94 km Barat Laut Larantuka <br>
+Magnitude: 5.5 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 3.65 LS 128.03 BT <br>
-Waktu: 22/07/2022 16:58:09 WIB <br>
+Koordinat: 7.65 LS 122.43 BT <br>
+Waktu: 23/07/2022 13:09:17 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
