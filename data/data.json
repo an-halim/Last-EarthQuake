@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220724194307.mmi.jpg", 
-      "magnitude": "4.7", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.59 LS 122.48 BT", 
-      "lokasi": "Pusat gempa berada di laut 96 km baratlaut Larantuka", 
-      "waktu": "24/07/2022 19:43:07 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220725060154.mmi.jpg", 
+      "magnitude": "4.6", 
+      "kedalaman": "105 Km", 
+      "koordinat": "0.37 LU 122.58 BT", 
+      "lokasi": "Pusat gempa berada dilaut 31 km Tenggara BOALEMO", 
+      "waktu": "25/07/2022 06:01:54 WIB"
 }
