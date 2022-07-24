@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220724172055.mmi.jpg", 
-      "magnitude": "2.9", 
-      "kedalaman": "18 Km", 
-      "koordinat": "8.56 LS 116.08 BT", 
-      "lokasi": "Pusat gempa berada didarat 14 km BaratLaut Lombok Barat", 
-      "waktu": "24/07/2022 17:20:55 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220724194307.mmi.jpg", 
+      "magnitude": "4.7", 
+      "kedalaman": "10 Km", 
+      "koordinat": "7.59 LS 122.48 BT", 
+      "lokasi": "Pusat gempa berada di laut 96 km baratlaut Larantuka", 
+      "waktu": "24/07/2022 19:43:07 WIB"
 }
