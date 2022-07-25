@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220725060154.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "105 Km", 
-      "koordinat": "0.37 LU 122.58 BT", 
-      "lokasi": "Pusat gempa berada dilaut 31 km Tenggara BOALEMO", 
-      "waktu": "25/07/2022 06:01:54 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220725160905.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "11 Km", 
+      "koordinat": "8.76 LS 115.28 BT", 
+      "lokasi": "Pusat gempa berada di laut 7 km timur laut Kuta Selatan", 
+      "waktu": "25/07/2022 16:09:05 WIB"
 }
