@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220727211455.mmi.jpg", 
-      "magnitude": "4.1", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220727222202.mmi.jpg", 
+      "magnitude": "3.4", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.19 LS 115.5 BT", 
-      "lokasi": "Pusat gempa berada di laut 17 km barat laut Karangasem", 
-      "waktu": "27/07/2022 21:14:55 WIB"
+      "koordinat": "8.28 LS 115.47 BT", 
+      "lokasi": "Pusat gempa berada di darat 9 km barat laut Karangasem", 
+      "waktu": "27/07/2022 22:22:02 WIB"
 }
