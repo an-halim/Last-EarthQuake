@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220726061101.mmi.jpg", 
-      "magnitude": "3.5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220727142229.mmi.jpg", 
+      "magnitude": "4.2", 
       "kedalaman": "10 Km", 
-      "koordinat": "3.53 LS 128.25 BT", 
-      "lokasi": "Pusat gempa berada di darat 20 km timur laut Ambon", 
-      "waktu": "26/07/2022 06:11:01 WIB"
+      "koordinat": "2.04 LS 124.45 BT", 
+      "lokasi": "Pusat gempa berada di laut 171 km barat Sanana", 
+      "waktu": "27/07/2022 14:22:29 WIB"
 }
