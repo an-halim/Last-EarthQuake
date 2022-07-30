@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220729233115.mmi.jpg", 
-      "magnitude": "5.5", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220730074049.mmi.jpg", 
+      "magnitude": "2.3", 
       "kedalaman": "10 Km", 
-      "koordinat": "2.45 LS 122.68 BT", 
-      "lokasi": "Pusat gempa berada di laut 87 km TimurLaut Morowali", 
-      "waktu": "29/07/2022 23:31:15 WIB"
+      "koordinat": "3.54 LS 128.26 BT", 
+      "lokasi": "Pusat gempa berada di darat 19 Km Timur Laut AMbon", 
+      "waktu": "30/07/2022 07:40:49 WIB"
 }
