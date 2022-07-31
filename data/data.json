@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220730140105.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "23 Km", 
-      "koordinat": "0.33 LU 125.77 BT", 
-      "lokasi": "Pusat gempa berada di laut 134 km Tenggara Ratahan Mitra", 
-      "waktu": "30/07/2022 14:01:05 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220731100316.mmi.jpg", 
+      "magnitude": "5.6", 
+      "kedalaman": "56 Km", 
+      "koordinat": "4.25 LU 95.7 BT", 
+      "lokasi": "Pusat gempa berada di laut 44 km Tenggara Calang-Aceh Jaya", 
+      "waktu": "31/07/2022 10:03:16 WIB"
 }
