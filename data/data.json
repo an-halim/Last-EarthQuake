@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220801195952.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "3 Km", 
-      "koordinat": "2.52 LS 121.05 BT", 
-      "lokasi": "Pusat gempa berada di darat 15 km BaratLaut LuwuTimur", 
-      "waktu": "01/08/2022 19:59:52 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220802041712.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "83 Km", 
+      "koordinat": "1.49 LU 98.87 BT", 
+      "lokasi": "Pusat gempa berada di darat 23 km tenggara Tapanuli Tengah", 
+      "waktu": "02/08/2022 04:17:12 WIB"
 }
