@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220731100316.mmi.jpg", 
-      "magnitude": "5.6", 
-      "kedalaman": "56 Km", 
-      "koordinat": "4.25 LU 95.7 BT", 
-      "lokasi": "Pusat gempa berada di laut 44 km Tenggara Calang-Aceh Jaya", 
-      "waktu": "31/07/2022 10:03:16 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220801092024.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "8 Km", 
+      "koordinat": "2.4 LS 140.68 BT", 
+      "lokasi": "Pusat gempa berada di laut 15 km barat laut Kota Jayapura", 
+      "waktu": "01/08/2022 09:20:24 WIB"
 }
