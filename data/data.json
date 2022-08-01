@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220801092024.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "8 Km", 
-      "koordinat": "2.4 LS 140.68 BT", 
-      "lokasi": "Pusat gempa berada di laut 15 km barat laut Kota Jayapura", 
-      "waktu": "01/08/2022 09:20:24 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220801195952.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "3 Km", 
+      "koordinat": "2.52 LS 121.05 BT", 
+      "lokasi": "Pusat gempa berada di darat 15 km BaratLaut LuwuTimur", 
+      "waktu": "01/08/2022 19:59:52 WIB"
 }
