@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220802041712.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220803164000.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 23 km tenggara Tapanuli Tengah <br>
-Magnitude: 4.9 <br>
-Kedalaman: 83 Km <br>
-Koordinat: 1.49 LU 98.87 BT <br>
-Waktu: 02/08/2022 04:17:12 WIB <br>
+Lokasi: Pusat gempa berada di laut 18 km arah selatan Kab-Pahuwato <br>
+Magnitude: 4.8 <br>
+Kedalaman: 155 Km <br>
+Koordinat: 0.31 LU 121.96 BT <br>
+Waktu: 03/08/2022 16:40:00 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

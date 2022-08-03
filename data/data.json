@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220802041712.mmi.jpg", 
-      "magnitude": "4.9", 
-      "kedalaman": "83 Km", 
-      "koordinat": "1.49 LU 98.87 BT", 
-      "lokasi": "Pusat gempa berada di darat 23 km tenggara Tapanuli Tengah", 
-      "waktu": "02/08/2022 04:17:12 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220803164000.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "155 Km", 
+      "koordinat": "0.31 LU 121.96 BT", 
+      "lokasi": "Pusat gempa berada di laut 18 km arah selatan Kab-Pahuwato", 
+      "waktu": "03/08/2022 16:40:00 WIB"
 }
