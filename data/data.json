@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220803164000.mmi.jpg", 
-      "magnitude": "4.8", 
-      "kedalaman": "155 Km", 
-      "koordinat": "0.31 LU 121.96 BT", 
-      "lokasi": "Pusat gempa berada di laut 18 km arah selatan Kab-Pahuwato", 
-      "waktu": "03/08/2022 16:40:00 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220806000115.mmi.jpg", 
+      "magnitude": "4.5", 
+      "kedalaman": "27 Km", 
+      "koordinat": "9.74 LS 116.32 BT", 
+      "lokasi": "Pusat gempa berada di laut 115 km tenggara Lombok Tengah", 
+      "waktu": "06/08/2022 00:01:15 WIB"
 }
