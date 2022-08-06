@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220806000115.mmi.jpg", 
-      "magnitude": "4.5", 
-      "kedalaman": "27 Km", 
-      "koordinat": "9.74 LS 116.32 BT", 
-      "lokasi": "Pusat gempa berada di laut 115 km tenggara Lombok Tengah", 
-      "waktu": "06/08/2022 00:01:15 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220806093851.mmi.jpg", 
+      "magnitude": "4.8", 
+      "kedalaman": "89 Km", 
+      "koordinat": "4.58 LS 138.19 BT", 
+      "lokasi": "Pusat gempa berada di darat 77 km baratdaya Lanni Jaya", 
+      "waktu": "06/08/2022 09:38:51 WIB"
 }
