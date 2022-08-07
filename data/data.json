@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220807140537.mmi.jpg", 
-      "magnitude": "2.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.57 LS 121.2 BT", 
-      "lokasi": "Pusat gempa berada di darat 3 km Timur Laut Luwu Timur", 
-      "waktu": "07/08/2022 14:05:37 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220807182124.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "11 Km", 
+      "koordinat": "3.25 LS 128.36 BT", 
+      "lokasi": "Pusat gempa berada di darat 10 km Utara Kairatu", 
+      "waktu": "07/08/2022 18:21:24 WIB"
 }
