@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220807182124.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "11 Km", 
-      "koordinat": "3.25 LS 128.36 BT", 
-      "lokasi": "Pusat gempa berada di darat 10 km Utara Kairatu", 
-      "waktu": "07/08/2022 18:21:24 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220808183833.mmi.jpg", 
+      "magnitude": "4", 
+      "kedalaman": "4 Km", 
+      "koordinat": "0.54 LS 131.43 BT", 
+      "lokasi": "Pusat gempa berada di laut 41 km Timur Laut Kota Sorong", 
+      "waktu": "08/08/2022 18:38:33 WIB"
 }
