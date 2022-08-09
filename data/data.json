@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220809061508.mmi.jpg", 
-      "magnitude": "5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "6.28 LS 104.42 BT", 
-      "lokasi": "Pusat gempa berada di laut 93 km baratdaya Tanggamus", 
-      "waktu": "09/08/2022 06:15:08 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220809114113.mmi.jpg", 
+      "magnitude": "4.7", 
+      "kedalaman": "27 Km", 
+      "koordinat": "1.8 LS 100.39 BT", 
+      "lokasi": "Pusat gempa berada di laut 54 km barat daya Painan, Pesisir Selatan", 
+      "waktu": "09/08/2022 11:41:13 WIB"
 }
