@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220809133609.mmi.jpg", 
-      "magnitude": "4.7", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220809200442.mmi.jpg", 
+      "magnitude": "4.9", 
       "kedalaman": "10 Km", 
-      "koordinat": "8.34 LS 117.15 BT", 
-      "lokasi": "Pusat gempa berada di laut 17 km timur laut Pulau Saringi", 
-      "waktu": "09/08/2022 13:36:09 WIB"
+      "koordinat": "8.37 LS 117.14 BT", 
+      "lokasi": "Pusat gempa berada di darat 15 km TimurLaut Pernang", 
+      "waktu": "09/08/2022 20:04:42 WIB"
 }
