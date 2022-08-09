@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220809200442.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220809213918.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 15 km TimurLaut Pernang <br>
-Magnitude: 4.9 <br>
+Lokasi: Pusat gempa berada di darat 6.7 km BaratDaya Moramo Utara, Kab. Konawe <br>
+Magnitude: 3.6 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 8.37 LS 117.14 BT <br>
-Waktu: 09/08/2022 20:04:42 WIB <br>
+Koordinat: 4.08 LS 122.63 BT <br>
+Waktu: 09/08/2022 21:39:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
