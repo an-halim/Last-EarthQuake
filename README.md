@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220809213918.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220810161113.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6.7 km BaratDaya Moramo Utara, Kab. Konawe <br>
-Magnitude: 3.6 <br>
+Lokasi: Pusat gempa berada di laut 19 km selatan Piru <br>
+Magnitude: 4.1 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 4.08 LS 122.63 BT <br>
-Waktu: 09/08/2022 21:39:18 WIB <br>
+Koordinat: 3.23 LS 128.17 BT <br>
+Waktu: 10/08/2022 16:11:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
