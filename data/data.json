@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220810161113.mmi.jpg", 
-      "magnitude": "4.1", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.23 LS 128.17 BT", 
-      "lokasi": "Pusat gempa berada di laut 19 km selatan Piru", 
-      "waktu": "10/08/2022 16:11:13 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220811121920.mmi.jpg", 
+      "magnitude": "4.3", 
+      "kedalaman": "32 Km", 
+      "koordinat": "3.45 LS 101.84 BT", 
+      "lokasi": "Pusat gempa berada di laut 39 km Barat Daya Bengkulu Utara", 
+      "waktu": "11/08/2022 12:19:20 WIB"
 }
