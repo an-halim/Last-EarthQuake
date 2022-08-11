@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220811121920.mmi.jpg", 
-      "magnitude": "4.3", 
-      "kedalaman": "32 Km", 
-      "koordinat": "3.45 LS 101.84 BT", 
-      "lokasi": "Pusat gempa berada di laut 39 km Barat Daya Bengkulu Utara", 
-      "waktu": "11/08/2022 12:19:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220811215350.mmi.jpg", 
+      "magnitude": "3.1", 
+      "kedalaman": "72 Km", 
+      "koordinat": "1.56 LU 98.95 BT", 
+      "lokasi": "Pusat gempa berada di darat 20 km Tenggara Tapanuli Tengah", 
+      "waktu": "11/08/2022 21:53:50 WIB"
 }

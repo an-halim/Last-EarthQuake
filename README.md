@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220811121920.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220811215350.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 39 km Barat Daya Bengkulu Utara <br>
-Magnitude: 4.3 <br>
-Kedalaman: 32 Km <br>
-Koordinat: 3.45 LS 101.84 BT <br>
-Waktu: 11/08/2022 12:19:20 WIB <br>
+Lokasi: Pusat gempa berada di darat 20 km Tenggara Tapanuli Tengah <br>
+Magnitude: 3.1 <br>
+Kedalaman: 72 Km <br>
+Koordinat: 1.56 LU 98.95 BT <br>
+Waktu: 11/08/2022 21:53:50 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
