@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220811215350.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "72 Km", 
-      "koordinat": "1.56 LU 98.95 BT", 
-      "lokasi": "Pusat gempa berada di darat 20 km Tenggara Tapanuli Tengah", 
-      "waktu": "11/08/2022 21:53:50 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220812122502.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "4 Km", 
+      "koordinat": "3.74 LS 119.54 BT", 
+      "lokasi": "Pusat gempa berada di darat 10 km BaratDaya Pinrang", 
+      "waktu": "12/08/2022 12:25:02 WIB"
 }
