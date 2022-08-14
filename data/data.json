@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220814094747.mmi.jpg", 
-      "magnitude": "5.9", 
-      "kedalaman": "10 Km", 
-      "koordinat": "1.86 LU 126.44 BT", 
-      "lokasi": "Pusat gempa berada di laut 139 km barat laut Halmahera Barat", 
-      "waktu": "14/08/2022 09:47:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220814184005.mmi.jpg", 
+      "magnitude": "3", 
+      "kedalaman": "5 Km", 
+      "koordinat": "2.54 LS 121.59 BT", 
+      "lokasi": "Pusat gempa berada di darat 45 km timur laut Luwu Timur", 
+      "waktu": "14/08/2022 18:40:05 WIB"
 }
