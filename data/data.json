@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220814184005.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "5 Km", 
-      "koordinat": "2.54 LS 121.59 BT", 
-      "lokasi": "Pusat gempa berada di darat 45 km timur laut Luwu Timur", 
-      "waktu": "14/08/2022 18:40:05 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220815172137.mmi.jpg", 
+      "magnitude": "3.5", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.99 LS 122.8 BT", 
+      "lokasi": "Pusat gempa berada di laut 16.6 km timur laut Moramo Utara, Kab.Konawe", 
+      "waktu": "15/08/2022 17:21:37 WIB"
 }
