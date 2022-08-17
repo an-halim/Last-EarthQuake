@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220815233514.mmi.jpg", 
-      "magnitude": "5.5", 
-      "kedalaman": "25 Km", 
-      "koordinat": "0.11 LU 96.53 BT", 
-      "lokasi": "Pusat gempa berada di laut 140 km barat daya Nias Barat", 
-      "waktu": "15/08/2022 23:35:14 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220817190114.mmi.jpg", 
+      "magnitude": "4.4", 
+      "kedalaman": "7 Km", 
+      "koordinat": "1.57 LS 139.13 BT", 
+      "lokasi": "Pusat gempa berada di laut 53 km timur Laut Sarmi", 
+      "waktu": "17/08/2022 19:01:14 WIB"
 }
