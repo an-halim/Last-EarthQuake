@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220817190114.mmi.jpg", 
-      "magnitude": "4.4", 
-      "kedalaman": "7 Km", 
-      "koordinat": "1.57 LS 139.13 BT", 
-      "lokasi": "Pusat gempa berada di laut 53 km timur Laut Sarmi", 
-      "waktu": "17/08/2022 19:01:14 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220818144628.mmi.jpg", 
+      "magnitude": "5.7", 
+      "kedalaman": "155 Km", 
+      "koordinat": "0.31 LU 124.41 BT", 
+      "lokasi": "Pusat gempa berada di laut 47 km tenggara Bolaang Uki", 
+      "waktu": "18/08/2022 14:46:28 WIB"
 }
