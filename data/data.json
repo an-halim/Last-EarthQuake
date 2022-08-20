@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220819145522.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "9 Km", 
-      "koordinat": "2.83 LS 118.66 BT", 
-      "lokasi": "Pusat gempa berada di Laut 35 Km Barat Laut Majene", 
-      "waktu": "19/08/2022 14:55:22 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220820141342.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "10 Km", 
+      "koordinat": "9.16 LS 120.2 BT", 
+      "lokasi": "Pusat gempa berada di laut 56 km barat laut Waingapu", 
+      "waktu": "20/08/2022 14:13:42 WIB"
 }
