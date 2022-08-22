@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220822153633.mmi.jpg", 
-      "magnitude": "5.8", 
-      "kedalaman": "124 Km", 
-      "koordinat": "9.36 LS 115.59 BT", 
-      "lokasi": "Pusat gempa berada di laut 74 km tenggara Kuta Selatan", 
-      "waktu": "22/08/2022 15:36:33 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220822162654.mmi.jpg", 
+      "magnitude": "4.4", 
+      "kedalaman": "44 Km", 
+      "koordinat": "1.12 LS 100.3 BT", 
+      "lokasi": "Pusat gempa berada di laut 21 km barat daya Padang", 
+      "waktu": "22/08/2022 16:26:54 WIB"
 }
