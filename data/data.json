@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220823213139.mmi.jpg", 
-      "magnitude": "6.5", 
-      "kedalaman": "12 Km", 
-      "koordinat": "5.22 LS 102.95 BT", 
-      "lokasi": "Pusat gempa berada di laut 64 km BaratDaya KAUR-BENGKULU", 
-      "waktu": "23/08/2022 21:31:39 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220823232205.mmi.jpg", 
+      "magnitude": "3.3", 
+      "kedalaman": "3 Km", 
+      "koordinat": "2.39 LS 140.48 BT", 
+      "lokasi": "Pusat gempa berada di laut 23 km Timur Laut Kab. Jayapura", 
+      "waktu": "23/08/2022 23:22:05 WIB"
 }
