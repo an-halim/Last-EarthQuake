@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220823232205.mmi.jpg", 
-      "magnitude": "3.3", 
-      "kedalaman": "3 Km", 
-      "koordinat": "2.39 LS 140.48 BT", 
-      "lokasi": "Pusat gempa berada di laut 23 km Timur Laut Kab. Jayapura", 
-      "waktu": "23/08/2022 23:22:05 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220823234511.mmi.jpg", 
+      "magnitude": "4.6", 
+      "kedalaman": "39 Km", 
+      "koordinat": "4.05 LU 96 BT", 
+      "lokasi": "Pusat gempa berada di laut 17 km baratdaya Meulaboh", 
+      "waktu": "23/08/2022 23:45:11 WIB"
 }
