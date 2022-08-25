@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220825102132.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220826045524.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 93 km BaratLaut Enggano <br>
-Magnitude: 5.1 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 4.6 LS 101.88 BT <br>
-Waktu: 25/08/2022 10:21:32 WIB <br>
+Lokasi: Pusat gempa berada di darat 9 km BaratLaut Kota Kediri <br>
+Magnitude: 3.7 <br>
+Kedalaman: 9 Km <br>
+Koordinat: 7.77 LS 111.98 BT <br>
+Waktu: 26/08/2022 04:55:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

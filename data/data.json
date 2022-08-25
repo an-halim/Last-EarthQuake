@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220825102132.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "10 Km", 
-      "koordinat": "4.6 LS 101.88 BT", 
-      "lokasi": "Pusat gempa berada di laut 93 km BaratLaut Enggano", 
-      "waktu": "25/08/2022 10:21:32 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220826045524.mmi.jpg", 
+      "magnitude": "3.7", 
+      "kedalaman": "9 Km", 
+      "koordinat": "7.77 LS 111.98 BT", 
+      "lokasi": "Pusat gempa berada di darat 9 km BaratLaut Kota Kediri", 
+      "waktu": "26/08/2022 04:55:24 WIB"
 }
