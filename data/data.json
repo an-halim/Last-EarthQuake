@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220826045524.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "9 Km", 
-      "koordinat": "7.77 LS 111.98 BT", 
-      "lokasi": "Pusat gempa berada di darat 9 km BaratLaut Kota Kediri", 
-      "waktu": "26/08/2022 04:55:24 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220826103449.mmi.jpg", 
+      "magnitude": "3.1", 
+      "kedalaman": "11 Km", 
+      "koordinat": "7.79 LS 112.95 BT", 
+      "lokasi": "Pusat gempa berada di darat 13 km Tenggara Pasuruan", 
+      "waktu": "26/08/2022 10:34:49 WIB"
 }
