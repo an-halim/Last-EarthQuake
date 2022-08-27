@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220827194947.mmi.jpg", 
-      "magnitude": "2.2", 
-      "kedalaman": "26 Km", 
-      "koordinat": "3.52 LS 128.17 BT", 
-      "lokasi": "Pusat gempa berada di laut 19 Km Utara Ambon", 
-      "waktu": "27/08/2022 19:49:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220827195709.mmi.jpg", 
+      "magnitude": "2.4", 
+      "kedalaman": "16 Km", 
+      "koordinat": "3.48 LS 128.48 BT", 
+      "lokasi": "Pusat gempa berada di laut 21 Km Barat laut Saparua Maluku Tengah", 
+      "waktu": "27/08/2022 19:57:09 WIB"
 }
