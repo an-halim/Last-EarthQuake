@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220826103449.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "11 Km", 
-      "koordinat": "7.79 LS 112.95 BT", 
-      "lokasi": "Pusat gempa berada di darat 13 km Tenggara Pasuruan", 
-      "waktu": "26/08/2022 10:34:49 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220827194947.mmi.jpg", 
+      "magnitude": "2.2", 
+      "kedalaman": "26 Km", 
+      "koordinat": "3.52 LS 128.17 BT", 
+      "lokasi": "Pusat gempa berada di laut 19 Km Utara Ambon", 
+      "waktu": "27/08/2022 19:49:47 WIB"
 }
