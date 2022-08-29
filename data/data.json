@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220829053435.mmi.jpg", 
-      "magnitude": "5.9", 
-      "kedalaman": "11 Km", 
-      "koordinat": "1.04 LS 98.55 BT", 
-      "lokasi": "Pusat gempa berada di laut 156 km barat laut Kepulauan Mentawai", 
-      "waktu": "29/08/2022 05:34:35 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220829102914.mmi.jpg", 
+      "magnitude": "6.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "0.99 LS 98.53 BT", 
+      "lokasi": "Pusat gempa berada di laut 116 km barat laut Kep Mentawai", 
+      "waktu": "29/08/2022 10:29:14 WIB"
 }

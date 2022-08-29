@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220829053435.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220829102914.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 156 km barat laut Kepulauan Mentawai <br>
-Magnitude: 5.9 <br>
-Kedalaman: 11 Km <br>
-Koordinat: 1.04 LS 98.55 BT <br>
-Waktu: 29/08/2022 05:34:35 WIB <br>
+Lokasi: Pusat gempa berada di laut 116 km barat laut Kep Mentawai <br>
+Magnitude: 6.4 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.99 LS 98.53 BT <br>
+Waktu: 29/08/2022 10:29:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
