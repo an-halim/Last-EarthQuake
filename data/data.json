@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220829175824.mmi.jpg", 
-      "magnitude": "4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "0.92 LS 99.23 BT", 
-      "lokasi": "Pusat gempa berada di laut 48 km timur laut Pulau Siberut -", 
-      "waktu": "29/08/2022 17:58:24 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220830200954.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "7 Km", 
+      "koordinat": "3.32 LU 97.27 BT", 
+      "lokasi": "Pusat gempa berada di darat 3 km timurlaut Aceh Selatan", 
+      "waktu": "30/08/2022 20:09:54 WIB"
 }
