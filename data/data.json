@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220830204226.mmi.jpg", 
-      "magnitude": "3.8", 
-      "kedalaman": "3 Km", 
-      "koordinat": "1.24 LS 134.34 BT", 
-      "lokasi": "Pusat gempa berada di laut 34 km timur laut Ransiki", 
-      "waktu": "30/08/2022 20:42:26 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220831020620.mmi.jpg", 
+      "magnitude": "4.6", 
+      "kedalaman": "128 Km", 
+      "koordinat": "3.66 LS 128.82 BT", 
+      "lokasi": "Pusat gempa berada di laut 5 km timur Nusa Laut", 
+      "waktu": "31/08/2022 02:06:20 WIB"
 }
