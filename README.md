@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220831020620.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220902103423.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 5 km timur Nusa Laut <br>
-Magnitude: 4.6 <br>
-Kedalaman: 128 Km <br>
-Koordinat: 3.66 LS 128.82 BT <br>
-Waktu: 31/08/2022 02:06:20 WIB <br>
+Lokasi: Pusat gempa berada dilaut 15Km Tenggara Kabupaten Aceh Singkil <br>
+Magnitude: 5 <br>
+Kedalaman: 20 Km <br>
+Koordinat: 2.2 LU 97.82 BT <br>
+Waktu: 02/09/2022 10:34:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

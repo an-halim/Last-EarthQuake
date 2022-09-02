@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220831020620.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "128 Km", 
-      "koordinat": "3.66 LS 128.82 BT", 
-      "lokasi": "Pusat gempa berada di laut 5 km timur Nusa Laut", 
-      "waktu": "31/08/2022 02:06:20 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220902103423.mmi.jpg", 
+      "magnitude": "5", 
+      "kedalaman": "20 Km", 
+      "koordinat": "2.2 LU 97.82 BT", 
+      "lokasi": "Pusat gempa berada dilaut 15Km Tenggara Kabupaten Aceh Singkil", 
+      "waktu": "02/09/2022 10:34:23 WIB"
 }
