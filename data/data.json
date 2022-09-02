@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220902170430.mmi.jpg", 
-      "magnitude": "3.7", 
-      "kedalaman": "26 Km", 
-      "koordinat": "2.15 LU 97.84 BT", 
-      "lokasi": "Pusat gempa berada dilaut 21 km Tenggara Singkil Kab.Aceh", 
-      "waktu": "02/09/2022 17:04:30 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220902192704.mmi.jpg", 
+      "magnitude": "3", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.98 LS 121.53 BT", 
+      "lokasi": "Pusat gempa berada didarat 4.9 km BaratLaut Kec. Latambaga-Kab. Kolaka", 
+      "waktu": "02/09/2022 19:27:04 WIB"
 }
