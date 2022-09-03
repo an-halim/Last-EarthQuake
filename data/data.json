@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220904010201.mmi.jpg", 
-      "magnitude": "4.4", 
-      "kedalaman": "6 Km", 
-      "koordinat": "1.6 LS 121.24 BT", 
-      "lokasi": "Pusat gempa berada di darat 16 km barat laut Lembah Sumara", 
-      "waktu": "04/09/2022 01:02:01 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220904041014.mmi.jpg", 
+      "magnitude": "3.1", 
+      "kedalaman": "9 Km", 
+      "koordinat": "7.22 LS 109.89 BT", 
+      "lokasi": "Pusat gempa berada di darat 16 km Barat Laut WONOSOBO", 
+      "waktu": "04/09/2022 04:10:14 WIB"
 }
