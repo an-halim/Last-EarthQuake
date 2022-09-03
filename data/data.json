@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220902192704.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.98 LS 121.53 BT", 
-      "lokasi": "Pusat gempa berada didarat 4.9 km BaratLaut Kec. Latambaga-Kab. Kolaka", 
-      "waktu": "02/09/2022 19:27:04 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220904010201.mmi.jpg", 
+      "magnitude": "4.4", 
+      "kedalaman": "6 Km", 
+      "koordinat": "1.6 LS 121.24 BT", 
+      "lokasi": "Pusat gempa berada di darat 16 km barat laut Lembah Sumara", 
+      "waktu": "04/09/2022 01:02:01 WIB"
 }
