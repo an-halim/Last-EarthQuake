@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220904155216.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "20 Km", 
-      "koordinat": "4.91 LS 102.92 BT", 
-      "lokasi": "Pusat gempa berada di laut 49 km Barat daya Kaur", 
-      "waktu": "04/09/2022 15:52:16 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220904172820.mmi.jpg", 
+      "magnitude": "4.3", 
+      "kedalaman": "25 Km", 
+      "koordinat": "7.28 LS 106.12 BT", 
+      "lokasi": "Pusat gempa berada di laut 41 km BaratDaya Bayah", 
+      "waktu": "04/09/2022 17:28:20 WIB"
 }
