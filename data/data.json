@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220905002154.mmi.jpg", 
-      "magnitude": "4.4", 
-      "kedalaman": "12 Km", 
-      "koordinat": "3.25 LS 135.77 BT", 
-      "lokasi": "Pusat gempa berada di darat 29 km Timurlaut Nabire", 
-      "waktu": "05/09/2022 00:21:54 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220905101729.mmi.jpg", 
+      "magnitude": "4.6", 
+      "kedalaman": "31 Km", 
+      "koordinat": "5.76 LS 103.91 BT", 
+      "lokasi": "Pusat gempa berada di laut 63 km baratdaya Pesisir Barat", 
+      "waktu": "05/09/2022 10:17:29 WIB"
 }
