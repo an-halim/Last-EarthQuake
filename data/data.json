@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220905101729.mmi.jpg", 
-      "magnitude": "4.6", 
-      "kedalaman": "31 Km", 
-      "koordinat": "5.76 LS 103.91 BT", 
-      "lokasi": "Pusat gempa berada di laut 63 km baratdaya Pesisir Barat", 
-      "waktu": "05/09/2022 10:17:29 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220906093123.mmi.jpg", 
+      "magnitude": "4.2", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.67 LS 118.48 BT", 
+      "lokasi": "Pusat gempa berada di laut 45 km Barat Mamuju", 
+      "waktu": "06/09/2022 09:31:23 WIB"
 }
