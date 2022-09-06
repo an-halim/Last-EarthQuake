@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220906093123.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "10 Km", 
-      "koordinat": "2.67 LS 118.48 BT", 
-      "lokasi": "Pusat gempa berada di laut 45 km Barat Mamuju", 
-      "waktu": "06/09/2022 09:31:23 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220906204147.mmi.jpg", 
+      "magnitude": "2.5", 
+      "kedalaman": "5 Km", 
+      "koordinat": "3.97 LS 122.43 BT", 
+      "lokasi": "Pusat gempa berada di darat 3 km BaratDaya Kab. Konawe", 
+      "waktu": "06/09/2022 20:41:47 WIB"
 }
