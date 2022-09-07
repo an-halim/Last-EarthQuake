@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220906204147.mmi.jpg", 
-      "magnitude": "2.5", 
-      "kedalaman": "5 Km", 
-      "koordinat": "3.97 LS 122.43 BT", 
-      "lokasi": "Pusat gempa berada di darat 3 km BaratDaya Kab. Konawe", 
-      "waktu": "06/09/2022 20:41:47 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220908010935.mmi.jpg", 
+      "magnitude": "5.6", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.37 LS 101.26 BT", 
+      "lokasi": "Pusat gempa berada di laut 89 km Tenggara Mukomuko", 
+      "waktu": "08/09/2022 01:09:35 WIB"
 }
