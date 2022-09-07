@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220908010935.mmi.jpg", 
-      "magnitude": "5.6", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.37 LS 101.26 BT", 
-      "lokasi": "Pusat gempa berada di laut 89 km Tenggara Mukomuko", 
-      "waktu": "08/09/2022 01:09:35 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220908011140.mmi.jpg", 
+      "magnitude": "5.3", 
+      "kedalaman": "138 Km", 
+      "koordinat": "0.01 LS 123.8 BT", 
+      "lokasi": "Pusat gempa berada di laut 47 km barat daya Bolaang Mongondow Selatan", 
+      "waktu": "08/09/2022 01:11:40 WIB"
 }
