@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220908102514.mmi.jpg", 
-      "magnitude": "4.2", 
-      "kedalaman": "35 Km", 
-      "koordinat": "8.2 LS 108.24 BT", 
-      "lokasi": "Pusat gempa berada di laut 62 km BaratDaya KAB-PANGANDARAN", 
-      "waktu": "08/09/2022 10:25:14 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220908145855.mmi.jpg", 
+      "magnitude": "5.2", 
+      "kedalaman": "14 Km", 
+      "koordinat": "1.47 LU 96.95 BT", 
+      "lokasi": "Pusat gempa berada di laut 45 km barat laut Nias Utara", 
+      "waktu": "08/09/2022 14:58:55 WIB"
 }
