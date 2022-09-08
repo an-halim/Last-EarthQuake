@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220909005249.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220909023640.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 51 Km Barat Daya Seluma <br>
-Magnitude: 5 <br>
-Kedalaman: 21 Km <br>
-Koordinat: 4.32 LS 102.18 BT <br>
-Waktu: 09/09/2022 00:52:49 WIB <br>
+Lokasi: Pusat gempa berada di darat 10 km barat daya Pesawaran <br>
+Magnitude: 3.2 <br>
+Kedalaman: 2 Km <br>
+Koordinat: 5.45 LS 104.99 BT <br>
+Waktu: 09/09/2022 02:36:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

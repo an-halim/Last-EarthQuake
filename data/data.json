@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220909005249.mmi.jpg", 
-      "magnitude": "5", 
-      "kedalaman": "21 Km", 
-      "koordinat": "4.32 LS 102.18 BT", 
-      "lokasi": "Pusat gempa berada di laut 51 Km Barat Daya Seluma", 
-      "waktu": "09/09/2022 00:52:49 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220909023640.mmi.jpg", 
+      "magnitude": "3.2", 
+      "kedalaman": "2 Km", 
+      "koordinat": "5.45 LS 104.99 BT", 
+      "lokasi": "Pusat gempa berada di darat 10 km barat daya Pesawaran", 
+      "waktu": "09/09/2022 02:36:40 WIB"
 }
