@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220908145855.mmi.jpg", 
-      "magnitude": "5.2", 
-      "kedalaman": "14 Km", 
-      "koordinat": "1.47 LU 96.95 BT", 
-      "lokasi": "Pusat gempa berada di laut 45 km barat laut Nias Utara", 
-      "waktu": "08/09/2022 14:58:55 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220909005249.mmi.jpg", 
+      "magnitude": "5", 
+      "kedalaman": "21 Km", 
+      "koordinat": "4.32 LS 102.18 BT", 
+      "lokasi": "Pusat gempa berada di laut 51 Km Barat Daya Seluma", 
+      "waktu": "09/09/2022 00:52:49 WIB"
 }
