@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220909023640.mmi.jpg", 
-      "magnitude": "3.2", 
-      "kedalaman": "2 Km", 
-      "koordinat": "5.45 LS 104.99 BT", 
-      "lokasi": "Pusat gempa berada di darat 10 km barat daya Pesawaran", 
-      "waktu": "09/09/2022 02:36:40 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220909090604.mmi.jpg", 
+      "magnitude": "3.4", 
+      "kedalaman": "10 Km", 
+      "koordinat": "3.79 LS 133.64 BT", 
+      "lokasi": "Pusat gempa berada di laut 65 km barat daya Kaimana", 
+      "waktu": "09/09/2022 09:06:04 WIB"
 }
