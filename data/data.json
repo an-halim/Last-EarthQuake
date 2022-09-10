@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220910131116.mmi.jpg", 
-      "magnitude": "3.3", 
-      "kedalaman": "13 Km", 
-      "koordinat": "8.37 LS 116.08 BT", 
-      "lokasi": "Pusat gempa berada di laut 8 km barat daya Lombok Utara", 
-      "waktu": "10/09/2022 13:11:16 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220910204931.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "10 Km", 
+      "koordinat": "2.01 LS 138.24 BT", 
+      "lokasi": "Pusat gempa berada di darat 40 km timur laut Kasonaweja", 
+      "waktu": "10/09/2022 20:49:31 WIB"
 }
