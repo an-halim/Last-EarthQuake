@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220909090604.mmi.jpg", 
-      "magnitude": "3.4", 
-      "kedalaman": "10 Km", 
-      "koordinat": "3.79 LS 133.64 BT", 
-      "lokasi": "Pusat gempa berada di laut 65 km barat daya Kaimana", 
-      "waktu": "09/09/2022 09:06:04 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220910063149.mmi.jpg", 
+      "magnitude": "5.9", 
+      "kedalaman": "106 Km", 
+      "koordinat": "2.02 LS 138.32 BT", 
+      "lokasi": "Pusat gempa berada di darat 39 km TimurLaut Mamberamo Tengah", 
+      "waktu": "10/09/2022 06:31:49 WIB"
 }
