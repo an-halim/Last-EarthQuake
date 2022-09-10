@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220910063149.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220910082715.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 39 km TimurLaut Mamberamo Tengah <br>
-Magnitude: 5.9 <br>
-Kedalaman: 106 Km <br>
-Koordinat: 2.02 LS 138.32 BT <br>
-Waktu: 10/09/2022 06:31:49 WIB <br>
+Lokasi: Pusat gempa berada di darat 40 km Timurlaut Kasonaweja <br>
+Magnitude: 4.8 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.97 LS 138.17 BT <br>
+Waktu: 10/09/2022 08:27:15 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
