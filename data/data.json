@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220912012401.mmi.jpg", 
-      "magnitude": "5.1", 
-      "kedalaman": "10 Km", 
-      "koordinat": "1.22 LS 98.5 BT", 
-      "lokasi": "Pusat gempa berada di laut 147 km Barat Laut Kep. Mentawai", 
-      "waktu": "12/09/2022 01:24:01 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220912054237.mmi.jpg", 
+      "magnitude": "3.6", 
+      "kedalaman": "5 Km", 
+      "koordinat": "2.61 LS 121.41 BT", 
+      "lokasi": "Pusat gempa berada di darat 26 km Tenggara Luwu Timur", 
+      "waktu": "12/09/2022 05:42:37 WIB"
 }
