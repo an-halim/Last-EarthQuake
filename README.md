@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220911064701.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220911175234.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 352 km Barat Laut PORTMORESBY-PNG <br>
-Magnitude: 7.5 <br>
-Kedalaman: 116 Km <br>
-Koordinat: 6.36 LS 146.55 BT <br>
-Waktu: 11/09/2022 06:47:01 WIB <br>
+Lokasi: Pusat gempa berada di darat 38Km Timurlaut Kasonaweja <br>
+Magnitude: 4.9 <br>
+Kedalaman: 16 Km <br>
+Koordinat: 2.01 LS 138.21 BT <br>
+Waktu: 11/09/2022 17:52:34 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>

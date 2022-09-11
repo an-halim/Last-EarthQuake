@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220911064701.mmi.jpg", 
-      "magnitude": "7.5", 
-      "kedalaman": "116 Km", 
-      "koordinat": "6.36 LS 146.55 BT", 
-      "lokasi": "Pusat gempa berada di darat 352 km Barat Laut PORTMORESBY-PNG", 
-      "waktu": "11/09/2022 06:47:01 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220911175234.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "16 Km", 
+      "koordinat": "2.01 LS 138.21 BT", 
+      "lokasi": "Pusat gempa berada di darat 38Km Timurlaut Kasonaweja", 
+      "waktu": "11/09/2022 17:52:34 WIB"
 }
