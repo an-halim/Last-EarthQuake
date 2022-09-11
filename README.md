@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220911175234.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20220912012401.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 38Km Timurlaut Kasonaweja <br>
-Magnitude: 4.9 <br>
-Kedalaman: 16 Km <br>
-Koordinat: 2.01 LS 138.21 BT <br>
-Waktu: 11/09/2022 17:52:34 WIB <br>
+Lokasi: Pusat gempa berada di laut 147 km Barat Laut Kep. Mentawai <br>
+Magnitude: 5.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.22 LS 98.5 BT <br>
+Waktu: 12/09/2022 01:24:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
