@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220912231216.mmi.jpg", 
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220913063447.mmi.jpg", 
       "magnitude": "3.5", 
-      "kedalaman": "5 Km", 
-      "koordinat": "0.94 LS 119.85 BT", 
-      "lokasi": "Pusat gempa berada di darat 5 km baratdaya Palu", 
-      "waktu": "12/09/2022 23:12:16 WIB"
+      "kedalaman": "24 Km", 
+      "koordinat": "8.02 LS 117.86 BT", 
+      "lokasi": "Pusat gempa berada di laut 71 km TimurLaut Sumbawa", 
+      "waktu": "13/09/2022 06:34:47 WIB"
 }
