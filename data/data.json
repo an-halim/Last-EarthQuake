@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220913080918.mmi.jpg", 
-      "magnitude": "4.5", 
-      "kedalaman": "10 Km", 
-      "koordinat": "1.7 LS 139.06 BT", 
-      "lokasi": "Pusat gempa berada di laut 38km timur laut Sarmi", 
-      "waktu": "13/09/2022 08:09:18 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220913181804.mmi.jpg", 
+      "magnitude": "4.9", 
+      "kedalaman": "41 Km", 
+      "koordinat": "5.7 LS 104.25 BT", 
+      "lokasi": "Pusat gempa berada di laut 53 km barat daya Tanggamus", 
+      "waktu": "13/09/2022 18:18:04 WIB"
 }
