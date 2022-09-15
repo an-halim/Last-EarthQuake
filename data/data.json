@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220914104539.mmi.jpg", 
-      "magnitude": "3.1", 
-      "kedalaman": "10 Km", 
-      "koordinat": "0.85 LU 110.04 BT", 
-      "lokasi": "Pusat gempa berada di darat 56 km TimurLaut Kab. Ladak", 
-      "waktu": "14/09/2022 10:45:39 WIB"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20220915222451.mmi.jpg", 
+      "magnitude": "5.1", 
+      "kedalaman": "25 Km", 
+      "koordinat": "2.05 LS 99.53 BT", 
+      "lokasi": "Pusat gempa berada di laut 5 km barat daya Kep. Mentawai", 
+      "waktu": "15/09/2022 22:24:51 WIB"
 }
