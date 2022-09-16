@@ -10,6 +10,6 @@ Lokasi: Pusat gempa berada di laut 5 km barat daya Kep. Mentawai <br>
 Magnitude: 5.1 <br>
 Kedalaman: 25 Km <br>
 Koordinat: 2.05 LS 99.53 BT <br>
-Waktu: 15/09/2022 22:24:51 WIB <br>
+Waktu: 9/2022 22:24:51 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
