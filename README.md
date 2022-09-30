@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20220930213022.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221001022841.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 16 km timur laut Luwu Timur <br>
-Magnitude: 4.5 <br>
-Kedalaman: 3 Km <br>
-Koordinat: 2.46 LS 121.25 BT <br>
-Waktu: 9/2022 21:30:22 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 15 km baratLaut TapanuliUtara <br>
+Magnitude: 6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.13 LU 98.89 BT <br>
+Waktu: 0/2022 02:28:41 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
