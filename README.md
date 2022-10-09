@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221009025740.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221009104341.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 16 km Baratdaya Mamuju Tengah <br>
-Magnitude: 4.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.21 LS 119.4 BT <br>
-Waktu: 0/2022 02:57:40 WIB</td <br>
+Lokasi: Pusat gempa berada di laut 66 km tenggara Cilacap <br>
+Magnitude: 4.7 <br>
+Kedalaman: 33 Km <br>
+Koordinat: 8.32 LS 109.02 BT <br>
+Waktu: 0/2022 10:43:41 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
