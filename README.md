@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221009221012.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221010122749.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 35 km TimurLaut Kota Jayapura <br>
-Magnitude: 4.5 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 2.31 LS 140.79 BT <br>
-Waktu: 0/2022 22:10:12 WIB</td <br>
+Lokasi: Pusat gempa berada di laut 65 km tenggara Kuta Selatan <br>
+Magnitude: 4.2 <br>
+Kedalaman: 50 Km <br>
+Koordinat: 9.34 LS 115.46 BT <br>
+Waktu: 0/2022 12:27:49 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
