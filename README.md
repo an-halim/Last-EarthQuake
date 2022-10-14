@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221014030346.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221014082202.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 4.8 km Tenggara Kab. Muna Barat <br>
-Magnitude: 3.2 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 4.88 LS 122.43 BT <br>
-Waktu: 0/2022 03:03:46 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 18 km BaratDaya Muara Enim <br>
+Magnitude: 4 <br>
+Kedalaman: 1 Km <br>
+Koordinat: 3.81 LS 103.75 BT <br>
+Waktu: 0/2022 08:22:02 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
