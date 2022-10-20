@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20221020211321.mmi.jpg", 
-      "magnitude": "2", 
-      "kedalaman": "1 Km", 
-      "koordinat": "2 LU 98.96 BT", 
-      "lokasi": "Pusat gempa berada di darat 1 km barat daya Tapanuli Utara", 
-      "waktu": "0/2022 21:13:21 WIB</td"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20221020230204.mmi.jpg", 
+      "magnitude": "3.9", 
+      "kedalaman": "33 Km", 
+      "koordinat": "9.56 LS 116.46 BT", 
+      "lokasi": "Pusat gempa berada di laut 97 km tenggara Lombok Tengah", 
+      "waktu": "0/2022 23:02:04 WIB</td"
 }
