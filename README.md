@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221030122604.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221030190028.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 13 km timur laut Lombok Utara <br>
-Magnitude: 4.1 <br>
+Lokasi: Pusat gempa berada di darat 9 km timur laut Kab. Kolaka Utara <br>
+Magnitude: 2.9 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 8.27 LS 116.24 BT <br>
-Waktu: 0/2022 12:26:04 WIB</td <br>
+Koordinat: 3.55 LS 121 BT <br>
+Waktu: 0/2022 19:00:28 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
