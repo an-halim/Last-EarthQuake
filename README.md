@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221101053547.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221101181201.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 30 km Selatan Saparua <br>
-Magnitude: 3.3 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 3.83 LS 128.55 BT <br>
-Waktu: 1/2022 05:35:47 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 2.8 km Tenggara Mandonga, Kota Kendari <br>
+Magnitude: 3.2 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.97 LS 122.52 BT <br>
+Waktu: 1/2022 18:12:01 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
