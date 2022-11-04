@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221104183005.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221105000333.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 54 km timurlaut Konawe <br>
-Magnitude: 2.8 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 3.82 LS 122.54 BT <br>
-Waktu: 1/2022 18:30:05 WIB</td <br>
+Lokasi: Pusat gempa berada didarat 21 km baratdaya Muara Enim, Tanjung Enim <br>
+Magnitude: 3.3 <br>
+Kedalaman: 1 Km <br>
+Koordinat: 3.83 LS 103.74 BT <br>
+Waktu: 1/2022 00:03:33 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
