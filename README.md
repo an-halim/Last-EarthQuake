@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221122215404.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221122232446.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 113 km tenggara Kota Sukabumi <br>
-Magnitude: 4.2 <br>
-Kedalaman: 17 Km <br>
-Koordinat: 7.93 LS 107.03 BT <br>
-Waktu: 1/2022 21:54:04 WIB</td <br>
+Lokasi: Pusat gempa berada di laut 190 km baratlaut Maluku Tenggara <br>
+Magnitude: 5.6 <br>
+Kedalaman: 63 Km <br>
+Koordinat: 5.54 LS 131.02 BT <br>
+Waktu: 1/2022 23:24:46 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
