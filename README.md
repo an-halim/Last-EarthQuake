@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221129181817.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221129205725.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 10 km Timurlaut Buton Tengah <br>
-Magnitude: 3 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 5.33 LS 122.63 BT <br>
-Waktu: 1/2022 18:18:17 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 3 km BaratDaya Cianjur <br>
+Magnitude: 2.7 <br>
+Kedalaman: 12 Km <br>
+Koordinat: 6.83 LS 107.11 BT <br>
+Waktu: 1/2022 20:57:25 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
