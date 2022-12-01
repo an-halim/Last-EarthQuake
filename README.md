@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221201091537.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221201142919.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 6 km barat laut Kab. Konawe <br>
-Magnitude: 4 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.86 LS 122.66 BT <br>
-Waktu: 2/2022 09:15:37 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 6 Km Barat Daya Kab. Cianjur <br>
+Magnitude: 2.9 <br>
+Kedalaman: 11 Km <br>
+Koordinat: 6.83 LS 107.08 BT <br>
+Waktu: 2/2022 14:29:19 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
