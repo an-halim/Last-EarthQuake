@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221202155517.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221202165750.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada dilaut 103 Km Timur Laut Salakan <br>
-Magnitude: 4.9 <br>
-Kedalaman: 126 Km <br>
-Koordinat: 0.14 LS 123.25 BT <br>
-Waktu: 2/2022 15:55:17 WIB</td <br>
+Lokasi: Pusat gempa berada didarat 9 Km Timur Laut Ransiki <br>
+Magnitude: 4.2 <br>
+Kedalaman: 22 Km <br>
+Koordinat: 1.41 LS 134.19 BT <br>
+Waktu: 2/2022 16:57:50 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
