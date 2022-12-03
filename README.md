@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221203182635.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221204043954.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 km BaratDaya Kab-Cianjur <br>
-Magnitude: 3.1 <br>
+Lokasi: Pusat gempa berada di darat 8 km Tenggara Kota Tasikmalaya <br>
+Magnitude: 2.8 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 6.84 LS 107.08 BT <br>
-Waktu: 2/2022 18:26:35 WIB</td <br>
+Koordinat: 7.38 LS 108.23 BT <br>
+Waktu: 2/2022 04:39:54 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
