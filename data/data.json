@@ -1,8 +1,8 @@
 {
-      "gambar": "https://ews.bmkg.go.id/TEWS/data/20221204095736.mmi.jpg", 
-      "magnitude": "3", 
-      "kedalaman": "10 Km", 
-      "koordinat": "7.35 LS 108.25 BT", 
-      "lokasi": "Pusat gempa berada di darat 7 km Tenggara Kota Tasikmalaya", 
-      "waktu": "2/2022 09:57:36 WIB</td"
+      "gambar": "https://ews.bmkg.go.id/TEWS/data/20221204144444.mmi.jpg", 
+      "magnitude": "3.5", 
+      "kedalaman": "5 Km", 
+      "koordinat": "4.49 LU 96.58 BT", 
+      "lokasi": "Pusat gempa berada di darat 33 km BaratDaya Takengon", 
+      "waktu": "2/2022 14:44:44 WIB</td"
 }
