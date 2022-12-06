@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221206130748.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221206150132.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada dilaut 284km Barat Daya Jember <br>
-Magnitude: 6.2 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 10.7 LS 113.42 BT <br>
-Waktu: 2/2022 13:07:48 WIB</td <br>
+Lokasi: Pusat gempa berada di laut 72 km Selatan Gorontalo <br>
+Magnitude: 4.8 <br>
+Kedalaman: 132 Km <br>
+Koordinat: 0.08 LS 123.23 BT <br>
+Waktu: 2/2022 15:01:32 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
