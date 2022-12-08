@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221207172433.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221208075057.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 44 km BaratDaya Kaimana <br>
-Magnitude: 2.6 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 3.66 LS 133.82 BT <br>
-Waktu: 2/2022 17:24:33 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 22 km Tenggara Kota Sukabumi <br>
+Magnitude: 5.8 <br>
+Kedalaman: 104 Km <br>
+Koordinat: 7.11 LS 106.99 BT <br>
+Waktu: 2/2022 07:50:57 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
