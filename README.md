@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221208094914.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221208115855.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 99 km BaratDaya Pacitan <br>
-Magnitude: 4.7 <br>
-Kedalaman: 61 Km <br>
-Koordinat: 8.99 LS 110.73 BT <br>
-Waktu: 2/2022 09:49:14 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 14 km tenggara Sarmi <br>
+Magnitude: 5.1 <br>
+Kedalaman: 11 Km <br>
+Koordinat: 2.47 LS 139.33 BT <br>
+Waktu: 2/2022 11:58:55 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
