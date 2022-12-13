@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221213125039.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221213170042.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 117 km Selatan Tehoru <br>
-Magnitude: 3.1 <br>
+Lokasi: Pusat gempa berada di laut 17 km TimurLaut Karangasem <br>
+Magnitude: 4.7 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 4.36 LS 129.9 BT <br>
-Waktu: 2/2022 12:50:39 WIB</td <br>
+Koordinat: 8.2 LS 115.58 BT <br>
+Waktu: 2/2022 17:00:42 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
