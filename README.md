@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221215151321.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221215164554.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 17 km TimurLaut Karangasem <br>
-Magnitude: 3.6 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 8.22 LS 115.61 BT <br>
-Waktu: 2/2022 15:13:21 WIB</td <br>
+Lokasi: Pusat gempa berada di laut 14 km Timurlaut Karangasem <br>
+Magnitude: 4.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 8.23 LS 115.57 BT <br>
+Waktu: 2/2022 16:45:54 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
