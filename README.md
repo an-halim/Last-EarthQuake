@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221216054711.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221216100035.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 37 km BaratDaya Sumur <br>
-Magnitude: 4.1 <br>
-Kedalaman: 13 Km <br>
-Koordinat: 6.91 LS 105.35 BT <br>
-Waktu: 2/2022 05:47:11 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 0.6 km TimurLaut Morosi <br>
+Magnitude: 3.1 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 3.93 LS 122.43 BT <br>
+Waktu: 2/2022 10:00:35 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
