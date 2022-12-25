@@ -4,12 +4,12 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20221225035727.mmi.jpg" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20221226053854.mmi.jpg" width="400"/>
 <br>
-Lokasi: Pusat gempa berada di laut 191 km Tenggara Cilacap <br>
-Magnitude: 5.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 9.44 LS 109.16 BT <br>
-Waktu: 2/2022 03:57:27 WIB</td <br>
+Lokasi: Pusat gempa berada di darat 8 km BaratLaut Kab. Bener Meriah <br>
+Magnitude: 3.7 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 4.79 LU 96.82 BT <br>
+Waktu: 2/2022 05:38:54 WIB</td <br>
 
 <a href="./data/data.json">**JSON Data**</a>
