@@ -1,67 +1,67 @@
-# This is a basic workflow to help you get started with Actions 
+# # This is a basic workflow to help you get started with Actions 
 
-name: Last-EarthQuake 
+# name: Last-EarthQuake 
 
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-  schedule:
-  - cron: "*/5 * * * *"
+# # Controls when the workflow will run
+# on:
+#   # Triggers the workflow on push or pull request events but only for the master branch
+#   push:
+#     branches: [ master ]
+#   pull_request:
+#     branches: [ master ]
+#   schedule:
+#   - cron: "*/5 * * * *"
   
-jobs:
-  build:
+# jobs:
+#   build:
 
-    runs-on: ubuntu-latest
+#     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [14.x]
+#     strategy:
+#       matrix:
+#         node-version: [14.x]
 
-    steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v2
-        with:
-          node-version: ${{ matrix.node-version }}
-      - run: npm run install --if-present
-      - run: npm start
-      - name: Commit and push if it changed
-        run: |-
-          git config user.name "an-halim"
-          git config user.email "halimbla2@gmail.com"
-          git add -A
-          time=$(date '+%F %H:%M:%S %Z')
-          git commit -m "Updated At ${time}" || exit 0
-          git push
+#     steps:
+#       - uses: actions/checkout@v2
+#       - name: Use Node.js ${{ matrix.node-version }}
+#         uses: actions/setup-node@v2
+#         with:
+#           node-version: ${{ matrix.node-version }}
+#       - run: npm run install --if-present
+#       - run: npm start
+#       - name: Commit and push if it changed
+#         run: |-
+#           git config user.name "an-halim"
+#           git config user.email "halimbla2@gmail.com"
+#           git add -A
+#           time=$(date '+%F %H:%M:%S %Z')
+#           git commit -m "Updated At ${time}" || exit 0
+#           git push
       
-      - name: Modify last update
-        run: |-
-          time=$(date '+%F %H:%M:%S %Z')
-          echo $time > Last_Checked
+#       - name: Modify last update
+#         run: |-
+#           time=$(date '+%F %H:%M:%S %Z')
+#           echo $time > Last_Checked
           
-      - name: Commit changes
-        run: |-
-          time=$(date '+%F %H:%M:%S %Z')
-          git config --local user.email "halimbla2@gmail.com"
-          git config --local user.name "an-halim"
-          git add -A
+#       - name: Commit changes
+#         run: |-
+#           time=$(date '+%F %H:%M:%S %Z')
+#           git config --local user.email "halimbla2@gmail.com"
+#           git config --local user.name "an-halim"
+#           git add -A
           
-          arr[0]="bot: 😂 "
-          arr[1]="bot: 😱 "
-          arr[2]="bot: 👿 "
-          arr[3]="bot: 💩 "
-          arr[4]="bot: 🙏 "
-          arr[5]="bot: 🙈 "
-          arr[6]="bot: 🐐 "
-          arr[7]="bot: 🤖 "
-          arr[8]="bot: 🟩 "
-          arr[9]="bot: 👻 "
+#           arr[0]="bot: 😂 "
+#           arr[1]="bot: 😱 "
+#           arr[2]="bot: 👿 "
+#           arr[3]="bot: 💩 "
+#           arr[4]="bot: 🙏 "
+#           arr[5]="bot: 🙈 "
+#           arr[6]="bot: 🐐 "
+#           arr[7]="bot: 🤖 "
+#           arr[8]="bot: 🟩 "
+#           arr[9]="bot: 👻 "
           
-          rand=$[$RANDOM % ${#arr[@]}]
+#           rand=$[$RANDOM % ${#arr[@]}]
           
-          git commit -m "${arr[$rand]} last checked at ${time}" || exit 0
-          git push
+#           git commit -m "${arr[$rand]} last checked at ${time}" || exit 0
+#           git push
