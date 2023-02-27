@@ -6,8 +6,6 @@ module.exports.readMe = function (data) {
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-Last Update
-<br>
 <img src="${data.img}" width="400"/>
 <br>
 Lokasi: ${data.lokasi} <br>
@@ -17,6 +15,11 @@ Koordinat: ${data.koordinat} <br>
 Waktu: ${data.waktu} <br>
 
 <a href="./data/data.json">**JSON Data**</a>
+<br>
+Made with ❤️ by <a href="https://github.com/an-halim">An Halim</a>
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
 `;
 };
 
