@@ -1,18 +1,1 @@
-{
-  "latest": {
-    "img": "",
-    "waktu": "",
-    "koordinat": "",
-    "magnitude": "",
-    "kedalaman": "",
-    "lokasi": ""
-  },
-  "history": [{
-    "img": "",
-    "waktu": "",
-    "koordinat": "",
-    "magnitude": "",
-    "kedalaman": "",
-    "lokasi": ""
-  }]
-}
+{"latest":{"img":"https://ews.bmkg.go.id/TEWS/data/20230227082602.mmi.jpg?95248xxbm69aznl1l9htc0o","waktu":"27/02/202308:26:02 WIB","koordinat":"1.59 LS 120.21 BT","magnitude":"5.5","kedalaman":"10 Km","lokasi":"Pusat gempa berada di darat 42 km Tenggara Sigi"},"history":[{"img":"","waktu":"","koordinat":"","magnitude":"","kedalaman":"","lokasi":""},{"img":"https://ews.bmkg.go.id/TEWS/data/20230227082602.mmi.jpg?95248xxbm69aznl1l9htc0o","waktu":"27/02/202308:26:02 WIB","koordinat":"1.59 LS 120.21 BT","magnitude":"5.5","kedalaman":"10 Km","lokasi":"Pusat gempa berada di darat 42 km Tenggara Sigi"}]}
