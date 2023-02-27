@@ -7,12 +7,5 @@
     "kedalaman": "",
     "lokasi": ""
   },
-  "history": [{
-    "img": "",
-    "waktu": "",
-    "koordinat": "",
-    "magnitude": "",
-    "kedalaman": "",
-    "lokasi": ""
-  }]
+  "history": []
 }
