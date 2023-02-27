@@ -38,6 +38,6 @@ const utils = require("./utils");
   } catch (error) {
     throw error;
   }
-  if (counter == 50) clearInterval(notif);
+  if (counter == 30) clearInterval(notif);
   else clearInterval(notif);
 })();
