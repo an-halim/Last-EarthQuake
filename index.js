@@ -1,5 +1,5 @@
 const fs = require("fs");
-const utils = require("./utils");
+const utils = require("./func");
 
 (async () => {
   let counter = 0;
@@ -17,8 +17,8 @@ const utils = require("./utils");
         console.log("Update require!");
 
         let saveToLocal = localData;
-        saveToLocal?.latest = gempa[0];
-        saveToLocal?.history?.push(gempa[0]);
+        saveToLocal.latest = gempa[0];
+        saveToLocal.history.push(gempa[0]);
 
         fs.writeFile("./data/data.json", JSON.stringify(saveToLocal), function (err) {
           if (err) throw err;

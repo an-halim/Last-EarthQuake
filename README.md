@@ -4,7 +4,7 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 Last Update
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230227082602.mmi.jpg?139055nz7ykg7mlekcbukhn" width="400"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230227082602.mmi.jpg?90652xdmqnjc546hur3ff9e" width="400"/>
 <br>
 Lokasi: Pusat gempa berada di darat 42 km Tenggara Sigi <br>
 Magnitude: 5.5 <br>
