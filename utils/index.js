@@ -6,7 +6,7 @@ module.exports.readMe = function (data) {
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="${data.img}" width="400"/>
+<img src="${data.img}" width="300"/>
 <br>
 Lokasi: ${data.lokasi} <br>
 Magnitude: ${data.magnitude} <br>
