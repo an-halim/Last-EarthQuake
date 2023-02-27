@@ -1,5 +1,5 @@
 const fs = require("fs");
-const utils = require("./func");
+const utils = require("./utils");
 
 (async () => {
   let counter = 0;
