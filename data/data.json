@@ -1,18 +1,1 @@
-{
-  "latest": {
-    "img": "https://ews.bmkg.go.id/TEWS/data/20230227082602.mmi.jpg?56675izoyu8543nv22lqszn",
-    "waktu": "27/02/202308:26:02 WIB",
-    "koordinat": "1.59 LS 120.21 BT",
-    "magnitude": "5.5",
-    "kedalaman": "10 Km",
-    "lokasi": "Pusat gempa berada di darat 42 km Tenggara Sigi"
-  },
-  "history": [{
-    "img": "https://ews.bmkg.go.id/TEWS/data/20230227082602.mmi.jpg?56675izoyu8543nv22lqszn",
-    "waktu": "27/02/202308:26:02 WIB",
-    "koordinat": "1.59 LS 120.21 BT",
-    "magnitude": "5.5",
-    "kedalaman": "10 Km",
-    "lokasi": "Pusat gempa berada di darat 42 km Tenggara Sigi"
-  }]
-}
+{"latest":{"img":"https://ews.bmkg.go.id/TEWS/data/20230228123545.mmi.jpg?51612ihoclb73ua2eg6rbn2","waktu":"28/02/202312:35:45 WIB","koordinat":"2.5 LS 140.71 BT","magnitude":"2.5","kedalaman":"10 Km","lokasi":"Pusat gempa berada di darat 4 km BaratLaut Kota Jayapura"},"history":[{"img":"https://ews.bmkg.go.id/TEWS/data/20230227082602.mmi.jpg?56675izoyu8543nv22lqszn","waktu":"27/02/202308:26:02 WIB","koordinat":"1.59 LS 120.21 BT","magnitude":"5.5","kedalaman":"10 Km","lokasi":"Pusat gempa berada di darat 42 km Tenggara Sigi"},{"img":"https://ews.bmkg.go.id/TEWS/data/20230228123545.mmi.jpg?51612ihoclb73ua2eg6rbn2","waktu":"28/02/202312:35:45 WIB","koordinat":"2.5 LS 140.71 BT","magnitude":"2.5","kedalaman":"10 Km","lokasi":"Pusat gempa berada di darat 4 km BaratLaut Kota Jayapura"}]}
