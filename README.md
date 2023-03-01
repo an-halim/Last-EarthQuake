@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230301200016.mmi.jpg?2731684ec2f7ze1zaqb7gv4" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230301230153.mmi.jpg?82767umqt23d8exnaomtt14" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 4 km tenggara Mamasa <br>
-Magnitude: 2.3 <br>
-Kedalaman: 8 Km <br>
-Koordinat: 2.94 LS 119.36 BT <br>
-Waktu: 01/03/202320:00:16 WIB <br>
+Lokasi: Pusat gempa berada di darat 5 km TimurLaut Mamasa <br>
+Magnitude: 1.6 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 2.91 LS 119.37 BT <br>
+Waktu: 01/03/202323:01:53 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
