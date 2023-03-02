@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230302155643.mmi.jpg?113174gec49qbd3tqed4rzv" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230303033119.mmi.jpg?77970p30veopjd2y7f1v0hu" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 35 km utara Ogotua Kab. Tolitoli <br>
-Magnitude: 4.8 <br>
-Kedalaman: 8 Km <br>
-Koordinat: 1.27 LU 120.2 BT <br>
-Waktu: 02/03/202315:56:43 WIB <br>
+Lokasi: Pusat gempa berada di laut 6 km barat laut Kota Jayapura <br>
+Magnitude: 2.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.48 LS 140.71 BT <br>
+Waktu: 03/03/202303:31:19 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
