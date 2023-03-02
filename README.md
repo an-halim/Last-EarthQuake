@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230302152358.mmi.jpg?74681rqo0iump520qszvguh" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230302155643.mmi.jpg?113174gec49qbd3tqed4rzv" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 42 km TimurLaut Daruba <br>
+Lokasi: Pusat gempa berada di laut 35 km utara Ogotua Kab. Tolitoli <br>
 Magnitude: 4.8 <br>
-Kedalaman: 50 Km <br>
-Koordinat: 2.42 LU 128.39 BT <br>
-Waktu: 02/03/202315:23:58 WIB <br>
+Kedalaman: 8 Km <br>
+Koordinat: 1.27 LU 120.2 BT <br>
+Waktu: 02/03/202315:56:43 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
