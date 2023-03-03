@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230303114916.mmi.jpg?045143sidtnz9nzsoyrrv8f" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230303202430.mmi.jpg?115194flday294asxo8ccbu" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 78 Km Barat Daya Kabupaten Sukabumi <br>
-Magnitude: 3.8 <br>
-Kedalaman: 27 Km <br>
-Koordinat: 7.69 LS 106.52 BT <br>
-Waktu: 03/03/202311:49:16 WIB <br>
+Lokasi: Pusat gempa berada di laut 64 km utara Luwuk <br>
+Magnitude: 4.9 <br>
+Kedalaman: 52 Km <br>
+Koordinat: 0.42 LS 123.01 BT <br>
+Waktu: 03/03/202320:24:30 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
