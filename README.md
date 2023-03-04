@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230305000525.mmi.jpg?18915460bvo7quekaisk5nl" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230305015339.mmi.jpg?064390yhjaf9qe56414ti2s" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3 km barat Kab. Morowali <br>
-Magnitude: 4.8 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 2.67 LS 121.98 BT <br>
-Waktu: 05/03/202300:05:25 WIB <br>
+Lokasi: Pusat gempa berada di darat 5 km barat laut Kota Jayapura <br>
+Magnitude: 3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.53 LS 140.67 BT <br>
+Waktu: 05/03/202301:53:39 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
