@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230306182645.mmi.jpg?42189ek42be5r73blqjtoyz" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230307101432.mmi.jpg?27625a5pfyhvduvqyvm487f" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 8 km timur laut Kota Jayapura <br>
-Magnitude: 2.7 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.46 LS 140.72 BT <br>
-Waktu: 06/03/202318:26:45 WIB <br>
+Lokasi: Pusat gempa berada di laut 30 km Tenggara Parigi Moutong <br>
+Magnitude: 4.6 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 0.11 LS 120.32 BT <br>
+Waktu: 07/03/202310:14:32 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
