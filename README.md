@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230311110348.mmi.jpg?48139g56ha0u0gibrx1evr7" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230311184356.mmi.jpg?66332m1ciml5tmyfgtfrzot" width="300"/>
 <br>
-Lokasi: Pusat gempa berada dilaut 42 km Tenggara Kab- Aceh Singkil <br>
-Magnitude: 5.2 <br>
-Kedalaman: 19 Km <br>
-Koordinat: 1.96 LU 97.85 BT <br>
-Waktu: 11/03/202311:03:48 WIB <br>
+Lokasi: Pusat gempa berada di darat 15 km tenggara Mamasa <br>
+Magnitude: 2.7 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 2.92 LS 119.46 BT <br>
+Waktu: 11/03/202318:43:56 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
