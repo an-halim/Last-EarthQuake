@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230311184356.mmi.jpg?66332m1ciml5tmyfgtfrzot" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230312195928.mmi.jpg?85120vu4ee51ooskn31082d" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 15 km tenggara Mamasa <br>
-Magnitude: 2.7 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 2.92 LS 119.46 BT <br>
-Waktu: 11/03/202318:43:56 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km Barat Laut Kota Jayapura <br>
+Magnitude: 2.5 <br>
+Kedalaman: 8 Km <br>
+Koordinat: 2.53 LS 140.69 BT <br>
+Waktu: 12/03/202319:59:28 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
