@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230313135303.mmi.jpg?171926355k72xz2inj8monm" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230314102752.mmi.jpg?39088da217okf5e0tacauvt" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 53 km BaratDaya AGAM-SUMBAR <br>
-Magnitude: 3.9 <br>
-Kedalaman: 52 Km <br>
-Koordinat: 0.41 LS 99.56 BT <br>
-Waktu: 13/03/202313:53:03 WIB <br>
+Lokasi: Pusat gempa berada di laut 73 km Tenggara Ratahan <br>
+Magnitude: 4.6 <br>
+Kedalaman: 33 Km <br>
+Koordinat: 0.65 LU 125.32 BT <br>
+Waktu: 14/03/202310:27:52 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
