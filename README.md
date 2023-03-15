@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230315125034.mmi.jpg?33370bnbxf7icc0mlvrf41k" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230315212913.mmi.jpg?38495d8g5y57mgvasyk23jp" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 8 km Timurlaut Tapanuli Utara <br>
-Magnitude: 3.1 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.07 LU 99.01 BT <br>
-Waktu: 15/03/202312:50:34 WIB <br>
+Lokasi: Pusat gempa berada di darat 5 Km Barat Laut Kota Jayapura <br>
+Magnitude: 2.9 <br>
+Kedalaman: 8 Km <br>
+Koordinat: 2.5 LS 140.69 BT <br>
+Waktu: 15/03/202321:29:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
