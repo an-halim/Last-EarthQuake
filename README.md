@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230319232953.mmi.jpg?9877508syv5kegp468lc4tr" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230320023014.mmi.jpg?48403e6i9q98a4zy54jkalk" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 8 km utara Kepulauan Sitaro <br>
-Magnitude: 3.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.82 LU 125.36 BT <br>
-Waktu: 19/03/202323:29:53 WIB <br>
+Lokasi: Pusat gempa berada di laut 54 km barat daya Bengkulu Utara <br>
+Magnitude: 4.9 <br>
+Kedalaman: 27 Km <br>
+Koordinat: 3.77 LS 101.84 BT <br>
+Waktu: 20/03/202302:30:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
