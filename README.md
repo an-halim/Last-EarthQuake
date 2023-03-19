@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230320023014.mmi.jpg?48403e6i9q98a4zy54jkalk" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230320051839.mmi.jpg?64854mruouol79thz2k6jom" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 54 km barat daya Bengkulu Utara <br>
-Magnitude: 4.9 <br>
-Kedalaman: 27 Km <br>
-Koordinat: 3.77 LS 101.84 BT <br>
-Waktu: 20/03/202302:30:14 WIB <br>
+Lokasi: Pusat gempa berada di laut 38 km utara Seram Bagian Barat <br>
+Magnitude: 4.7 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.74 LS 128.07 BT <br>
+Waktu: 20/03/202305:18:39 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
