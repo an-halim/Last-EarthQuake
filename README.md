@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230322054434.mmi.jpg?146984qn46vjydd4eusgq02" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230322082414.mmi.jpg?53953jpzqp3j14g0ajh1127" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 7 km BaratLaut Kota Jayapura <br>
-Magnitude: 2.8 <br>
-Kedalaman: 7 Km <br>
-Koordinat: 2.49 LS 140.67 BT <br>
-Waktu: 22/03/202305:44:34 WIB <br>
+Lokasi: Pusat gempa berada di laut 90 km Tenggara Kab-Sukabumi <br>
+Magnitude: 4.4 <br>
+Kedalaman: 31 Km <br>
+Koordinat: 7.75 LS 106.85 BT <br>
+Waktu: 22/03/202308:24:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
