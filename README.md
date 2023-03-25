@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230325161101.mmi.jpg?67762m5ssmy5ts0idfh4e0z" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230326055317.mmi.jpg?60633oemkopy5nuijaxzkea" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 16 km Baratlaut Enggano <br>
-Magnitude: 4.5 <br>
-Kedalaman: 16 Km <br>
-Koordinat: 5.34 LS 102.12 BT <br>
-Waktu: 25/03/202316:11:01 WIB <br>
+Lokasi: Pusat gempa berada di darat 20 km BaratDaya Halmahera Timur <br>
+Magnitude: 4.4 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 1.17 LU 128.37 BT <br>
+Waktu: 26/03/202305:53:17 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
