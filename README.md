@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230324203608.mmi.jpg?161835z72rv49ejo7tmlc35" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230325161101.mmi.jpg?67762m5ssmy5ts0idfh4e0z" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km Barat Laut Wonosobo <br>
-Magnitude: 2.7 <br>
-Kedalaman: 9 Km <br>
-Koordinat: 7.19 LS 109.83 BT <br>
-Waktu: 24/03/202320:36:08 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km Baratlaut Enggano <br>
+Magnitude: 4.5 <br>
+Kedalaman: 16 Km <br>
+Koordinat: 5.34 LS 102.12 BT <br>
+Waktu: 25/03/202316:11:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
