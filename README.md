@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230326161345.mmi.jpg?77048q23m6bt6gtl9agkymg" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230326174346.mmi.jpg?78671s8nvhz7aih61mhahv0" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 km barat daya Kab. Cianjur <br>
-Magnitude: 2.7 <br>
-Kedalaman: 11 Km <br>
-Koordinat: 6.86 LS 107.1 BT <br>
-Waktu: 26/03/202316:13:45 WIB <br>
+Lokasi: Pusat gempa berada di laut 98 km TimurLaut Tepa <br>
+Magnitude: 4.9 <br>
+Kedalaman: 14 Km <br>
+Koordinat: 7.38 LS 130.31 BT <br>
+Waktu: 26/03/202317:43:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
