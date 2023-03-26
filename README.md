@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230326055317.mmi.jpg?60633oemkopy5nuijaxzkea" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230326074826.mmi.jpg?092903ba4ejnbao05d0e2i4" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 20 km BaratDaya Halmahera Timur <br>
-Magnitude: 4.4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 1.17 LU 128.37 BT <br>
-Waktu: 26/03/202305:53:17 WIB <br>
+Lokasi: Pusat gempa berada di darat 20 km Tenggara Agam <br>
+Magnitude: 3.7 <br>
+Kedalaman: 2 Km <br>
+Koordinat: 0.45 LS 100.16 BT <br>
+Waktu: 26/03/202307:48:26 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
