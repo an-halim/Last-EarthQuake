@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230331210949.mmi.jpg?31206cg99zx38psh9gf8cdg" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230401005541.mmi.jpg?36284b0b1tr7vyjzpbb89sj" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 Km Baratlaut Kota Jayapura <br>
-Magnitude: 2.9 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 2.5 LS 140.68 BT <br>
-Waktu: 31/03/202321:09:49 WIB <br>
+Lokasi: Pusat gempa berada dilaut 76 km TimurLaut Ruteng <br>
+Magnitude: 4.5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 7.96 LS 120.68 BT <br>
+Waktu: 01/04/202300:55:41 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
