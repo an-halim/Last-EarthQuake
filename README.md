@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230331152835.mmi.jpg?91897xhv4556qxvyl531pzc" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230331170441.mmi.jpg?53200jo87emxz4tm8e5i46t" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 97 km Barat Daya Kuta Selatan <br>
-Magnitude: 5 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 9.67 LS 115.15 BT <br>
-Waktu: 31/03/202315:28:35 WIB <br>
+Lokasi: Pusat gempa berada di laut 61 km TimurLaut Daruba <br>
+Magnitude: 4.7 <br>
+Kedalaman: 28 Km <br>
+Koordinat: 2.57 LU 128.47 BT <br>
+Waktu: 31/03/202317:04:41 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
