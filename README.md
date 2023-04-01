@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230401190117.mmi.jpg?76080pz11f4s5r5sdxl108e" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230401204859.mmi.jpg?156785vny8857d2y8c96533" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5 km barat laut Kota Jayapura <br>
-Magnitude: 2.6 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 2.52 LS 140.67 BT <br>
-Waktu: 01/04/202319:01:17 WIB <br>
+Lokasi: Pusat gempa berada di darat 6 km Barat Laut Kota Jayapura <br>
+Magnitude: 3.2 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 2.49 LS 140.68 BT <br>
+Waktu: 01/04/202320:48:59 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
