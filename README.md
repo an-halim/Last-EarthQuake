@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230402162622.mmi.jpg?06174005xujjz5gjv0jompv" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230402165026.mmi.jpg?51803lit9ph5umt6x8trhp6" width="300"/>
 <br>
-Lokasi: Pusat gempabumi berada di darat 59 km Timur Laut Mimika <br>
-Magnitude: 4.5 <br>
-Kedalaman: 13 Km <br>
-Koordinat: 4.38 LS 136.9 BT <br>
-Waktu: 02/04/202316:26:22 WIB <br>
+Lokasi: Pusat gempa berada di darat 13 km Timur Laut Kabupaten Jayapura <br>
+Magnitude: 4 <br>
+Kedalaman: 11 Km <br>
+Koordinat: 2.52 LS 140.5 BT <br>
+Waktu: 02/04/202316:50:26 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
