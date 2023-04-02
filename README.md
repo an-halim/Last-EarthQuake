@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230402112234.mmi.jpg?0859418l3sgfdxfsn31v29h" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230402154057.mmi.jpg?92062zj1tmpiltvqspu8hlp" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 8 km TimurLaut Kota Jayapura <br>
-Magnitude: 2.5 <br>
-Kedalaman: 7 Km <br>
-Koordinat: 2.47 LS 140.74 BT <br>
-Waktu: 02/04/202311:22:34 WIB <br>
+Lokasi: Pusat gempa berada di laut 70 Km Barat Laut Bima <br>
+Magnitude: 5.8 <br>
+Kedalaman: 29 Km <br>
+Koordinat: 7.81 LS 118.73 BT <br>
+Waktu: 02/04/202315:40:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
