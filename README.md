@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230401204859.mmi.jpg?156785vny8857d2y8c96533" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230402091210.mmi.jpg?61762lhrungs1khitrkngr1" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 km Barat Laut Kota Jayapura <br>
-Magnitude: 3.2 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 2.49 LS 140.68 BT <br>
-Waktu: 01/04/202320:48:59 WIB <br>
+Lokasi: Pusat gempa berada di darat 10 km BaratDaya Bombana <br>
+Magnitude: 2.8 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 4.86 LS 121.99 BT <br>
+Waktu: 02/04/202309:12:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
