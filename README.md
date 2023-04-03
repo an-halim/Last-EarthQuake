@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230403010414.mmi.jpg?70542selmnf21gbojyyma3k" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230403131305.mmi.jpg?58911j7ybi7ru30ta3du1ib" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 115 km BaratDaya Wewak <br>
-Magnitude: 7.2 <br>
-Kedalaman: 93 Km <br>
-Koordinat: 4.44 LS 143.05 BT <br>
-Waktu: 03/04/202301:04:14 WIB <br>
+Lokasi: Pusat gempa berada di laut 56 km Barat Daya Kaimana <br>
+Magnitude: 3.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.77 LS 133.81 BT <br>
+Waktu: 03/04/202313:13:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
