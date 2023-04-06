@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230406073204.mmi.jpg?58944k6yktqicafhkd27uot" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230406202834.mmi.jpg?47267h38r3dcnxrzpa9t7s8" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 93 km TimurLaut Tojo Una-Una <br>
-Magnitude: 5.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 0.57 LS 122.19 BT <br>
-Waktu: 06/04/202307:32:04 WIB <br>
+Lokasi: Pusat gempa berada di laut 76 km tenggara Pesisir Barat <br>
+Magnitude: 4.9 <br>
+Kedalaman: 47 Km <br>
+Koordinat: 5.87 LS 104.02 BT <br>
+Waktu: 06/04/202320:28:34 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
