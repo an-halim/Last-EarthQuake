@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230408122122.mmi.jpg?0835928cpcgn1xj6ddrxako" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230409173819.mmi.jpg?107175cqb58s6un3xu13sv5" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 9 km Barat Laut Bukittinggi <br>
-Magnitude: 4.5 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 0.3 LS 100.28 BT <br>
-Waktu: 08/04/202312:21:22 WIB <br>
+Lokasi: Pusat gempa berada di laut 23 km Tenggara Karangasem <br>
+Magnitude: 2.7 <br>
+Kedalaman: 17 Km <br>
+Koordinat: 8.4 LS 115.73 BT <br>
+Waktu: 09/04/202317:38:19 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
