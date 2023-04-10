@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230410110001.mmi.jpg?82920tmzfds6tdey7l30y2x" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230410191433.mmi.jpg?91601yin8iulmq0zezyksr0" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 9.4 km BaratDaya Wawonii Barat kab. Konawe <br>
-Magnitude: 3.4 <br>
-Kedalaman: 14 Km <br>
-Koordinat: 4.06 LS 122.93 BT <br>
-Waktu: 10/04/202311:00:01 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km BaratLaut Bombana <br>
+Magnitude: 3.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 4.75 LS 121.98 BT <br>
+Waktu: 10/04/202319:14:33 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
