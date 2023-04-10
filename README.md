@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230411002921.mmi.jpg?097533arontciubyvl1eszn" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230411053044.mmi.jpg?46709hzs8b2196vu6h37tzl" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5 km Tenggara Bahonsuai <br>
-Magnitude: 4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 2.26 LS 121.75 BT <br>
-Waktu: 11/04/202300:29:21 WIB <br>
+Lokasi: Pusat gempa berada di laut 13 km Selatan Elpaputih-Kab. Maluku Tengah <br>
+Magnitude: 3.6 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 3.4 LS 128.79 BT <br>
+Waktu: 11/04/202305:30:44 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
