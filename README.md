@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230411094252.mmi.jpg?83848snum741uhkzhn61vxd" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230411145202.mmi.jpg?1782542tdyyf6btqapk7cpa" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 86 km Barat Daya Kabupaten Bandung <br>
-Magnitude: 4.1 <br>
-Kedalaman: 26 Km <br>
-Koordinat: 7.76 LS 107.29 BT <br>
-Waktu: 11/04/202309:42:52 WIB <br>
+Lokasi: Pusat gempa berada di darat 11 Km Baratlaut Garut <br>
+Magnitude: 3.5 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 7.18 LS 107.8 BT <br>
+Waktu: 11/04/202314:52:02 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
