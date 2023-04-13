@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230412111952.mmi.jpg?258059ut8xgg3chqoj01goj" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230413194546.mmi.jpg?62500nlj9dc2neu2eiu6uqd" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 96 km Baratdaya Selayar <br>
-Magnitude: 3.5 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 7.15 LS 120.41 BT <br>
-Waktu: 12/04/202311:19:52 WIB <br>
+Lokasi: Pusat gempa berada di darat 7 km TimurLaut Tapanuli Utara <br>
+Magnitude: 3.2 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 2.08 LU 98.99 BT <br>
+Waktu: 13/04/202319:45:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
