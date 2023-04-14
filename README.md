@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230414092236.mmi.jpg?114984gf47r060ph48522tb" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230414100133.mmi.jpg?78346r5bn1zcb19qkaocbf7" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 4 km Timur Laut Mamasa <br>
-Magnitude: 2.7 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 2.89 LS 119.36 BT <br>
-Waktu: 14/04/202309:22:36 WIB <br>
+Lokasi: Pusat gempa berada di Laut 57 km TimurLaut Sarmi <br>
+Magnitude: 5.3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.69 LS 139.24 BT <br>
+Waktu: 14/04/202310:01:33 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
