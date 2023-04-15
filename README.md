@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230415125510.mmi.jpg?43122fp6enaog9ls7uo7ecy" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230415220707.mmi.jpg?50098jc358eytl3mmr7ph3s" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 22 km Tenggara Kab. Bandung <br>
-Magnitude: 2.3 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 7.22 LS 107.58 BT <br>
-Waktu: 15/04/202312:55:10 WIB <br>
+Lokasi: Pusat gempa berada di laut 53 km BaratDaya Bengkulu Selatan <br>
+Magnitude: 6.2 <br>
+Kedalaman: 23 Km <br>
+Koordinat: 4.93 LS 102.85 BT <br>
+Waktu: 15/04/202322:07:07 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
