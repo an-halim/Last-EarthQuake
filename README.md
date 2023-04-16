@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230415220707.mmi.jpg?50098jc358eytl3mmr7ph3s" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230416102928.mmi.jpg?40069ee2tbsxjkuinruvnqe" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 53 km BaratDaya Bengkulu Selatan <br>
-Magnitude: 6.2 <br>
-Kedalaman: 23 Km <br>
-Koordinat: 4.93 LS 102.85 BT <br>
-Waktu: 15/04/202322:07:07 WIB <br>
+Lokasi: Pusat gempa berada di laut 22.9 km BaratDaya Kab. Buton Tengah <br>
+Magnitude: 4.5 <br>
+Kedalaman: 17 Km <br>
+Koordinat: 5.5 LS 122.25 BT <br>
+Waktu: 16/04/202310:29:28 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
