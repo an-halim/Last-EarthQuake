@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230416102928.mmi.jpg?40069ee2tbsxjkuinruvnqe" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230417092435.mmi.jpg?86581vyk1hqmkuycv0n2b3d" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 22.9 km BaratDaya Kab. Buton Tengah <br>
-Magnitude: 4.5 <br>
-Kedalaman: 17 Km <br>
-Koordinat: 5.5 LS 122.25 BT <br>
-Waktu: 16/04/202310:29:28 WIB <br>
+Lokasi: Pusat gempa berada di darat 62 km BaratLaut Luwu Timur <br>
+Magnitude: 3.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.56 LS 120.61 BT <br>
+Waktu: 17/04/202309:24:35 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
