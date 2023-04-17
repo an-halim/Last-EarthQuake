@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230417113830.mmi.jpg?23663anosqcn71aka9904pd" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230417134128.mmi.jpg?53979kn0xco5yyzblrctfhz" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 97 km BaratDaya Kabupaten Pangandaran <br>
-Magnitude: 4.9 <br>
-Kedalaman: 24 Km <br>
-Koordinat: 8.36 LS 107.91 BT <br>
-Waktu: 17/04/202311:38:30 WIB <br>
+Lokasi: Pusat gempa berada di darat 21 km TimurLaut Konawe Selatan <br>
+Magnitude: 2.3 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 4.3 LS 122.39 BT <br>
+Waktu: 17/04/202313:41:28 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
