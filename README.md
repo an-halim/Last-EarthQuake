@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230417134128.mmi.jpg?53979kn0xco5yyzblrctfhz" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230417180555.mmi.jpg?62878mmvx8e1a260rnkp9nj" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km TimurLaut Konawe Selatan <br>
-Magnitude: 2.3 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4.3 LS 122.39 BT <br>
-Waktu: 17/04/202313:41:28 WIB <br>
+Lokasi: Pusat gempa berada di laut 58 km Barat Daya Bengkulu Selatan <br>
+Magnitude: 5.3 <br>
+Kedalaman: 22 Km <br>
+Koordinat: 4.97 LS 102.84 BT <br>
+Waktu: 17/04/202318:05:55 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
