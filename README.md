@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230417180555.mmi.jpg?62878mmvx8e1a260rnkp9nj" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230418202508.mmi.jpg?55456kxgr2tzpxbk3k7kgom" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 58 km Barat Daya Bengkulu Selatan <br>
-Magnitude: 5.3 <br>
-Kedalaman: 22 Km <br>
-Koordinat: 4.97 LS 102.84 BT <br>
-Waktu: 17/04/202318:05:55 WIB <br>
+Lokasi: Pusat gempa berada di laut 7.9 km BaratDaya Lasusua, Kab. Kolaka Utara <br>
+Magnitude: 4 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 3.52 LS 120.81 BT <br>
+Waktu: 18/04/202320:25:08 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
