@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230419020748.mmi.jpg?21578aikx6mvycq4zjjvfs0" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230419053931.mmi.jpg?43891fqu3kyq67bu83sdc6j" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut, 31 km TimurLaut Karangasem <br>
-Magnitude: 3.5 <br>
-Kedalaman: 15 Km <br>
-Koordinat: 8.07 LS 115.56 BT <br>
-Waktu: 19/04/202302:07:48 WIB <br>
+Lokasi: Pusat gempa berada di laut 54 km BaratDaya Bengkulu Utara <br>
+Magnitude: 4.4 <br>
+Kedalaman: 18 Km <br>
+Koordinat: 3.79 LS 101.86 BT <br>
+Waktu: 19/04/202305:39:31 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
