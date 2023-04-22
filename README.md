@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230422171518.mmi.jpg?001852e71y2gpl8155f0k0m" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230423000946.mmi.jpg?172944593u0lbnf6im4in46" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 13 km BaratDaya Sanana <br>
-Magnitude: 5 <br>
-Kedalaman: 17 Km <br>
-Koordinat: 2.05 LS 125.85 BT <br>
-Waktu: 22/04/202317:15:18 WIB <br>
+Lokasi: Pusat gempa berada di 173 km Tenggara Nias Selatan <br>
+Magnitude: 5.9 <br>
+Kedalaman: 40 Km <br>
+Koordinat: 0.86 LS 98.43 BT <br>
+Waktu: 23/04/202300:09:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
