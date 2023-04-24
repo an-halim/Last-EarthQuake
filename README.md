@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230423050614.mmi.jpg?156464xol27sg07my1nl3jo" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230424183545.mmi.jpg?58477j5fy4rqj3xfoet9h78" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 9 km Tenggara Larantuka <br>
-Magnitude: 2.8 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 8.35 LS 123.04 BT <br>
-Waktu: 23/04/202305:06:14 WIB <br>
+Lokasi: Pusat gempa berada di laut 41 km BaratDaya Kaur <br>
+Magnitude: 4.9 <br>
+Kedalaman: 32 Km <br>
+Koordinat: 4.96 LS 103.01 BT <br>
+Waktu: 24/04/202318:35:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
