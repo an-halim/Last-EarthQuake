@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230424183545.mmi.jpg?58477j5fy4rqj3xfoet9h78" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230425030057.mmi.jpg?44188hr517guznom84pqs30" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 41 km BaratDaya Kaur <br>
-Magnitude: 4.9 <br>
-Kedalaman: 32 Km <br>
-Koordinat: 4.96 LS 103.01 BT <br>
-Waktu: 24/04/202318:35:45 WIB <br>
+Lokasi: Pusat gempa berada di Laut 177 km BaratLaut Kepulauan Mentawai <br>
+Magnitude: 7.3 <br>
+Kedalaman: 84 Km <br>
+Koordinat: 0.93 LS 98.39 BT <br>
+Waktu: 25/04/202303:00:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
