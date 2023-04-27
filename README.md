@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://ews.bmkg.go.id/TEWS/data/20230427093602.mmi.jpg?17132624ingosz57yuscbeg" width="300"/>
+<img src="https://ews.bmkg.go.id/TEWS/data/20230427102732.mmi.jpg?40629gdnebfz8u48xtbjl78" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 9 km TimurLaut Mamasa <br>
-Magnitude: 3.3 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 2.9 LS 119.41 BT <br>
-Waktu: 27/04/202309:36:02 WIB <br>
+Lokasi: Pusat gempa berada di laut 29 km BaratDaya Kaimana <br>
+Magnitude: 3.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.9 LS 133.72 BT <br>
+Waktu: 27/04/202310:27:32 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
