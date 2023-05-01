@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230430182803.mmi.jpg?49621famfjq26l5eq5x5evx" width="300"/>
+<img src="https://static.bmkg.go.id/20230501102012.mmi.jpg?17173536xph1m0gu1c2gcbl" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 34 km Barat Laut Larantuka <br>
+Lokasi: Pusat gempa berada di darat 12 km Timur Laut Dogiyai <br>
 Magnitude: 3.8 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 8.01 LS 122.9 BT <br>
-Waktu: 30/04/202318:28:03 WIB <br>
+Koordinat: 4.01 LS 136.07 BT <br>
+Waktu: 01/05/202310:20:12 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
