@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230501102012.mmi.jpg?17173536xph1m0gu1c2gcbl" width="300"/>
+<img src="https://static.bmkg.go.id/20230503005644.mmi.jpg?77289q191di25rckovuorup" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 12 km Timur Laut Dogiyai <br>
-Magnitude: 3.8 <br>
+Lokasi: Pusat gempa berada di Laut 116 km BaratDaya Jembrana <br>
+Magnitude: 4.6 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 4.01 LS 136.07 BT <br>
-Waktu: 01/05/202310:20:12 WIB <br>
+Koordinat: 9.31 LS 114.19 BT <br>
+Waktu: 03/05/202300:56:44 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
