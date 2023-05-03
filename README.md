@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230503055627.mmi.jpg?49994f8x4t4b629oz7fjhlp" width="300"/>
+<img src="https://static.bmkg.go.id/20230503082306.mmi.jpg?83606unm6164z4s08v2jogt" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 36 km Timur Laut Enggano <br>
-Magnitude: 4.8 <br>
-Kedalaman: 11 Km <br>
-Koordinat: 5.18 LS 102.55 BT <br>
-Waktu: 03/05/202305:56:27 WIB <br>
+Lokasi: Pusat gempa berada di laut 69 km Tenggara Tahuna <br>
+Magnitude: 5.6 <br>
+Kedalaman: 32 Km <br>
+Koordinat: 3.38 LU 126.07 BT <br>
+Waktu: 03/05/202308:23:06 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
