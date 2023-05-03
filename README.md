@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230503205439.mmi.jpg?74061ss4ujy0qok3lvt0922" width="300"/>
+<img src="https://static.bmkg.go.id/20230503224546.mmi.jpg?48907f8y72nxs2qomcs3s0j" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km barat daya Kota Bogor <br>
-Magnitude: 3.4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 6.76 LS 106.7 BT <br>
-Waktu: 03/05/202320:54:39 WIB <br>
+Lokasi: Pusat gempa berada di laut 36 km Barat Laut MAUMERE-SIKKA <br>
+Magnitude: 3.8 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 8.34 LS 122.04 BT <br>
+Waktu: 03/05/202322:45:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
