@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230506134514.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230506221109.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 15 km Timur Laut Kab. Jayapura <br>
-Magnitude: 3.8 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 2.52 LS 140.52 BT <br>
-Waktu: 06/05/202313:45:14 WIB <br>
+Lokasi: Pusat gempa berada di laut 11 km Barat Daya Lombok Barat <br>
+Magnitude: 3.4 <br>
+Kedalaman: 91 Km <br>
+Koordinat: 8.71 LS 116.04 BT <br>
+Waktu: 06/05/202322:11:09 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
