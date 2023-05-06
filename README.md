@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230506093414.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230506093710.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 13 km Timur Laut Mamasa <br>
-Magnitude: 3 <br>
+Lokasi: Pusat gempa berada di darat 11 km Tenggara Mamasa <br>
+Magnitude: 2.8 <br>
 Kedalaman: 1 Km <br>
-Koordinat: 2.89 LS 119.44 BT <br>
-Waktu: 06/05/202309:34:14 WIB <br>
+Koordinat: 2.92 LS 119.43 BT <br>
+Waktu: 06/05/202309:37:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
