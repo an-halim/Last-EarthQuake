@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230507015700.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230509001935.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 79 km BaratDaya Kab. Pangandaran <br>
-Magnitude: 4.4 <br>
-Kedalaman: 29 Km <br>
-Koordinat: 8.07 LS 107.88 BT <br>
-Waktu: 07/05/202301:57:00 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km Tenggara Kebumen <br>
+Magnitude: 3.9 <br>
+Kedalaman: 97 Km <br>
+Koordinat: 7.76 LS 109.77 BT <br>
+Waktu: 09/05/202300:19:35 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
