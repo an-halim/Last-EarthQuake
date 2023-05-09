@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230509001935.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230509121007.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 16 km Tenggara Kebumen <br>
-Magnitude: 3.9 <br>
-Kedalaman: 97 Km <br>
-Koordinat: 7.76 LS 109.77 BT <br>
-Waktu: 09/05/202300:19:35 WIB <br>
+Lokasi: Pusat gempa berada di laut 54 km BaratDaya Kaimana <br>
+Magnitude: 2.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.71 LS 133.71 BT <br>
+Waktu: 09/05/202312:10:07 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
