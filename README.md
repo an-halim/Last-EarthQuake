@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230509131329.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230510112449.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 36 km TimurLaut Sangatta <br>
-Magnitude: 4.2 <br>
-Kedalaman: 13 Km <br>
-Koordinat: 0.71 LU 117.75 BT <br>
-Waktu: 09/05/202313:13:29 WIB <br>
+Lokasi: Pusat gempa berada di Laut 78 km BaratLaut Sumur <br>
+Magnitude: 5.4 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 6.47 LS 104.9 BT <br>
+Waktu: 10/05/202311:24:49 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
