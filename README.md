@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230510174810.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230511213557.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 83 km BaratLaut Sumur <br>
-Magnitude: 5.2 <br>
+Lokasi: Pusat gempa berada di laut 290 km BaratDaya Gunung Sitoli <br>
+Magnitude: 5.7 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 6.56 LS 104.83 BT <br>
-Waktu: 10/05/202317:48:10 WIB <br>
+Koordinat: 1.6 LU 96.36 BT <br>
+Waktu: 11/05/202321:35:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
