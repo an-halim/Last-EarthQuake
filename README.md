@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230514223221.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230517222925.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 60 km barat daya Ternate <br>
-Magnitude: 5.9 <br>
-Kedalaman: 109 Km <br>
-Koordinat: 0.49 LU 126.9 BT <br>
-Waktu: 14/05/202322:32:21 WIB <br>
+Lokasi: Pusat gempa berada di darat 26 km BaratLaut Nabire <br>
+Magnitude: 4.6 <br>
+Kedalaman: 29 Km <br>
+Koordinat: 3.26 LS 135.3 BT <br>
+Waktu: 17/05/202322:29:25 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
