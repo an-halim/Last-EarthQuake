@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230517222925.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230519191405.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 26 km BaratLaut Nabire <br>
-Magnitude: 4.6 <br>
-Kedalaman: 29 Km <br>
-Koordinat: 3.26 LS 135.3 BT <br>
-Waktu: 17/05/202322:29:25 WIB <br>
+Lokasi: Pusat gempa berada di Laut 122 km BaratLaut Jailolo <br>
+Magnitude: 4.9 <br>
+Kedalaman: 7 Km <br>
+Koordinat: 1.42 LU 126.42 BT <br>
+Waktu: 19/05/202319:14:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
