@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230524224934.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230525025722.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 203 Barat Laut Saumlaki <br>
-Magnitude: 6.2 <br>
-Kedalaman: 221 Km <br>
-Koordinat: 7.06 LS 129.72 BT <br>
-Waktu: 24/05/202322:49:34 WIB <br>
+Lokasi: Pusat gempa berada di laut 98 km BaratDaya KUTA SELATAN <br>
+Magnitude: 5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 9.63 LS 114.92 BT <br>
+Waktu: 25/05/202302:57:22 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
