@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230524063642.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230524224934.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 29 km barat Ambon <br>
-Magnitude: 3.1 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.72 LS 127.92 BT <br>
-Waktu: 24/05/202306:36:42 WIB <br>
+Lokasi: Pusat gempa berada di laut 203 Barat Laut Saumlaki <br>
+Magnitude: 6.2 <br>
+Kedalaman: 221 Km <br>
+Koordinat: 7.06 LS 129.72 BT <br>
+Waktu: 24/05/202322:49:34 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
