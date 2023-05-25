@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230525025722.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230525070830.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 98 km BaratDaya KUTA SELATAN <br>
-Magnitude: 5 <br>
+Lokasi: Pusat gempa berada di laut 113 km BaratLaut Ternate <br>
+Magnitude: 4.6 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 9.63 LS 114.92 BT <br>
-Waktu: 25/05/202302:57:22 WIB <br>
+Koordinat: 1.23 LU 126.45 BT <br>
+Waktu: 25/05/202307:08:30 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
