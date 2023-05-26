@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230526220741.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230527044702.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 32 Km Tenggara Masohi <br>
-Magnitude: 3.9 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 3.58 LS 129.07 BT <br>
-Waktu: 26/05/202322:07:41 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km Timur laut Temanggung <br>
+Magnitude: 2.4 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 7.31 LS 110.33 BT <br>
+Waktu: 27/05/202304:47:02 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
