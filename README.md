@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230527173300.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230527204314.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 15 km BaratDaya Kota Salatiga <br>
-Magnitude: 2.5 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 7.35 LS 110.36 BT <br>
-Waktu: 27/05/202317:33:00 WIB <br>
+Lokasi: Pusat gempa berada di darat 9 km tenggara Sukabumi <br>
+Magnitude: 3.2 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 7.02 LS 106.63 BT <br>
+Waktu: 27/05/202320:43:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
