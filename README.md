@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230527130016.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230527173300.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada dilaut 94Km Barat laut Lumajang <br>
-Magnitude: 4.5 <br>
-Kedalaman: 25 Km <br>
-Koordinat: 8.95 LS 113 BT <br>
-Waktu: 27/05/202313:00:16 WIB <br>
+Lokasi: Pusat gempa berada di darat 15 km BaratDaya Kota Salatiga <br>
+Magnitude: 2.5 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 7.35 LS 110.36 BT <br>
+Waktu: 27/05/202317:33:00 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
