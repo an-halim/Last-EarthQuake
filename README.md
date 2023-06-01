@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230601045639.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230601071640.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 23 km Timur Laut Ambon <br>
-Magnitude: 5.5 <br>
-Kedalaman: 95 Km <br>
-Koordinat: 3.52 LS 128.29 BT <br>
-Waktu: 01/06/202304:56:39 WIB <br>
+Lokasi: Pusat gempa berada di darat 6.3 km TimurLaut Lalembuu, Kab Konawe Selatan <br>
+Magnitude: 3.2 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 4.34 LS 122.1 BT <br>
+Waktu: 01/06/202307:16:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
