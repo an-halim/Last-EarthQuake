@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230601162932.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230603001322.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3 km TimurLaut Bukittinggi <br>
+Lokasi: Pusat gempa berada di laut 31 km BaratLaut Kota Jayapura <br>
 Magnitude: 3.7 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 0.29 LS 100.4 BT <br>
-Waktu: 01/06/202316:29:32 WIB <br>
+Koordinat: 2.32 LS 140.56 BT <br>
+Waktu: 03/06/202300:13:22 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
