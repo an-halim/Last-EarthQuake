@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230614212748.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230615072518.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 89 km TimurLaut Bitung <br>
-Magnitude: 4.5 <br>
-Kedalaman: 40 Km <br>
-Koordinat: 1.7 LU 125.88 BT <br>
-Waktu: 14/06/202321:27:48 WIB <br>
+Lokasi: Pusat gempa berada di darat 9 km TimurLaut Kota Cirebon <br>
+Magnitude: 3.2 <br>
+Kedalaman: 1 Km <br>
+Koordinat: 6.7 LS 108.64 BT <br>
+Waktu: 15/06/202307:25:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
