@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230623134253.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230623183057.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 76 km BaratLaut Sinabang <br>
-Magnitude: 4.9 <br>
-Kedalaman: 11 Km <br>
-Koordinat: 2.57 LU 95.7 BT <br>
-Waktu: 23/06/202313:42:53 WIB <br>
+Lokasi: Pusat gempa berada di laut 110 km Tenggara Kab. Malang <br>
+Magnitude: 4.6 <br>
+Kedalaman: 72 Km <br>
+Koordinat: 9.13 LS 112.64 BT <br>
+Waktu: 23/06/202318:30:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
