@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230627104803.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230627203259.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 72 km BaratDaya Cilacap <br>
-Magnitude: 4.2 <br>
-Kedalaman: 32 Km <br>
-Koordinat: 8.37 LS 108.92 BT <br>
-Waktu: 27/06/202310:48:03 WIB <br>
+Lokasi: Pusat gempa berada di laut 37 km BaratDaya Sumur <br>
+Magnitude: 4.3 <br>
+Kedalaman: 14 Km <br>
+Koordinat: 6.95 LS 105.4 BT <br>
+Waktu: 27/06/202320:32:59 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
