@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230629175756.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230630173731.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 7 km Tenggara Tapanuli Utara <br>
-Magnitude: 3.3 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 2.01 LU 99.03 BT <br>
-Waktu: 29/06/202317:57:56 WIB <br>
+Lokasi: Pusat gempa berada dilaut 103Km BaratLaut Banggai Kepulauan <br>
+Magnitude: 5.3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.59 LS 122.44 BT <br>
+Waktu: 30/06/202317:37:31 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
