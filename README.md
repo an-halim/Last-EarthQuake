@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230704205701.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230705143129.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 14 km BaratDaya Bengkulu Tengah <br>
-Magnitude: 3.7 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 3.87 LS 102.38 BT <br>
-Waktu: 04/07/202320:57:01 WIB <br>
+Lokasi: Pusat gempa berada di darat 37 Km BaratLaut Luwu Timur <br>
+Magnitude: 4.5 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 2.41 LS 120.88 BT <br>
+Waktu: 05/07/202314:31:29 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
