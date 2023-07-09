@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230707112508.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230709073510.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 42 km BaratLaut Kab. Jayapura <br>
-Magnitude: 5 <br>
-Kedalaman: 28 Km <br>
-Koordinat: 2.4 LS 140.07 BT <br>
-Waktu: 07/07/202311:25:08 WIB <br>
+Lokasi: Pusat gempa berada di darat 5km Timur Laut Siddenreng Rappang <br>
+Magnitude: 4.7 <br>
+Kedalaman: 8 Km <br>
+Koordinat: 3.77 LS 120.07 BT <br>
+Waktu: 09/07/202307:35:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
