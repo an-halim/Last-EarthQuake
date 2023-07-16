@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230717023800.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230717054135.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 28 km baratlaut Luwu Timur <br>
-Magnitude: 4 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 2.33 LS 121.14 BT <br>
-Waktu: 17/07/202302:38:00 WIB <br>
+Lokasi: Pusat gempa berada di darat 11 km barat laut Kota Jayapura <br>
+Magnitude: 3.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.53 LS 140.6 BT <br>
+Waktu: 17/07/202305:41:35 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
