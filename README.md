@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230717110727.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230717114216.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 29 km BaratLaut Genyem-Jayapura <br>
-Magnitude: 4.7 <br>
-Kedalaman: 14 Km <br>
-Koordinat: 2.34 LS 140.09 BT <br>
-Waktu: 17/07/202311:07:27 WIB <br>
+Lokasi: Pusat gempa berada di laut 79 km TimurLaut Sanana <br>
+Magnitude: 5.8 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.46 LS 126.42 BT <br>
+Waktu: 17/07/202311:42:16 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
