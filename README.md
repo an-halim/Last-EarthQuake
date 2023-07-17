@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230717164636.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230717193725.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 82 km TimurLaut Sanana <br>
-Magnitude: 5.2 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 1.44 LS 126.41 BT <br>
-Waktu: 17/07/202316:46:36 WIB <br>
+Lokasi: Pusat gempa berada di laut 96 km BaratDaya Bolaanguki <br>
+Magnitude: 4.7 <br>
+Kedalaman: 48 Km <br>
+Koordinat: 0.38 LS 123.57 BT <br>
+Waktu: 17/07/202319:37:25 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
