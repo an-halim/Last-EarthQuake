@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230717193725.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230718110724.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 96 km BaratDaya Bolaanguki <br>
-Magnitude: 4.7 <br>
-Kedalaman: 48 Km <br>
-Koordinat: 0.38 LS 123.57 BT <br>
-Waktu: 17/07/202319:37:25 WIB <br>
+Lokasi: Pusat gempa berada di Laut 58 km BaratLaut Pulau Panjang <br>
+Magnitude: 4.9 <br>
+Kedalaman: 22 Km <br>
+Koordinat: 7.97 LS 116.68 BT <br>
+Waktu: 18/07/202311:07:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
