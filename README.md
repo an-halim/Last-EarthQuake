@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230720001208.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230720054115.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 10 km BaratLaut Kota Jayapura <br>
-Magnitude: 2.5 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.47 LS 140.69 BT <br>
-Waktu: 20/07/202300:12:08 WIB <br>
+Lokasi: Pusat gempa berada di darat 4 km BaratLaut Tapanuli Utara <br>
+Magnitude: 3.7 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 2.05 LU 98.95 BT <br>
+Waktu: 20/07/202305:41:15 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
