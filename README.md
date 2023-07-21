@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230721151015.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230722054140.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 21 km BaratLaut Labuan Bajo <br>
+Lokasi: Pusat gempa berada di laut 106 km BaratDaya Kab Tasikmalaya <br>
 Magnitude: 4.6 <br>
-Kedalaman: 136 Km <br>
-Koordinat: 8.38 LS 119.74 BT <br>
-Waktu: 21/07/202315:10:15 WIB <br>
+Kedalaman: 4 Km <br>
+Koordinat: 8.1 LS 107.5 BT <br>
+Waktu: 22/07/202305:41:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
