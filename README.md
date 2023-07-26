@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230726141553.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230726193129.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 15 km Barat Kairatu-SBB <br>
-Magnitude: 2.5 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 3.34 LS 128.22 BT <br>
-Waktu: 26/07/202314:15:53 WIB <br>
+Lokasi: Pusat gempa berada di laut 80 km BaratDaya Kab-Pangandaran <br>
+Magnitude: 3.7 <br>
+Kedalaman: 30 Km <br>
+Koordinat: 8.13 LS 107.9 BT <br>
+Waktu: 26/07/202319:31:29 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
