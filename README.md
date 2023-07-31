@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230729181911.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230731185545.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 21 km BaratLaut Halmahera Timur <br>
-Magnitude: 5 <br>
-Kedalaman: 51 Km <br>
-Koordinat: 1.4 LU 128.31 BT <br>
-Waktu: 29/07/202318:19:11 WIB <br>
+Lokasi: Pusat gempa berada di laut 8 km barat daya Kaimana <br>
+Magnitude: 3.1 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 3.69 LS 133.69 BT <br>
+Waktu: 31/07/202318:55:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
