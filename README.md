@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230803144146.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230803182159.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 38 TimurLaut Lombok Utara <br>
-Magnitude: 4.3 <br>
-Kedalaman: 9 Km <br>
-Koordinat: 8.27 LS 116.49 BT <br>
-Waktu: 03/08/202314:41:46 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km Barat Daya Polewali Mandar <br>
+Magnitude: 3.4 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 3.44 LS 119.03 BT <br>
+Waktu: 03/08/202318:21:59 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
