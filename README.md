@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230803064719.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230803095204.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 54 km TimurLaut Ruteng <br>
-Magnitude: 3.8 <br>
-Kedalaman: 8 Km <br>
-Koordinat: 8.13 LS 120.55 BT <br>
-Waktu: 03/08/202306:47:19 WIB <br>
+Lokasi: Pusat gempa berada di darat 8 km BaratLaut Tapanuli Utara <br>
+Magnitude: 2.5 <br>
+Kedalaman: 4 Km <br>
+Koordinat: 2.04 LU 98.89 BT <br>
+Waktu: 03/08/202309:52:04 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
