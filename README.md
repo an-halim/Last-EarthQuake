@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230804101940.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230804161502.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 39 km Tenggara Kab. Bandung <br>
-Magnitude: 3.2 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 7.38 LS 107.53 BT <br>
-Waktu: 04/08/202310:19:40 WIB <br>
+Lokasi: Pusat gempa berada di darat 17 km Barat Laut Kuantan Singingi <br>
+Magnitude: 4.3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.36 LS 101.39 BT <br>
+Waktu: 04/08/202316:15:02 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
