@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230805111558.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230806051514.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 121 km BaratDaya Kab. Garut <br>
-Magnitude: 4.6 <br>
-Kedalaman: 22 Km <br>
-Koordinat: 8.14 LS 107.31 BT <br>
-Waktu: 05/08/202311:15:58 WIB <br>
+Lokasi: Pusat gempa berada di darat 21 km TimurLaut Kota Sorong <br>
+Magnitude: 3.7 <br>
+Kedalaman: 8 Km <br>
+Koordinat: 0.78 LS 131.48 BT <br>
+Waktu: 06/08/202305:15:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
