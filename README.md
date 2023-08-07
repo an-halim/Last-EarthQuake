@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230807011423.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230807150609.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 18 km Barat Laut Pulau Panjang <br>
-Magnitude: 4.6 <br>
-Kedalaman: 11 Km <br>
-Koordinat: 8.36 LS 116.76 BT <br>
-Waktu: 07/08/202301:14:23 WIB <br>
+Lokasi: Pusat gempa berada di Laut 81 km TimurLaut Bitung <br>
+Magnitude: 4.8 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 1.74 LU 125.79 BT <br>
+Waktu: 07/08/202315:06:09 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
