@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230808223055.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230809012943.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 68 km BaratDaya Seluma <br>
-Magnitude: 4.9 <br>
-Kedalaman: 60 Km <br>
-Koordinat: 4.26 LS 101.99 BT <br>
-Waktu: 08/08/202322:30:55 WIB <br>
+Lokasi: Pusat gempa berada di laut 5 km Tenggara Kab. Konawe <br>
+Magnitude: 4 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 3.89 LS 122.55 BT <br>
+Waktu: 09/08/202301:29:43 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
