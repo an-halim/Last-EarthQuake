@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230809012943.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230809025718.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 5 km Tenggara Kab. Konawe <br>
-Magnitude: 4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 3.89 LS 122.55 BT <br>
-Waktu: 09/08/202301:29:43 WIB <br>
+Lokasi: Pusat gempa berada di laut 10 km tenggara Soropia <br>
+Magnitude: 3.3 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 3.93 LS 122.75 BT <br>
+Waktu: 09/08/202302:57:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
