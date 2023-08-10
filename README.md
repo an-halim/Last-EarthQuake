@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230810090027.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230810131445.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 129 km Barat Langgur, Maluku Tenggara <br>
-Magnitude: 5.9 <br>
-Kedalaman: 154 Km <br>
-Koordinat: 5.75 LS 131.55 BT <br>
-Waktu: 10/08/202309:00:27 WIB <br>
+Lokasi: Pusat gempa berada di darat 38 km Tenggara Buol <br>
+Magnitude: 5.2 <br>
+Kedalaman: 48 Km <br>
+Koordinat: 0.64 LU 121.46 BT <br>
+Waktu: 10/08/202313:14:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
