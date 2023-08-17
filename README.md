@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230817112848.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230817201608.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 96 Km Barat Daya Muarabinuangeun <br>
-Magnitude: 5.7 <br>
-Kedalaman: 60 Km <br>
-Koordinat: 7.62 LS 105.51 BT <br>
-Waktu: 17/08/202311:28:48 WIB <br>
+Lokasi: Pusat gempa berada di darat 35km Timur Laut Kab. Naganraya <br>
+Magnitude: 5.2 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 4.43 LU 96.57 BT <br>
+Waktu: 17/08/202320:16:08 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
