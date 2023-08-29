@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230829102136.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230829113446.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 43 km Timur Laut Alor <br>
-Magnitude: 3.6 <br>
-Kedalaman: 16 Km <br>
-Koordinat: 8.18 LS 124.93 BT <br>
-Waktu: 29/08/202310:21:36 WIB <br>
+Lokasi: Pusat gempa berada dilaut 275Km Baratdaya Seram Bagian Timur <br>
+Magnitude: 6.4 <br>
+Kedalaman: 209 Km <br>
+Koordinat: 5.54 LS 130.04 BT <br>
+Waktu: 29/08/202311:34:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
