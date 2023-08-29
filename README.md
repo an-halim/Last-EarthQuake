@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230829113446.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230830030457.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada dilaut 275Km Baratdaya Seram Bagian Timur <br>
-Magnitude: 6.4 <br>
-Kedalaman: 209 Km <br>
-Koordinat: 5.54 LS 130.04 BT <br>
-Waktu: 29/08/202311:34:46 WIB <br>
+Lokasi: Pusat gempa berada di laut 61 Km BaratDaya Kuta Selatan <br>
+Magnitude: 4.3 <br>
+Kedalaman: 41 Km <br>
+Koordinat: 9.32 LS 115.05 BT <br>
+Waktu: 30/08/202303:04:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
