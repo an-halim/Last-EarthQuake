@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230831172930.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230902093427.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 36 km BaratLaut Timor Tengah Selatan <br>
-Magnitude: 6.1 <br>
-Kedalaman: 75 Km <br>
-Koordinat: 9.69 LS 124.1 BT <br>
-Waktu: 31/08/202317:29:30 WIB <br>
+Lokasi: Pusat gempa berada di darat 6 km TimurLaut Nabire <br>
+Magnitude: 4 <br>
+Kedalaman: 26 Km <br>
+Koordinat: 3.31 LS 135.51 BT <br>
+Waktu: 02/09/202309:34:27 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
