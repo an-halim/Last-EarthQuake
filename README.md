@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230902093427.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230904053605.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 km TimurLaut Nabire <br>
-Magnitude: 4 <br>
-Kedalaman: 26 Km <br>
-Koordinat: 3.31 LS 135.51 BT <br>
-Waktu: 02/09/202309:34:27 WIB <br>
+Lokasi: Pusat gempa berada di darat 24 km Tenggara Kab. Aceh Selatan <br>
+Magnitude: 3.5 <br>
+Kedalaman: 15 Km <br>
+Koordinat: 3.24 LU 97.46 BT <br>
+Waktu: 04/09/202305:36:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
