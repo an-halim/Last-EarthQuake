@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230907195330.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230909055002.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 31 km BaratLaut Jayapura <br>
-Magnitude: 4.2 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.33 LS 140.07 BT <br>
-Waktu: 07/09/202319:53:30 WIB <br>
+Lokasi: Pusat gempa berada di laut 43 km BaratLaut Melonguane <br>
+Magnitude: 4.7 <br>
+Kedalaman: 82 Km <br>
+Koordinat: 4.27 LU 126.4 BT <br>
+Waktu: 09/09/202305:50:02 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
