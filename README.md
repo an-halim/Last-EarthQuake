@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230909070616.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230909214324.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 119 km TimurLaut Lombok Utara <br>
-Magnitude: 5.7 <br>
-Kedalaman: 500 Km <br>
-Koordinat: 7.19 LS 116.61 BT <br>
-Waktu: 09/09/202307:06:16 WIB <br>
+Lokasi: Pusat gempa berada di laut 50 km barat laut Donggala <br>
+Magnitude: 6.3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.03 LU 119.8 BT <br>
+Waktu: 09/09/202321:43:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
