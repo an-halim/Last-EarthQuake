@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230910141724.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230910214005.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 17 km Baratlaut Alor <br>
-Magnitude: 2.8 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 8.15 LS 124.49 BT <br>
-Waktu: 10/09/202314:17:24 WIB <br>
+Lokasi: Pusat gempa berada di darat 18 km Tenggara Kab. Karo <br>
+Magnitude: 3.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.94 LU 98.53 BT <br>
+Waktu: 10/09/202321:40:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
