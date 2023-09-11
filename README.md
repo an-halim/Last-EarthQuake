@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230911235815.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230912050924.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 km BaratDaya Kab. Cianjur <br>
-Magnitude: 3.1 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 6.86 LS 107.09 BT <br>
-Waktu: 11/09/202323:58:15 WIB <br>
+Lokasi: Pusat gempa berada di laut 83 km Barat Daya Kota Sabang <br>
+Magnitude: 5.2 <br>
+Kedalaman: 102 Km <br>
+Koordinat: 5.82 LU 94.57 BT <br>
+Waktu: 12/09/202305:09:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
