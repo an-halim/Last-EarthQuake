@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230910214005.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230911131423.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 18 km Tenggara Kab. Karo <br>
-Magnitude: 3.9 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.94 LU 98.53 BT <br>
-Waktu: 10/09/202321:40:05 WIB <br>
+Lokasi: Pusat gempa berada di darat 19 Km BaratDaya Lereh, Jayapura <br>
+Magnitude: 4.8 <br>
+Kedalaman: 75 Km <br>
+Koordinat: 3 LS 139.87 BT <br>
+Waktu: 11/09/202313:14:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
