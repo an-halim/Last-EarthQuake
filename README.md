@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230921151435.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230922012321.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 19 km TimurLaut Lembata <br>
-Magnitude: 3.6 <br>
-Kedalaman: 3 Km <br>
-Koordinat: 8.31 LS 123.56 BT <br>
-Waktu: 21/09/202315:14:35 WIB <br>
+Lokasi: Pusat gempa berada di laut 68 km BaratDaya Buton Selatan <br>
+Magnitude: 4.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 6.22 LS 122.63 BT <br>
+Waktu: 22/09/202301:23:21 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
