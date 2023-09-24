@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230924071018.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230924211114.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3 km Tenggara Lombok Barat <br>
-Magnitude: 4.4 <br>
-Kedalaman: 91 Km <br>
-Koordinat: 8.71 LS 116.14 BT <br>
-Waktu: 24/09/202307:10:18 WIB <br>
+Lokasi: Pusat gempa berada di darat 8 km Timur Masohi <br>
+Magnitude: 3.1 <br>
+Kedalaman: 7 Km <br>
+Koordinat: 3.31 LS 128.99 BT <br>
+Waktu: 24/09/202321:11:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
