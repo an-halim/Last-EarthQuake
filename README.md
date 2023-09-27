@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230927204257.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230927231520.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 km barat daya Samosir <br>
-Magnitude: 3.3 <br>
-Kedalaman: 1 Km <br>
-Koordinat: 2.58 LU 98.66 BT <br>
-Waktu: 27/09/202320:42:57 WIB <br>
+Lokasi: Pusat gempa berada di laut 16 km BaratLaut Maluku Tengah <br>
+Magnitude: 5.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.28 LS 128.81 BT <br>
+Waktu: 27/09/202323:15:20 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
