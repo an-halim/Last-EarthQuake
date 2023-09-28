@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20230928011917.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20230928160540.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 26 km baratdaya Kendal <br>
-Magnitude: 2.6 <br>
-Kedalaman: 7 Km <br>
-Koordinat: 7.08 LS 110.02 BT <br>
-Waktu: 28/09/202301:19:17 WIB <br>
+Lokasi: Pusat gempa berada di laut 90 km arah Tenggara Sanana, Buru, Tenggara <br>
+Magnitude: 4.6 <br>
+Kedalaman: 4 Km <br>
+Koordinat: 2.66 LS 126.52 BT <br>
+Waktu: 28/09/202316:05:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
