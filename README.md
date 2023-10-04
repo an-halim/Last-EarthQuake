@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231004091847.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231004182148.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 4,3 km tenggara Baula Kab. Kolaka <br>
-Magnitude: 4.1 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4.19 LS 121.7 BT <br>
-Waktu: 04/10/202309:18:47 WIB <br>
+Lokasi: Pusat gempa berada di laut 116 km BaratLaut Pulau Karatung <br>
+Magnitude: 6.7 <br>
+Kedalaman: 145 Km <br>
+Koordinat: 5.43 LU 126.27 BT <br>
+Waktu: 04/10/202318:21:48 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
