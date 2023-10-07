@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231006135133.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231007172032.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 11 km utara Kairatu <br>
-Magnitude: 3.7 <br>
+Lokasi: Pusat gempa berada di laut 88 Km Barat Daya Pesisir Barat <br>
+Magnitude: 4.8 <br>
 Kedalaman: 8 Km <br>
-Koordinat: 3.24 LS 128.36 BT <br>
-Waktu: 06/10/202313:51:33 WIB <br>
+Koordinat: 5.98 LS 103.91 BT <br>
+Waktu: 07/10/202317:20:32 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
