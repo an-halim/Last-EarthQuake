@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231008131053.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231009105050.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 12,9 km Tenggara Lapandewa, Kab. Buton Selatan <br>
-Magnitude: 3 <br>
-Kedalaman: 7 Km <br>
-Koordinat: 5.77 LS 122.82 BT <br>
-Waktu: 08/10/202313:10:53 WIB <br>
+Lokasi: Pusat gempa berada di laut 17 km BaratDaya Boalemo <br>
+Magnitude: 5.6 <br>
+Kedalaman: 101 Km <br>
+Koordinat: 0.41 LU 122.24 BT <br>
+Waktu: 09/10/202310:50:50 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
