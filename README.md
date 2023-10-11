@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231010234229.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231011091613.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 76 km BaratDaya Kabupaten Malang <br>
-Magnitude: 4.8 <br>
-Kedalaman: 38 Km <br>
-Koordinat: 8.82 LS 112.5 BT <br>
-Waktu: 10/10/202323:42:29 WIB <br>
+Lokasi: Pusat gempa berada di darat 6 km Barat Daya Cianjur <br>
+Magnitude: 2.1 <br>
+Kedalaman: 22 Km <br>
+Koordinat: 6.84 LS 107.08 BT <br>
+Waktu: 11/10/202309:16:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
