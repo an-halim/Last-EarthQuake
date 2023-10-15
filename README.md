@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231015184121.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231015222444.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 11 km TimurLaut Larantuka <br>
-Magnitude: 3.4 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 8.23 LS 123.02 BT <br>
-Waktu: 15/10/202318:41:21 WIB <br>
+Lokasi: Pusat gempa berada di darat 55 km barat laut Dompu <br>
+Magnitude: 4.4 <br>
+Kedalaman: 15 Km <br>
+Koordinat: 8.2 LS 118.09 BT <br>
+Waktu: 15/10/202322:24:44 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
