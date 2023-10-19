@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231015222444.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231019210824.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 55 km barat laut Dompu <br>
-Magnitude: 4.4 <br>
-Kedalaman: 15 Km <br>
-Koordinat: 8.2 LS 118.09 BT <br>
-Waktu: 15/10/202322:24:44 WIB <br>
+Lokasi: Pusat gempa berada di laut 114 km Barat Daya Garut <br>
+Magnitude: 5.6 <br>
+Kedalaman: 18 Km <br>
+Koordinat: 8.09 LS 107.34 BT <br>
+Waktu: 19/10/202321:08:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
