@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231020112803.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231020145731.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 28 km TimurLaut Ruteng <br>
-Magnitude: 4.2 <br>
-Kedalaman: 29 Km <br>
-Koordinat: 8.39 LS 120.6 BT <br>
-Waktu: 20/10/202311:28:03 WIB <br>
+Lokasi: Pusat gempa berada di laut 69 km barat laut Seram Bagian Timur <br>
+Magnitude: 5.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.81 LS 129.94 BT <br>
+Waktu: 20/10/202314:57:31 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
