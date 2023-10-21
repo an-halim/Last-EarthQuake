@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231021025159.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231021140712.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 69 km Tenggara Ratahan <br>
-Magnitude: 5.1 <br>
-Kedalaman: 33 Km <br>
-Koordinat: 0.68 LU 125.3 BT <br>
-Waktu: 21/10/202302:51:59 WIB <br>
+Lokasi: Pusat gempa berada di laut 123 km Tenggara Kaimana <br>
+Magnitude: 4.6 <br>
+Kedalaman: 20 Km <br>
+Koordinat: 4.38 LS 134.57 BT <br>
+Waktu: 21/10/202314:07:12 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
