@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231021190456.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231022212305.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 68 km barat laut Dompu <br>
-Magnitude: 4.6 <br>
-Kedalaman: 13 Km <br>
-Koordinat: 8.1 LS 118.03 BT <br>
-Waktu: 21/10/202319:04:56 WIB <br>
+Lokasi: Pusat gempa berada di laut 62 km tenggara Nias Selatan <br>
+Magnitude: 5.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.48 LU 98.37 BT <br>
+Waktu: 22/10/202321:23:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
