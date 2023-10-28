@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231027202223.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231028220157.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 88 km BaratDaya Kota Sabang <br>
-Magnitude: 4.8 <br>
-Kedalaman: 27 Km <br>
-Koordinat: 5.56 LU 94.59 BT <br>
-Waktu: 27/10/202320:22:23 WIB <br>
+Lokasi: Pusat gempa berada di laut 127 km BaratLaut Toli-Toli <br>
+Magnitude: 5.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.88 LU 120.2 BT <br>
+Waktu: 28/10/202322:01:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
