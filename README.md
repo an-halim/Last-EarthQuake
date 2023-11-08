@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231107102831.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231108115253.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat, 19 km BaratLaut Kota Jayapura <br>
-Magnitude: 3.8 <br>
+Lokasi: Pusat gempa berada di laut 251 km Barat Laut Tanimbar <br>
+Magnitude: 7.2 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 2.45 LS 140.57 BT <br>
-Waktu: 07/11/202310:28:31 WIB <br>
+Koordinat: 6.31 LS 129.77 BT <br>
+Waktu: 08/11/202311:52:53 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
