@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231118063428.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231120063316.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 97 km Barat Daya Kab. Bandung <br>
-Magnitude: 5.2 <br>
-Kedalaman: 21 Km <br>
-Koordinat: 7.86 LS 107.27 BT <br>
-Waktu: 18/11/202306:34:28 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km utara Kairatu <br>
+Magnitude: 3.4 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 3.32 LS 128.35 BT <br>
+Waktu: 20/11/202306:33:16 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
