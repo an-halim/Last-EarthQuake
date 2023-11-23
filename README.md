@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231122094854.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231123125805.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 68 km barat laut Halmahera Barat <br>
-Magnitude: 6.6 <br>
-Kedalaman: 109 Km <br>
-Koordinat: 1.77 LU 124.14 BT <br>
-Waktu: 22/11/202309:48:54 WIB <br>
+Lokasi: Pusat gempa berada di laut 18 km barat laut Lombok Barat <br>
+Magnitude: 3.2 <br>
+Kedalaman: 11 Km <br>
+Koordinat: 8.56 LS 116.03 BT <br>
+Waktu: 23/11/202312:58:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
