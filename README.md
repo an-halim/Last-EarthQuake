@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231125063659.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231125182209.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 12 km Tenggara Kab. Sukabumi <br>
-Magnitude: 3.5 <br>
+Lokasi: Pusat gempa berada di darat 27 km Timur laut Jembrana <br>
+Magnitude: 1.8 <br>
 Kedalaman: 12 Km <br>
-Koordinat: 7.03 LS 106.65 BT <br>
-Waktu: 25/11/202306:36:59 WIB <br>
+Koordinat: 8.23 LS 114.81 BT <br>
+Waktu: 25/11/202318:22:09 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
