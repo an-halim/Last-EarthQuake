@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231201071509.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231202123731.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 15 km TimurLaut Alor <br>
-Magnitude: 3 <br>
+Lokasi: Pusat gempa berada di laut 138 km Tenggara Kab. Malang <br>
+Magnitude: 5.2 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 8.16 LS 124.58 BT <br>
-Waktu: 01/12/202307:15:09 WIB <br>
+Koordinat: 9.38 LS 112.65 BT <br>
+Waktu: 02/12/202312:37:31 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
