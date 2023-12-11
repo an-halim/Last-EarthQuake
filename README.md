@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231211113332.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231211171640.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 62 km Timur Laut Pulaudoi <br>
-Magnitude: 5.3 <br>
-Kedalaman: 114 Km <br>
-Koordinat: 2.62 LU 128.23 BT <br>
-Waktu: 11/12/202311:33:32 WIB <br>
+Lokasi: Pusat gempa berada di darat 19 km Baratdaya Kuantan Singingi <br>
+Magnitude: 5.8 <br>
+Kedalaman: 257 Km <br>
+Koordinat: 0.49 LS 101.36 BT <br>
+Waktu: 11/12/202317:16:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
