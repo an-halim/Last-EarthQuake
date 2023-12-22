@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231220120151.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231222183358.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 17 km Tenggara Nabire <br>
-Magnitude: 3.5 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.41 LS 135.65 BT <br>
-Waktu: 20/12/202312:01:51 WIB <br>
+Lokasi: Pusat gempa berada di laut 65 km TimurLaut Pulau Doi <br>
+Magnitude: 5.4 <br>
+Kedalaman: 23 Km <br>
+Koordinat: 2.72 LU 128.18 BT <br>
+Waktu: 22/12/202318:33:58 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
