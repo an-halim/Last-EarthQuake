@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231223160915.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231223172622.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 102 km Tenggara Tutuyan <br>
-Magnitude: 4.8 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 0.41 LU 125.47 BT <br>
-Waktu: 23/12/202316:09:15 WIB <br>
+Lokasi: Pusat gempa berada di laut 82 km BaratDaya Air Bangis, Pasaman Barat <br>
+Magnitude: 4.5 <br>
+Kedalaman: 28 Km <br>
+Koordinat: 0.51 LS 99.15 BT <br>
+Waktu: 23/12/202317:26:22 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
