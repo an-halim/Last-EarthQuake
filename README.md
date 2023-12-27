@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231228015246.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231228054354.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 15 km barat daya Kab. Kupang <br>
-Magnitude: 5.1 <br>
-Kedalaman: 32 Km <br>
-Koordinat: 10.0 LS 123.78 BT <br>
-Waktu: 28/12/202301:52:46 WIB <br>
+Lokasi: Pusat gempa berada di laut 80 km Barat Daya Kab. Pangandaran <br>
+Magnitude: 5.5 <br>
+Kedalaman: 14 Km <br>
+Koordinat: 8.11 LS 107.89 BT <br>
+Waktu: 28/12/202305:43:54 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
