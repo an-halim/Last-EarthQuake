@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231228115414.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231228123127.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada didarat 25 Km TimurLaut Ambon <br>
-Magnitude: 3.3 <br>
+Lokasi: Pusat gempa berada di laut 26 km timur laut Ambon <br>
+Magnitude: 2.8 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 3.53 LS 128.34 BT <br>
-Waktu: 28/12/202311:54:14 WIB <br>
+Koordinat: 3.57 LS 128.38 BT <br>
+Waktu: 28/12/202312:31:27 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
