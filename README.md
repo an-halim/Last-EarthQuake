@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20231231001626.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20231231115234.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 95 km TimurLaut Kobagma <br>
-Magnitude: 6.5 <br>
-Kedalaman: 30 Km <br>
-Koordinat: 2.89 LS 139.44 BT <br>
-Waktu: 31/12/202300:16:26 WIB <br>
+Lokasi: Pusat gempa berada di Garut 90 km Barat Daya Kabupaten Pangandaran <br>
+Magnitude: 5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 8.22 LS 107.87 BT <br>
+Waktu: 31/12/202311:52:34 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
