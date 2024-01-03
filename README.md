@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240103075349.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240103185500.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 72 Km Barat Daya Bayah <br>
-Magnitude: 5.9 <br>
-Kedalaman: 74 Km <br>
-Koordinat: 7.57 LS 106.14 BT <br>
-Waktu: 03/01/202407:53:49 WIB <br>
+Lokasi: Pusat gempa berada di darat 14 km Timur Laut Enarotali <br>
+Magnitude: 3.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.8 LS 136.4 BT <br>
+Waktu: 03/01/202418:55:00 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
