@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240217052817.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240117053032.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 10 km BaratDaya Bompu <br>
-Magnitude: 4.5 <br>
-Kedalaman: 114 Km <br>
-Koordinat: 8.55 LS 118.37 BT <br>
-Waktu: 17/02/202405:28:17 WIB <br>
+Lokasi: Pusat gempa berada di darat 8 km TimurLaut Karangasem <br>
+Magnitude: 3.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 8.27 LS 115.53 BT <br>
+Waktu: 17/01/202405:30:32 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
