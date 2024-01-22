@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240122110222.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240122151959.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 20 Km Barat daya Karera Sumba Timur <br>
-Magnitude: 4.9 <br>
-Kedalaman: 22 Km <br>
-Koordinat: 10.5 LS 120.18 BT <br>
-Waktu: 22/01/202411:02:22 WIB <br>
+Lokasi: Pusat gempa berada di laut 55 km barat daya Kab. Malang <br>
+Magnitude: 4.4 <br>
+Kedalaman: 129 Km <br>
+Koordinat: 8.6 LS 112.38 BT <br>
+Waktu: 22/01/202415:19:59 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
