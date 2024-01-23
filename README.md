@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240123110721.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240123160503.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut, 75 km Barat Daya Kaimana <br>
-Magnitude: 5.4 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.96 LS 133.82 BT <br>
-Waktu: 23/01/202411:07:21 WIB <br>
+Lokasi: Pusat gempa berada di darat 9 km BaratDaya Painan <br>
+Magnitude: 4.1 <br>
+Kedalaman: 52 Km <br>
+Koordinat: 1.42 LS 100.53 BT <br>
+Waktu: 23/01/202416:05:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
