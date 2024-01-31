@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240131023946.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240131195021.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada dilaut 37 km BaratDaya Lombok Barat <br>
-Magnitude: 3.3 <br>
-Kedalaman: 14 Km <br>
-Koordinat: 8.81 LS 115.82 BT <br>
-Waktu: 31/01/202402:39:46 WIB <br>
+Lokasi: Pusat gempa berada di darat 8 km Tenggara Mamasa <br>
+Magnitude: 2.6 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 2.95 LS 119.39 BT <br>
+Waktu: 31/01/202419:50:21 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
