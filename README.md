@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240202200308.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240203152510.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 78 km BaratDaya Tanggamus <br>
-Magnitude: 4 <br>
-Kedalaman: 30 Km <br>
-Koordinat: 6.08 LS 104.3 BT <br>
-Waktu: 02/02/202420:03:08 WIB <br>
+Lokasi: Pusat gempa berada di laut 83 km Barat Laut Pulau Doi <br>
+Magnitude: 5.2 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.49 LU 127.06 BT <br>
+Waktu: 03/02/202415:25:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
