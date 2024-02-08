@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240208233701.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240209005921.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 13 km Barat Daya Rejang Lebong <br>
-Magnitude: 4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 3.54 LS 102.42 BT <br>
-Waktu: 08/02/202423:37:01 WIB <br>
+Lokasi: Pusat gempa berada di darat 2 km Baratlaut Kota Kendari <br>
+Magnitude: 3.2 <br>
+Kedalaman: 4 Km <br>
+Koordinat: 3.99 LS 122.55 BT <br>
+Waktu: 09/02/202400:59:21 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
