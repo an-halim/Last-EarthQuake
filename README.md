@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240209005921.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240210065326.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km Baratlaut Kota Kendari <br>
-Magnitude: 3.2 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 3.99 LS 122.55 BT <br>
-Waktu: 09/02/202400:59:21 WIB <br>
+Lokasi: Pusat gempa berada dilaut 82 km Timur Laut SUPIORI <br>
+Magnitude: 5.2 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.05 LS 135.93 BT <br>
+Waktu: 10/02/202406:53:26 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
