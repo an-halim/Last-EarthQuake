@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240213140917.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240214013202.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 22 km TimurLaut Banjar <br>
-Magnitude: 3.3 <br>
+Lokasi: Pusat gempa berada di darat 15 km timur laut Banjar <br>
+Magnitude: 4.1 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 3.23 LS 115.18 BT <br>
-Waktu: 13/02/202414:09:17 WIB <br>
+Koordinat: 3.26 LS 115.12 BT <br>
+Waktu: 14/02/202401:32:02 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
