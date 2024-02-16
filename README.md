@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240216152248.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240216185158.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 21 km Tenggara Kab. Aceh Singkil <br>
-Magnitude: 4.4 <br>
-Kedalaman: 31 Km <br>
-Koordinat: 2.15 LU 97.85 BT <br>
-Waktu: 16/02/202415:22:48 WIB <br>
+Lokasi: Pusat gempa berada di darat 8 km tenggara Kota Tasikmalaya <br>
+Magnitude: 3.1 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 7.38 LS 108.24 BT <br>
+Waktu: 16/02/202418:51:58 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
