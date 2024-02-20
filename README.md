@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240220104655.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240220112714.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 58 Km Timurlaut Yalimo <br>
-Magnitude: 4.8 <br>
-Kedalaman: 79 Km <br>
-Koordinat: 3.46 LS 139.86 BT <br>
-Waktu: 20/02/202410:46:55 WIB <br>
+Lokasi: Pusat gempa berada di Laut 55 km Barat Daya Kab. Pangandaran <br>
+Magnitude: 3.7 <br>
+Kedalaman: 37 Km <br>
+Koordinat: 8.2 LS 108.44 BT <br>
+Waktu: 20/02/202411:27:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
