@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240226003347.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240226183047.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 78 km TimurLaut Nias Selatan <br>
-Magnitude: 4.8 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 0.63 LU 98.52 BT <br>
-Waktu: 26/02/202400:33:47 WIB <br>
+Lokasi: Pusat gempa berada didarat 28 Km Tenggara Tapin <br>
+Magnitude: 2.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.11 LS 115.22 BT <br>
+Waktu: 26/02/202418:30:47 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
