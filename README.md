@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240227030951.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240227114913.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada didarat 13Km Timur Laut Kab,Bandung <br>
-Magnitude: 2.8 <br>
-Kedalaman: 7 Km <br>
-Koordinat: 6.75 LS 107.6 BT <br>
-Waktu: 27/02/202403:09:51 WIB <br>
+Lokasi: Pusat gempa berada di Laut 25 km Tenggara Malaka <br>
+Magnitude: 5.2 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 9.71 LS 125.05 BT <br>
+Waktu: 27/02/202411:49:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
