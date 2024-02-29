@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240229223421.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240301031945.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 29 km TimurLaut Donggala <br>
-Magnitude: 4.4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 0.26 LS 120.04 BT <br>
-Waktu: 29/02/202422:34:21 WIB <br>
+Lokasi: Pusat gempa berada di laut 253 km BaratDaya Jember <br>
+Magnitude: 5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 10.4 LS 113.62 BT <br>
+Waktu: 01/03/202403:19:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
