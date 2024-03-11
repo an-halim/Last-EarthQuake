@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240308161148.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240311223104.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 110 Km Baratlaut Pulau Karatung <br>
-Magnitude: 6 <br>
-Kedalaman: 141 Km <br>
-Koordinat: 5.73 LU 126.88 BT <br>
-Waktu: 08/03/202416:11:48 WIB <br>
+Lokasi: Pusat gempa berada di darat 34 km BaratLaut Buol <br>
+Magnitude: 3.5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.1 LU 121.07 BT <br>
+Waktu: 11/03/202422:31:04 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
