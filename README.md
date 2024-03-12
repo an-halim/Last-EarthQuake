@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240311223104.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240312201046.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 34 km BaratLaut Buol <br>
-Magnitude: 3.5 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 1.1 LU 121.07 BT <br>
-Waktu: 11/03/202422:31:04 WIB <br>
+Lokasi: Pusat gempa berada di darat 10 km Utara Elpaputih <br>
+Magnitude: 4 <br>
+Kedalaman: 7 Km <br>
+Koordinat: 3.2 LS 128.76 BT <br>
+Waktu: 12/03/202420:10:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
