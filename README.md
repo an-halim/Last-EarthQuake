@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240313215320.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240314015614.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 34 km Timur Laut Kab. Nagan Raya <br>
-Magnitude: 3.9 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4.53 LU 96.41 BT <br>
-Waktu: 13/03/202421:53:20 WIB <br>
+Lokasi: Pusat gempa berada di laut laut 128 km Tenggara Tuntuyan BolTim <br>
+Magnitude: 6.2 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.21 LS 125.24 BT <br>
+Waktu: 14/03/202401:56:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
