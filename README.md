@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240321174532.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240321194356.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 92 Km Barat Laut Calang <br>
-Magnitude: 4.2 <br>
-Kedalaman: 22 Km <br>
-Koordinat: 4.86 LU 94.78 BT <br>
-Waktu: 21/03/202417:45:32 WIB <br>
+Lokasi: Pusat gempa berada di darat 2 km Timur Laut Talu-Pasaman Barat <br>
+Magnitude: 3.7 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.25 LU 99.98 BT <br>
+Waktu: 21/03/202419:43:56 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
