@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240322123112.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240322155258.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 133 km TimurLaut TUBAN-JATIM <br>
-Magnitude: 5.3 <br>
+Lokasi: Pusat gempa berada di laut 130 km TimurLaut Tuban <br>
+Magnitude: 6.5 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 5.74 LS 112.36 BT <br>
-Waktu: 22/03/202412:31:12 WIB <br>
+Koordinat: 5.76 LS 112.33 BT <br>
+Waktu: 22/03/202415:52:58 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
