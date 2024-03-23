@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240324032207.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240324061458.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 275 km Tenggara Keerom <br>
-Magnitude: 6.8 <br>
-Kedalaman: 63 Km <br>
-Koordinat: 4.25 LS 143.07 BT <br>
-Waktu: 24/03/202403:22:07 WIB <br>
+Lokasi: Pusat gempa berada di laut 126 km Timur Laut Tuban <br>
+Magnitude: 4.5 <br>
+Kedalaman: 2 Km <br>
+Koordinat: 5.8 LS 112.34 BT <br>
+Waktu: 24/03/202406:14:58 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
