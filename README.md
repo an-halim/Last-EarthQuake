@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240323195736.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240323202029.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 106 km Timur Laut Tuban <br>
-Magnitude: 4.6 <br>
-Kedalaman: 17 Km <br>
-Koordinat: 5.98 LS 112.31 BT <br>
-Waktu: 23/03/202419:57:36 WIB <br>
+Lokasi: Pusat gempa berada di laut 31 Km Barat Daya Bengkulu Selatan <br>
+Magnitude: 5.6 <br>
+Kedalaman: 27 Km <br>
+Koordinat: 4.66 LS 102.72 BT <br>
+Waktu: 23/03/202420:20:29 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
