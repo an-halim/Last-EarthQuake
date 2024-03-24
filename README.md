@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240324064713.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240324100410.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 87 km Barat Daya Bone Bolango <br>
-Magnitude: 4.9 <br>
-Kedalaman: 101 Km <br>
-Koordinat: 0.24 LS 123.04 BT <br>
-Waktu: 24/03/202406:47:13 WIB <br>
+Lokasi: Pusat gempa berada di laut 104 km Tenggara Ende <br>
+Magnitude: 6.1 <br>
+Kedalaman: 47 Km <br>
+Koordinat: 9.64 LS 122.16 BT <br>
+Waktu: 24/03/202410:04:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
