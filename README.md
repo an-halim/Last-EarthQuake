@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240324185355.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240324201901.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 65 km Barat Laut. Teluk Bintuni <br>
-Magnitude: 5 <br>
-Kedalaman: 27 Km <br>
-Koordinat: 1.53 LS 133.36 BT <br>
-Waktu: 24/03/202418:53:55 WIB <br>
+Lokasi: Pusat gempa berada di laut 17 km TimurLaut Karangasem <br>
+Magnitude: 3.5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 8.22 LS 115.61 BT <br>
+Waktu: 24/03/202420:19:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
