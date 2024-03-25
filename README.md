@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240326003636.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240326022323.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 71 km Tenggara Ratahan <br>
-Magnitude: 4.8 <br>
-Kedalaman: 40 Km <br>
-Koordinat: 0.83 LU 125.4 BT <br>
-Waktu: 26/03/202400:36:36 WIB <br>
+Lokasi: Pusat gempa berada di darat 2.9 km Barat Daya Loea, Kab. Kolaka <br>
+Magnitude: 2.5 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 4.09 LS 121.86 BT <br>
+Waktu: 26/03/202402:23:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
