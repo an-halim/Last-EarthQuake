@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240325193705.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240325202138.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 17 km Utara Doda <br>
-Magnitude: 4.4 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 1.58 LS 120.21 BT <br>
-Waktu: 25/03/202419:37:05 WIB <br>
+Lokasi: Pusat gempa berada di darat 36 km Timur Laut Bone <br>
+Magnitude: 3.6 <br>
+Kedalaman: 7 Km <br>
+Koordinat: 4.64 LS 120.38 BT <br>
+Waktu: 25/03/202420:21:38 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
