@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240329042303.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240329212242.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 127 km TimurLaut Tuban <br>
-Magnitude: 4.8 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 5.86 LS 112.52 BT <br>
-Waktu: 29/03/202404:23:03 WIB <br>
+Lokasi: Pusat gempa berada di darat 23 km Barat Daya Kota Bogor <br>
+Magnitude: 3 <br>
+Kedalaman: 4 Km <br>
+Koordinat: 6.73 LS 106.63 BT <br>
+Waktu: 29/03/202421:22:42 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
