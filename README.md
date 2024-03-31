@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240331130931.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240331200945.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5km Barat Laut TANAH LAUT <br>
-Magnitude: 2.8 <br>
+Lokasi: Pusat gempa berada di laut 138km Timur Laut TUBAN <br>
+Magnitude: 4.7 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 3.73 LS 114.78 BT <br>
-Waktu: 31/03/202413:09:31 WIB <br>
+Koordinat: 5.7 LS 112.37 BT <br>
+Waktu: 31/03/202420:09:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
