@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240401194323.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240402210523.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km Tenggara Luwu <br>
-Magnitude: 3.2 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 3.47 LS 120.35 BT <br>
-Waktu: 01/04/202419:43:23 WIB <br>
+Lokasi: Pusat gempa berada didarat 54Km BaratLaut Tabalong <br>
+Magnitude: 2.8 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.38 LS 115.52 BT <br>
+Waktu: 02/04/202421:05:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
