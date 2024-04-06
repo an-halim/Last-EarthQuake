@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240404175151.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240406152431.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 141 km timur laut Tuban <br>
-Magnitude: 4.1 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 5.68 LS 112.41 BT <br>
-Waktu: 04/04/202417:51:51 WIB <br>
+Lokasi: Pusat gempa berada didarat 48 Km Barat Laut Tolikara <br>
+Magnitude: 5.2 <br>
+Kedalaman: 101 Km <br>
+Koordinat: 3.06 LS 138.36 BT <br>
+Waktu: 06/04/202415:24:31 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
