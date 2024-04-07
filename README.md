@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240407215719.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240408004619.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 51 km Tenggara Dompu <br>
-Magnitude: 5.2 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 8.99 LS 118.52 BT <br>
-Waktu: 07/04/202421:57:19 WIB <br>
+Lokasi: Pusat gempa berada di laut 149 km Barat daya Tanggamus <br>
+Magnitude: 5.4 <br>
+Kedalaman: 64 Km <br>
+Koordinat: 6.62 LS 103.97 BT <br>
+Waktu: 08/04/202400:46:19 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
