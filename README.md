@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240416231022.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240417105539.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 42 km BaratLaut Luwu Timur <br>
-Magnitude: 2.1 <br>
-Kedalaman: 15 Km <br>
-Koordinat: 2.55 LS 120.79 BT <br>
-Waktu: 16/04/202423:10:22 WIB <br>
+Lokasi: Pusat gempa berada di laut 49 km tenggara Ransiki <br>
+Magnitude: 4.9 <br>
+Kedalaman: 9 Km <br>
+Koordinat: 1.53 LS 134.61 BT <br>
+Waktu: 17/04/202410:55:39 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
