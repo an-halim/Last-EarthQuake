@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240422100313.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240422130605.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 49 km Baratlaut Jailolo <br>
+Lokasi: Pusat gempa berada di laut 30 Km Baratdaya Airhaji Pesisir Selatan <br>
 Magnitude: 4.6 <br>
-Kedalaman: 13 Km <br>
-Koordinat: 1.09 LU 127.02 BT <br>
-Waktu: 22/04/202410:03:13 WIB <br>
+Kedalaman: 27 Km <br>
+Koordinat: 2.04 LS 100.65 BT <br>
+Waktu: 22/04/202413:06:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
