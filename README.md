@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240422181848.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240423234815.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 19 km Barat Laut Bolaanguki <br>
-Magnitude: 4.8 <br>
-Kedalaman: 247 Km <br>
-Koordinat: 0.54 LU 123.93 BT <br>
-Waktu: 22/04/202418:18:48 WIB <br>
+Lokasi: Pusat gempa berada di Laut 23 Km Barat Daya Labuha <br>
+Magnitude: 3.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.82 LS 127.39 BT <br>
+Waktu: 23/04/202423:48:15 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
