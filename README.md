@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240425201431.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240426165710.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 34 km Tenggara Piru-SBB <br>
-Magnitude: 3.7 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 3.3 LS 128.38 BT <br>
-Waktu: 25/04/202420:14:31 WIB <br>
+Lokasi: Pusat gempa berada di darat 9 Km Timur Laut Mamasa <br>
+Magnitude: 2.9 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 2.91 LS 119.41 BT <br>
+Waktu: 26/04/202416:57:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
