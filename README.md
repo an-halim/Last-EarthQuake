@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240503164859.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240504110253.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3.9 km Barat Laut Moramo Utara, kab. <br>
-Magnitude: 2.9 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4 LS 122.63 BT <br>
-Waktu: 03/05/202416:48:59 WIB <br>
+Lokasi: Pusat gempa berada di Laut 17 km BaratDaya Tambolaka <br>
+Magnitude: 4.9 <br>
+Kedalaman: 39 Km <br>
+Koordinat: 9.4 LS 119.02 BT <br>
+Waktu: 04/05/202411:02:53 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
