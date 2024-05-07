@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240507221540.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240508050955.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat, 4 km TimurLaut Ngawi <br>
-Magnitude: 3.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 7.38 LS 111.47 BT <br>
-Waktu: 07/05/202422:15:40 WIB <br>
+Lokasi: Pusat gempa berada di laut 97 km Barat Daya Lombok Barat <br>
+Magnitude: 5.2 <br>
+Kedalaman: 78 Km <br>
+Koordinat: 9.51 LS 115.84 BT <br>
+Waktu: 08/05/202405:09:55 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
