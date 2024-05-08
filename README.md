@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240508050955.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240508101641.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 97 km Barat Daya Lombok Barat <br>
-Magnitude: 5.2 <br>
-Kedalaman: 78 Km <br>
-Koordinat: 9.51 LS 115.84 BT <br>
-Waktu: 08/05/202405:09:55 WIB <br>
+Lokasi: Pusat gempa berada di laut 70 km Boroko-Bolaang Mongondow Utara <br>
+Magnitude: 4.5 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 1.48 LU 122.99 BT <br>
+Waktu: 08/05/202410:16:41 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
