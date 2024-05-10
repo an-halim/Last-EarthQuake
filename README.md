@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240509191226.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240510222048.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 26 km timur laut Luwu Timur <br>
-Magnitude: 3.5 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.51 LS 121.4 BT <br>
-Waktu: 09/05/202419:12:26 WIB <br>
+Lokasi: Pusat gempa berada di laut 63 km Barat Daya Bengkulu Utara <br>
+Magnitude: 4.7 <br>
+Kedalaman: 24 Km <br>
+Koordinat: 3.48 LS 101.63 BT <br>
+Waktu: 10/05/202422:20:48 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
