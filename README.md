@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240516093608.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240516195240.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 9km Barat Laut Nabire <br>
-Magnitude: 4.6 <br>
-Kedalaman: 25 Km <br>
-Koordinat: 3.29 LS 135.48 BT <br>
-Waktu: 16/05/202409:36:08 WIB <br>
+Lokasi: Pusat gempa berada di darat 1.6 km tenggara Baruga <br>
+Magnitude: 2.3 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 4.05 LS 122.49 BT <br>
+Waktu: 16/05/202419:52:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
