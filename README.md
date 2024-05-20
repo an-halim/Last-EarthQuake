@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240520204224.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240521024213.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 79 km BaratDaya Kabupaten Sukabumi <br>
-Magnitude: 4.6 <br>
-Kedalaman: 22 Km <br>
-Koordinat: 7.69 LS 106.42 BT <br>
-Waktu: 20/05/202420:42:24 WIB <br>
+Lokasi: Pusat gempa berada di laut 127 km tenggara Kabupaten Malang <br>
+Magnitude: 5.3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 9.28 LS 112.61 BT <br>
+Waktu: 21/05/202402:42:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
