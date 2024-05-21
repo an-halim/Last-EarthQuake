@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240521024213.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240521121646.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 127 km tenggara Kabupaten Malang <br>
-Magnitude: 5.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 9.28 LS 112.61 BT <br>
-Waktu: 21/05/202402:42:13 WIB <br>
+Lokasi: Pusat gempa berada di darat 42 Km Timur Laut Pohuwato, Gorontalo <br>
+Magnitude: 4.7 <br>
+Kedalaman: 37 Km <br>
+Koordinat: 0.84 LU 121.97 BT <br>
+Waktu: 21/05/202412:16:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
