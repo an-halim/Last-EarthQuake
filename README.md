@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240523152756.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240524062513.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5 km Timur Laut Kabupaten Sumedang <br>
-Magnitude: 2.8 <br>
-Kedalaman: 14 Km <br>
-Koordinat: 6.82 LS 107.95 BT <br>
-Waktu: 23/05/202415:27:56 WIB <br>
+Lokasi: Pusat gempa berada di laut 54 km Barat Daya Bengkulu Utara <br>
+Magnitude: 4.7 <br>
+Kedalaman: 31 Km <br>
+Koordinat: 3.79 LS 101.86 BT <br>
+Waktu: 24/05/202406:25:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
