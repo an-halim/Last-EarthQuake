@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240524170041.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240524233807.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 84 km barat daya Kab. Pangandaran <br>
-Magnitude: 3.9 <br>
-Kedalaman: 25 Km <br>
-Koordinat: 8.15 LS 107.88 BT <br>
-Waktu: 24/05/202417:00:41 WIB <br>
+Lokasi: Pusat gempa berada di darat 9 km BaratDaya Kab. Cianjur <br>
+Magnitude: 3 <br>
+Kedalaman: 7 Km <br>
+Koordinat: 6.84 LS 107.06 BT <br>
+Waktu: 24/05/202423:38:07 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
