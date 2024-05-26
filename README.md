@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240526144222.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240526191121.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 4 km tenggara Bukittinggi <br>
-Magnitude: 3.3 <br>
-Kedalaman: 3 Km <br>
-Koordinat: 0.31 LS 100.41 BT <br>
-Waktu: 26/05/202414:42:22 WIB <br>
+Lokasi: Pusat gempa berada di darat 10km Timur Laut Mamasa <br>
+Magnitude: 2 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 2.9 LS 119.42 BT <br>
+Waktu: 26/05/202419:11:21 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
