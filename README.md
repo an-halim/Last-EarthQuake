@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240528185238.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240529133841.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 111 km baratlaut Sinabang <br>
-Magnitude: 6.2 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 2.76 LU 95.41 BT <br>
-Waktu: 28/05/202418:52:38 WIB <br>
+Lokasi: Pusat gempa berada di laut 145 km TimurLaut Tuban <br>
+Magnitude: 4.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 5.68 LS 112.52 BT <br>
+Waktu: 29/05/202413:38:41 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
