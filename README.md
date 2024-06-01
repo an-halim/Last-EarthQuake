@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240601155124.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240601180140.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 15 km Tenggara Kan. Jayapura <br>
-Magnitude: 3.5 <br>
-Kedalaman: 20 Km <br>
-Koordinat: 2.67 LS 140.51 BT <br>
-Waktu: 01/06/202415:51:24 WIB <br>
+Lokasi: Pusat gempa berada di laut 41 km Tenggara Ransiki <br>
+Magnitude: 5.2 <br>
+Kedalaman: 11 Km <br>
+Koordinat: 1.51 LS 134.53 BT <br>
+Waktu: 01/06/202418:01:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
