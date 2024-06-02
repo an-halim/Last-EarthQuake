@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240602205803.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240603044344.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 79 km tenggara Boalemo <br>
-Magnitude: 4.8 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 0.18 LS 122.46 BT <br>
-Waktu: 02/06/202420:58:03 WIB <br>
+Lokasi: Pusat gempa berada di darat 77 km tenggara Mamberamo Tengah <br>
+Magnitude: 5 <br>
+Kedalaman: 31 Km <br>
+Koordinat: 2.77 LS 138.89 BT <br>
+Waktu: 03/06/202404:43:44 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
