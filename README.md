@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240601180140.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240602065712.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 41 km Tenggara Ransiki <br>
-Magnitude: 5.2 <br>
-Kedalaman: 11 Km <br>
-Koordinat: 1.51 LS 134.53 BT <br>
-Waktu: 01/06/202418:01:40 WIB <br>
+Lokasi: Pusat gempa berada di laut 80 km baratdaya Seluma <br>
+Magnitude: 4.9 <br>
+Kedalaman: 16 Km <br>
+Koordinat: 4.56 LS 102.04 BT <br>
+Waktu: 02/06/202406:57:12 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
