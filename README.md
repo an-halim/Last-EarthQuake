@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240606194626.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240606201540.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 29 km Selatan Palu <br>
-Magnitude: 3.8 <br>
-Kedalaman: 34 Km <br>
-Koordinat: 1.15 LS 119.8 BT <br>
-Waktu: 06/06/202419:46:26 WIB <br>
+Lokasi: Pusat gempa berada di laut 52 km Tenggara Sumbawa Barat <br>
+Magnitude: 5.1 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 9.22 LS 116.94 BT <br>
+Waktu: 06/06/202420:15:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
