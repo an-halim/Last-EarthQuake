@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240609000156.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240610055454.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 82 km BaratDaya Kab. Pangandaran <br>
-Magnitude: 4.2 <br>
-Kedalaman: 43 Km <br>
-Koordinat: 8.12 LS 107.87 BT <br>
-Waktu: 09/06/202400:01:56 WIB <br>
+Lokasi: Pusat gempa berada di darat 15 km barat laut Padang Panjang <br>
+Magnitude: 4 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.45 LS 100.25 BT <br>
+Waktu: 10/06/202405:54:54 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
