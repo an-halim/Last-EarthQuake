@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240615200815.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240615223103.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 112 km barat laut Pulau Doi <br>
-Magnitude: 5.7 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.16 LU 127.27 BT <br>
-Waktu: 15/06/202420:08:15 WIB <br>
+Lokasi: Pusat gempa berada di laut 38 km barat daya Kaur <br>
+Magnitude: 4.8 <br>
+Kedalaman: 30 Km <br>
+Koordinat: 4.89 LS 103.02 BT <br>
+Waktu: 15/06/202422:31:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
