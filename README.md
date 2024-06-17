@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240615223103.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240617182153.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 38 km barat daya Kaur <br>
-Magnitude: 4.8 <br>
-Kedalaman: 30 Km <br>
-Koordinat: 4.89 LS 103.02 BT <br>
-Waktu: 15/06/202422:31:03 WIB <br>
+Lokasi: Pusat gempa berada di darat 8 km barat daya Kab. Cianjur <br>
+Magnitude: 3.4 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 6.85 LS 107.07 BT <br>
+Waktu: 17/06/202418:21:53 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
