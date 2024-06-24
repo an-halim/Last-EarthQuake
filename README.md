@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240624032146.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240624165501.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 32 km tenggara Piru <br>
-Magnitude: 3.7 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.3 LS 128.35 BT <br>
-Waktu: 24/06/202403:21:46 WIB <br>
+Lokasi: Pusat gempa berada di laut 170 km barat laut Saumlaki <br>
+Magnitude: 6 <br>
+Kedalaman: 153 Km <br>
+Koordinat: 7.14 LS 130.02 BT <br>
+Waktu: 24/06/202416:55:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
