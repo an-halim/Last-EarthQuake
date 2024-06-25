@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240625080908.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240625181203.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 8 km barat laut Lubuksikaping-Pasaman <br>
-Magnitude: 3.8 <br>
+Lokasi: Pusat gempa berada di darat 44 km barat laut Luwu Timur <br>
+Magnitude: 3.6 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 0.2 LU 100.12 BT <br>
-Waktu: 25/06/202408:09:08 WIB <br>
+Koordinat: 2.31 LS 120.88 BT <br>
+Waktu: 25/06/202418:12:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
