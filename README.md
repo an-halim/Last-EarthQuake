@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240705182914.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240705233111.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 122 km timur laut Tuban <br>
-Magnitude: 3.7 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 5.85 LS 112.37 BT <br>
-Waktu: 05/07/202418:29:14 WIB <br>
+Lokasi: Pusat gempa berada di darat 32 km Kayong Utara <br>
+Magnitude: 4.6 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 0.81 LS 110.31 BT <br>
+Waktu: 05/07/202423:31:11 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
