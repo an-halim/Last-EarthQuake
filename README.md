@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240707143524.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240708113340.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5 km timur laut Batang <br>
-Magnitude: 4.4 <br>
+Lokasi: Pusat gempa berada di darat, 20 km tenggara Kab. Cianjur <br>
+Magnitude: 2.5 <br>
 Kedalaman: 6 Km <br>
-Koordinat: 6.87 LS 109.75 BT <br>
-Waktu: 07/07/202414:35:24 WIB <br>
+Koordinat: 7 LS 107.18 BT <br>
+Waktu: 08/07/202411:33:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
