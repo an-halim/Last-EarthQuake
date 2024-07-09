@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240708113340.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240709205001.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat, 20 km tenggara Kab. Cianjur <br>
-Magnitude: 2.5 <br>
-Kedalaman: 6 Km <br>
-Koordinat: 7 LS 107.18 BT <br>
-Waktu: 08/07/202411:33:40 WIB <br>
+Lokasi: Pusat gempa berada di darat 31 km Barat Daya Halmahera Timur <br>
+Magnitude: 4.3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.11 LU 128.28 BT <br>
+Waktu: 09/07/202420:50:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
