@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240711175345.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240712034303.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 8 km timur laut Karangasem <br>
-Magnitude: 3.2 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 8.27 LS 115.53 BT <br>
-Waktu: 11/07/202417:53:45 WIB <br>
+Lokasi: Pusat gempa berada di darat 7 km Timur Laut LUWU TIMUR <br>
+Magnitude: 3.8 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 2.57 LS 121.24 BT <br>
+Waktu: 12/07/202403:43:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
