@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240709223201.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240711091317.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 6 km barat daya Kodi- Sumba Barat <br>
-Magnitude: 3.1 <br>
-Kedalaman: 24 Km <br>
-Koordinat: 9.64 LS 118.95 BT <br>
-Waktu: 09/07/202422:32:01 WIB <br>
+Lokasi: Pusat gempa berada di laut 373 km baratlaut Tahuna <br>
+Magnitude: 7 <br>
+Kedalaman: 632 Km <br>
+Koordinat: 6.14 LU 123.28 BT <br>
+Waktu: 11/07/202409:13:17 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
