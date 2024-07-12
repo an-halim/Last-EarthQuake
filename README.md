@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240712133620.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240712173403.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat, 8 km timur laut Sumbawa <br>
-Magnitude: 2.9 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 8.45 LS 117.48 BT <br>
-Waktu: 12/07/202413:36:20 WIB <br>
+Lokasi: Pusat gempa berada di laut, 127 km Barat Laut Jailolo <br>
+Magnitude: 4.8 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.36 LU 126.36 BT <br>
+Waktu: 12/07/202417:34:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
