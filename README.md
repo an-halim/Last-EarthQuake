@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240724013253.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240724072209.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 35 barat laut Saparua <br>
-Magnitude: 4.1 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.43 LS 128.37 BT <br>
-Waktu: 24/07/202401:32:53 WIB <br>
+Lokasi: Pusat gempa berada di darat 96 km timur laut Kobagma <br>
+Magnitude: 5.3 <br>
+Kedalaman: 26 Km <br>
+Koordinat: 2.86 LS 139.38 BT <br>
+Waktu: 24/07/202407:22:09 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
