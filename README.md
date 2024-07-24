@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240724222215.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240725040158.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 37 km timur laut Kab. Nagan Raya <br>
-Magnitude: 4.4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4.56 LU 96.41 BT <br>
-Waktu: 24/07/202422:22:15 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km tenggara Kab. Kuningan <br>
+Magnitude: 3.6 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 6.98 LS 108.51 BT <br>
+Waktu: 25/07/202404:01:58 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
