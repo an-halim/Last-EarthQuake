@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240729220102.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240731063031.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 64 km Barat Daya Pariaman <br>
-Magnitude: 3.8 <br>
-Kedalaman: 37 Km <br>
-Koordinat: 1.01 LS 99.68 BT <br>
-Waktu: 29/07/202422:01:02 WIB <br>
+Lokasi: Pusat gempa berada di darat 1 km baratdaya Batang <br>
+Magnitude: 2.1 <br>
+Kedalaman: 13 Km <br>
+Koordinat: 6.92 LS 109.72 BT <br>
+Waktu: 31/07/202406:30:31 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
