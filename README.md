@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240802000747.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240803123258.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 52 km Tenggara Pesawaran <br>
-Magnitude: 3.4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 5.87 LS 105.12 BT <br>
-Waktu: 02/08/202400:07:47 WIB <br>
+Lokasi: Pusat gempa berada di 28 km Timurlaut Puncakjaya <br>
+Magnitude: 5 <br>
+Kedalaman: 100 Km <br>
+Koordinat: 3.39 LS 138.09 BT <br>
+Waktu: 03/08/202412:32:58 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
