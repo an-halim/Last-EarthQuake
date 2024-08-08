@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240807174026.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240808142427.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 Km BaratLaut Ranomeeto, Kab. Konawe Selatan <br>
-Magnitude: 3.1 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4.02 LS 122.46 BT <br>
-Waktu: 07/08/202417:40:26 WIB <br>
+Lokasi: Pusat gempa berada di laut 24 Km Baratlaut Bolaang Kabupaten Banggai <br>
+Magnitude: 4.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 0.83 LS 121.94 BT <br>
+Waktu: 08/08/202414:24:27 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
