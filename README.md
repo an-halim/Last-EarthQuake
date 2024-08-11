@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240810152023.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240812044458.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 63 km tenggara Tarakan <br>
-Magnitude: 4.6 <br>
-Kedalaman: 11 Km <br>
-Koordinat: 2.8 LU 117.74 BT <br>
-Waktu: 10/08/202415:20:23 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km barat daya Majene <br>
+Magnitude: 2.3 <br>
+Kedalaman: 3 Km <br>
+Koordinat: 3.15 LS 118.82 BT <br>
+Waktu: 12/08/202404:44:58 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
