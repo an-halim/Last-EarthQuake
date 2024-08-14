@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240814211403.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240815005542.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 156 km barat daya Jembrana <br>
-Magnitude: 5 <br>
+Lokasi: Pusat gempa berada di laut 87 km barat daya Bayah <br>
+Magnitude: 5.2 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 9.63 LS 114.02 BT <br>
-Waktu: 14/08/202421:14:03 WIB <br>
+Koordinat: 7.7 LS 106.08 BT <br>
+Waktu: 15/08/202400:55:42 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
