@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240815005542.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240815194014.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 87 km barat daya Bayah <br>
-Magnitude: 5.2 <br>
+Lokasi: Pusat gempa berada di darat 6 km barat daya Ruteng <br>
+Magnitude: 3.3 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 7.7 LS 106.08 BT <br>
-Waktu: 15/08/202400:55:42 WIB <br>
+Koordinat: 8.65 LS 120.42 BT <br>
+Waktu: 15/08/202419:40:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
