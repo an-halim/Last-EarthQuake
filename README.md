@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240818222717.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240819104857.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 26 km tenggara Nabire <br>
-Magnitude: 4.7 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 3.39 LS 135.74 BT <br>
-Waktu: 18/08/202422:27:17 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km barat daya Kab. Kupang <br>
+Magnitude: 4.3 <br>
+Kedalaman: 27 Km <br>
+Koordinat: 10 LS 123.74 BT <br>
+Waktu: 19/08/202410:48:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
