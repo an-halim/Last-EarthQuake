@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240820002948.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240821070117.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 9 km Tenggara KOLAKATIMUR <br>
-Magnitude: 3.7 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4.08 LS 121.93 BT <br>
-Waktu: 20/08/202400:29:48 WIB <br>
+Lokasi: Pusat gempa berada di darat 50 km barat daya Bulungan <br>
+Magnitude: 4.9 <br>
+Kedalaman: 51 Km <br>
+Koordinat: 2.47 LU 116.85 BT <br>
+Waktu: 21/08/202407:01:17 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
