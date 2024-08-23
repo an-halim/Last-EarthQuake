@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240823105558.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240823173028.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 43 km timurlaut Tambolaka <br>
-Magnitude: 5.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 9.04 LS 119.36 BT <br>
-Waktu: 23/08/202410:55:58 WIB <br>
+Lokasi: Pusat gempa berada di darat 7 Km Barat Laut Luwu Timur <br>
+Magnitude: 4.8 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 2.52 LS 121.17 BT <br>
+Waktu: 23/08/202417:30:28 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
