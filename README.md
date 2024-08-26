@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240824235434.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240826071703.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 59km barat daya Seluma <br>
-Magnitude: 5.2 <br>
-Kedalaman: 21 Km <br>
-Koordinat: 4.43 LS 102.18 BT <br>
-Waktu: 24/08/202423:54:34 WIB <br>
+Lokasi: Pusat gempa berada di laut 112 KM BaratLaut TERNATE <br>
+Magnitude: 5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 1.16 LU 126.43 BT <br>
+Waktu: 26/08/202407:17:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
