@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240828103648.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240831010657.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 51 Km BaratDaya KAB-TASIKMALAYA <br>
-Magnitude: 3.4 <br>
+Lokasi: Pusat gempa berada di darat 5 km barat daya Duruka, Kab. Muna <br>
+Magnitude: 2.7 <br>
 Kedalaman: 5 Km <br>
-Koordinat: 7.74 LS 107.84 BT <br>
-Waktu: 28/08/202410:36:48 WIB <br>
+Koordinat: 4.9 LS 122.69 BT <br>
+Waktu: 31/08/202401:06:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
