@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240831150442.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240831155348.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3.4 Km TimurLaut Baula, Kab.Kolaka <br>
-Magnitude: 2.5 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4.16 LS 121.7 BT <br>
-Waktu: 31/08/202415:04:42 WIB <br>
+Lokasi: Pusat gempa berada di darat 81 km barat laut Keerom <br>
+Magnitude: 5.2 <br>
+Kedalaman: 93 Km <br>
+Koordinat: 3.28 LS 140.03 BT <br>
+Waktu: 31/08/202415:53:48 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
