@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240831155348.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240901184703.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 81 km barat laut Keerom <br>
-Magnitude: 5.2 <br>
-Kedalaman: 93 Km <br>
-Koordinat: 3.28 LS 140.03 BT <br>
-Waktu: 31/08/202415:53:48 WIB <br>
+Lokasi: Pusat gempa berada di laut 24 km barat Sanana <br>
+Magnitude: 4.4 <br>
+Kedalaman: 18 Km <br>
+Koordinat: 2.05 LS 125.77 BT <br>
+Waktu: 01/09/202418:47:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
