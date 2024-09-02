@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240902025925.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240902073909.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 21 km Tenggara Melonguane <br>
-Magnitude: 5.1 <br>
-Kedalaman: 21 Km <br>
-Koordinat: 3.81 LU 126.68 BT <br>
-Waktu: 02/09/202402:59:25 WIB <br>
+Lokasi: Pusat gempa berada di darat 35 Km TimurLaut Nagan Raya Aceh <br>
+Magnitude: 4.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 4.53 LU 96.43 BT <br>
+Waktu: 02/09/202407:39:09 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
