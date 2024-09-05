@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240905142018.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240906031340.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km tenggara Kab. Bandung <br>
-Magnitude: 3.2 <br>
-Kedalaman: 13 Km <br>
-Koordinat: 7.21 LS 107.55 BT <br>
-Waktu: 05/09/202414:20:18 WIB <br>
+Lokasi: Pusat gempa berada di darat 12 km tenggara Buleleng <br>
+Magnitude: 3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 8.17 LS 115.19 BT <br>
+Waktu: 06/09/202403:13:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
