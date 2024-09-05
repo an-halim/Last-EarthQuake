@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240905122807.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240905142018.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 35 km barat daya Takengon-Aceh Tengah <br>
-Magnitude: 4 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 4.44 LU 96.59 BT <br>
-Waktu: 05/09/202412:28:07 WIB <br>
+Lokasi: Pusat gempa berada di darat 21 km tenggara Kab. Bandung <br>
+Magnitude: 3.2 <br>
+Kedalaman: 13 Km <br>
+Koordinat: 7.21 LS 107.55 BT <br>
+Waktu: 05/09/202414:20:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
