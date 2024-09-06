@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240906080636.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240906105514.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 41 km tenggara Enggano <br>
-Magnitude: 5.6 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 5.49 LS 102.61 BT <br>
-Waktu: 06/09/202408:06:36 WIB <br>
+Lokasi: Pusat gempa berada di darat 34 km barat laut Lahat <br>
+Magnitude: 3.6 <br>
+Kedalaman: 4 Km <br>
+Koordinat: 3.71 LS 103.24 BT <br>
+Waktu: 06/09/202410:55:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
