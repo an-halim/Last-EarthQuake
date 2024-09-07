@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240907020204.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240907085144.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 147 km Tenggara Kab. Sukabumi <br>
-Magnitude: 4.8 <br>
-Kedalaman: 14 Km <br>
-Koordinat: 8.29 LS 106.83 BT <br>
-Waktu: 07/09/202402:02:04 WIB <br>
+Lokasi: Pusat gempa berada di darat, 2 km timur laut Gianyar <br>
+Magnitude: 4.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 8.52 LS 115.35 BT <br>
+Waktu: 07/09/202408:51:44 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
