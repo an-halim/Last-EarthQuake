@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240907205113.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240910033533.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 47 km Utara Banda <br>
-Magnitude: 3.6 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 4.12 LS 129.79 BT <br>
-Waktu: 07/09/202420:51:13 WIB <br>
+Lokasi: Pusat gempa berada di darat 17 km BaratLaut Luwutimur <br>
+Magnitude: 3.3 <br>
+Kedalaman: 2 Km <br>
+Koordinat: 2.5 LS 121.04 BT <br>
+Waktu: 10/09/202403:35:33 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
