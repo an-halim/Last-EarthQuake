@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240923183352.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240924025104.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 56 km baratlaut Teluk Wondama <br>
-Magnitude: 4.5 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.27 LS 134.28 BT <br>
-Waktu: 23/09/202418:33:52 WIB <br>
+Lokasi: Pusat gempa berada di laut 74 km Baratdaya Gorontalo <br>
+Magnitude: 6.4 <br>
+Kedalaman: 145 Km <br>
+Koordinat: 0.11 LS 122.92 BT <br>
+Waktu: 24/09/202402:51:04 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
