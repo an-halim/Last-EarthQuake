@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240924065359.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20240924183517.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 65 km tenggara Kota Sukabumi <br>
-Magnitude: 4.4 <br>
-Kedalaman: 61 Km <br>
-Koordinat: 7.5 LS 107.02 BT <br>
-Waktu: 24/09/202406:53:59 WIB <br>
+Lokasi: Pusat gempa berada di darat 182 km baratlaut Donggala <br>
+Magnitude: 2.4 <br>
+Kedalaman: 9 Km <br>
+Koordinat: 0.97 LU 118.97 BT <br>
+Waktu: 24/09/202418:35:17 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
