@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20240929223600.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241001091822.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 23 km barat laut Donggala <br>
-Magnitude: 3.9 <br>
-Kedalaman: 2 Km <br>
-Koordinat: 0.21 LS 119.82 BT <br>
-Waktu: 29/09/202422:36:00 WIB <br>
+Lokasi: Pusat gempa berada di laut 61 km barat daya Padangsidempuan <br>
+Magnitude: 5.3 <br>
+Kedalaman: 108 Km <br>
+Koordinat: 1.08 LU 98.8 BT <br>
+Waktu: 01/10/202409:18:22 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
