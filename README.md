@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241002173117.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241003043828.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 14 km timur laut Pernang <br>
-Magnitude: 3.8 <br>
-Kedalaman: 12 Km <br>
-Koordinat: 8.45 LS 117.17 BT <br>
-Waktu: 02/10/202417:31:17 WIB <br>
+Lokasi: Pusat gempa berada di darat 0.7 km TimurLaut Mandonga, Kota Kendari <br>
+Magnitude: 2.8 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 3.94 LS 122.51 BT <br>
+Waktu: 03/10/202404:38:28 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
