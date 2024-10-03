@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241003160439.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241003220759.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 23 km tenggara Kota Cirebon <br>
-Magnitude: 2.5 <br>
-Kedalaman: 22 Km <br>
-Koordinat: 6.83 LS 108.73 BT <br>
-Waktu: 03/10/202416:04:39 WIB <br>
+Lokasi: Pusat gempa berada di laut 46 km timurlaut Tambolaka <br>
+Magnitude: 4.3 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 9.02 LS 119.37 BT <br>
+Waktu: 03/10/202422:07:59 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
