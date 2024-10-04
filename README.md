@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241003220759.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241004112931.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 46 km timurlaut Tambolaka <br>
-Magnitude: 4.3 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 9.02 LS 119.37 BT <br>
-Waktu: 03/10/202422:07:59 WIB <br>
+Lokasi: Pusat gempa berada di darat 4.8 km barat daya Soropia <br>
+Magnitude: 3.1 <br>
+Kedalaman: 11 Km <br>
+Koordinat: 3.94 LS 122.63 BT <br>
+Waktu: 04/10/202411:29:31 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
