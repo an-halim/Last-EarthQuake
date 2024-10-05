@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241005020537.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241006024439.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 km barat laut Kab. Cianjur <br>
+Lokasi: Pusat gempa berada di darat 16 km baratlaut Kab. Garut <br>
 Magnitude: 2.7 <br>
-Kedalaman: 2 Km <br>
-Koordinat: 6.82 LS 107.08 BT <br>
-Waktu: 05/10/202402:05:37 WIB <br>
+Kedalaman: 8 Km <br>
+Koordinat: 7.18 LS 107.75 BT <br>
+Waktu: 06/10/202402:44:39 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
