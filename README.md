@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241013215902.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241015150323.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 118 km tenggara Sumbawa Barat <br>
+Lokasi: Pusat gempa berada di laut 39 km barat daya Sumbawa Barat <br>
 Magnitude: 3.9 <br>
-Kedalaman: 22 Km <br>
-Koordinat: 9.59 LS 117.51 BT <br>
-Waktu: 13/10/202421:59:02 WIB <br>
+Kedalaman: 10 Km <br>
+Koordinat: 9 LS 116.6 BT <br>
+Waktu: 15/10/202415:03:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
