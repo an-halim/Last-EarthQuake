@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241019223619.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241020010713.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 124 km baratdaya Kota Sabang <br>
-Magnitude: 4.5 <br>
-Kedalaman: 8 Km <br>
-Koordinat: 5.32 LU 94.36 BT <br>
-Waktu: 19/10/202422:36:19 WIB <br>
+Lokasi: Pusat gempa berada di laut 103 timurlaut Donggala <br>
+Magnitude: 5.3 <br>
+Kedalaman: 34 Km <br>
+Koordinat: 0.51 LU 119.85 BT <br>
+Waktu: 20/10/202401:07:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
