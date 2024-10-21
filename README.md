@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241021152408.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241021160745.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 55 km barat daya Labuha <br>
-Magnitude: 5.2 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 1.11 LS 127.31 BT <br>
-Waktu: 21/10/202415:24:08 WIB <br>
+Lokasi: Pusat gempa berada di darat 34 km barat laut Luwu Timur <br>
+Magnitude: 3.4 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 2.42 LS 120.91 BT <br>
+Waktu: 21/10/202416:07:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
