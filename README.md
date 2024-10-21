@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241021133237.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241021134750.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 42 km barat laut Obi <br>
-Magnitude: 5.7 <br>
+Lokasi: Pusat gempa berada di 10 km barat daya Kota Sorong <br>
+Magnitude: 3.2 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 1.11 LS 127.34 BT <br>
-Waktu: 21/10/202413:32:37 WIB <br>
+Koordinat: 0.87 LS 131.26 BT <br>
+Waktu: 21/10/202413:47:50 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
