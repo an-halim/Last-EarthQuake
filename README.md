@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241022084641.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241022121631.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 14 km barat laut Kab. Sorong <br>
-Magnitude: 2.8 <br>
-Kedalaman: 18 Km <br>
-Koordinat: 0.91 LS 131.27 BT <br>
-Waktu: 22/10/202408:46:41 WIB <br>
+Lokasi: Pusat gempa berada di laut 20 km Tenggara TANGGAMUS-LAMPUNG <br>
+Magnitude: 3.1 <br>
+Kedalaman: 4 Km <br>
+Koordinat: 5.56 LS 104.76 BT <br>
+Waktu: 22/10/202412:16:31 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
