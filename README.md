@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241023061637.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241023144638.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5 km barat daya Bombana <br>
-Magnitude: 2.3 <br>
+Lokasi: Pusat gempa berada di Laut 22 Km Tenggara Tanggamus <br>
+Magnitude: 3.2 <br>
 Kedalaman: 5 Km <br>
-Koordinat: 4.77 LS 121.96 BT <br>
-Waktu: 23/10/202406:16:37 WIB <br>
+Koordinat: 5.66 LS 104.77 BT <br>
+Waktu: 23/10/202414:46:38 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
