@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241025002242.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241026031548.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 55 km baratlaut Teluk Wondama <br>
-Magnitude: 5 <br>
+Lokasi: Pusat gempa berada di darat 5 km barat daya Kota Jayapura <br>
+Magnitude: 3.8 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 2.29 LS 134.27 BT <br>
-Waktu: 25/10/202400:22:42 WIB <br>
+Koordinat: 2.6 LS 140.67 BT <br>
+Waktu: 26/10/202403:15:48 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
