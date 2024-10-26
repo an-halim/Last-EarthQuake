@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241026031548.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241026212157.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5 km barat daya Kota Jayapura <br>
-Magnitude: 3.8 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.6 LS 140.67 BT <br>
-Waktu: 26/10/202403:15:48 WIB <br>
+Lokasi: Pusat gempa berada di darat 11 km timur laut Labuanbajo <br>
+Magnitude: 4.6 <br>
+Kedalaman: 178 Km <br>
+Koordinat: 8.43 LS 119.97 BT <br>
+Waktu: 26/10/202421:21:57 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
