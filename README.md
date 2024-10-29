@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241028205241.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241029093524.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 46 km Tenggara Konawe <br>
-Magnitude: 3 <br>
-Kedalaman: 14 Km <br>
-Koordinat: 4 LS 122.45 BT <br>
-Waktu: 28/10/202420:52:41 WIB <br>
+Lokasi: Pusat gempa berada di darat 27 km barat daya Kab. Pidie Jaya <br>
+Magnitude: 4.7 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 4.8 LU 96.12 BT <br>
+Waktu: 29/10/202409:35:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
