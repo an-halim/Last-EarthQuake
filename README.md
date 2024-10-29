@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241029211217.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241030022516.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 10.7 km Tenggara Samaturu, Kab. Kolaka <br>
-Magnitude: 2.9 <br>
+Lokasi: Pusat gempa berada di Laut 7 km Tenggara Kab.Bombana <br>
+Magnitude: 2.7 <br>
 Kedalaman: 5 Km <br>
-Koordinat: 4 LS 121.4 BT <br>
-Waktu: 29/10/202421:12:17 WIB <br>
+Koordinat: 4.84 LS 122.18 BT <br>
+Waktu: 30/10/202402:25:16 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
