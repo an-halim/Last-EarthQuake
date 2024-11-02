@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241101224324.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241102142016.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 44 km timur laut Kota Bima <br>
-Magnitude: 3.6 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 8.44 LS 119.15 BT <br>
-Waktu: 01/11/202422:43:24 WIB <br>
+Lokasi: Pusat gempa berada di laut 115 km tenggara Sumbawa Barat <br>
+Magnitude: 4.5 <br>
+Kedalaman: 15 Km <br>
+Koordinat: 9.53 LS 117.54 BT <br>
+Waktu: 02/11/202414:20:16 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
