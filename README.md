@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241104045833.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241104102612.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 27 km baratlaut Luwu Timur <br>
-Magnitude: 4.3 <br>
-Kedalaman: 3 Km <br>
-Koordinat: 2.42 LS 120.98 BT <br>
-Waktu: 04/11/202404:58:33 WIB <br>
+Lokasi: Pusat gempa berada di laut 85 km baratdaya Gunung Kidul <br>
+Magnitude: 4.4 <br>
+Kedalaman: 43 Km <br>
+Koordinat: 8.7 LS 110.3 BT <br>
+Waktu: 04/11/202410:26:12 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
