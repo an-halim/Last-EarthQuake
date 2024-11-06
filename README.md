@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241106185428.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241106195018.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 21 km tenggara Luwu <br>
-Magnitude: 3.6 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 3.38 LS 120.43 BT <br>
-Waktu: 06/11/202418:54:28 WIB <br>
+Lokasi: Pusat gempa berada di darat 110 km Barat Daya Ketapang <br>
+Magnitude: 2.5 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.51 LS 110.2 BT <br>
+Waktu: 06/11/202419:50:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
