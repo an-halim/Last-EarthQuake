@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241105120348.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241106185428.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 65 km tenggara Kota Bima <br>
-Magnitude: 3.8 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 8.71 LS 119.28 BT <br>
-Waktu: 05/11/202412:03:48 WIB <br>
+Lokasi: Pusat gempa berada di laut 21 km tenggara Luwu <br>
+Magnitude: 3.6 <br>
+Kedalaman: 5 Km <br>
+Koordinat: 3.38 LS 120.43 BT <br>
+Waktu: 06/11/202418:54:28 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
