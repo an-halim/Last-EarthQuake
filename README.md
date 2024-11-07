@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241106195018.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241107065146.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 110 km Barat Daya Ketapang <br>
-Magnitude: 2.5 <br>
+Lokasi: Pusat gempa berada di darat 10 km tenggara Kab. Karawang <br>
+Magnitude: 2.7 <br>
 Kedalaman: 10 Km <br>
-Koordinat: 2.51 LS 110.2 BT <br>
-Waktu: 06/11/202419:50:18 WIB <br>
+Koordinat: 6.39 LS 107.32 BT <br>
+Waktu: 07/11/202406:51:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
