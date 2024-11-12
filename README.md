@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241112231131.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241113034429.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 9 km Tenggara Poasia, Kota Kendari <br>
-Magnitude: 2.7 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 4.09 LS 122.57 BT <br>
-Waktu: 12/11/202423:11:31 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km tenggara Bantul <br>
+Magnitude: 3.4 <br>
+Kedalaman: 13 Km <br>
+Koordinat: 8.04 LS 110.41 BT <br>
+Waktu: 13/11/202403:44:29 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
