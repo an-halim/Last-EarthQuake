@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241122140627.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241122145103.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 58 km BaratDaya Pariaman <br>
-Magnitude: 3.8 <br>
-Kedalaman: 44 Km <br>
-Koordinat: 1.04 LS 99.8 BT <br>
-Waktu: 22/11/202414:06:27 WIB <br>
+Lokasi: Pusat gempa berada di laut 74 km BaratLaut Daruba <br>
+Magnitude: 5.4 <br>
+Kedalaman: 13 Km <br>
+Koordinat: 2.71 LU 128.17 BT <br>
+Waktu: 22/11/202414:51:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
