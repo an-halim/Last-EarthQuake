@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241126202521.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241127185936.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 90 km barat daya Nabire <br>
-Magnitude: 4.6 <br>
-Kedalaman: 21 Km <br>
-Koordinat: 4.09 LS 135.14 BT <br>
-Waktu: 26/11/202420:25:21 WIB <br>
+Lokasi: Pusat gempa berada di darat 17 km barat laut Kota Jayapura <br>
+Magnitude: 2.6 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 2.5 LS 140.55 BT <br>
+Waktu: 27/11/202418:59:36 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
