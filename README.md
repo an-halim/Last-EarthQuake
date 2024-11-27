@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241127185936.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241127224846.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 17 km barat laut Kota Jayapura <br>
-Magnitude: 2.6 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 2.5 LS 140.55 BT <br>
-Waktu: 27/11/202418:59:36 WIB <br>
+Lokasi: Pusat gempa berada di darat 46 km BaratLaut Sigi <br>
+Magnitude: 2.2 <br>
+Kedalaman: 4 Km <br>
+Koordinat: 0.97 LS 119.86 BT <br>
+Waktu: 27/11/202422:48:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
