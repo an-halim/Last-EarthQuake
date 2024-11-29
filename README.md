@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241127224846.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241129080232.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 46 km BaratLaut Sigi <br>
-Magnitude: 2.2 <br>
-Kedalaman: 4 Km <br>
-Koordinat: 0.97 LS 119.86 BT <br>
-Waktu: 27/11/202422:48:46 WIB <br>
+Lokasi: Pusat gempa berada di darat 8 km tenggara Banjar <br>
+Magnitude: 3.7 <br>
+Kedalaman: 14 Km <br>
+Koordinat: 3.39 LS 115.03 BT <br>
+Waktu: 29/11/202408:02:32 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
