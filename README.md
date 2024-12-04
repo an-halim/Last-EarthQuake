@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241202194003.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241204051537.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 129 km BaratDaya Kab. Bandung <br>
-Magnitude: 4.5 <br>
-Kedalaman: 21 Km <br>
-Koordinat: 8.11 LS 107.1 BT <br>
-Waktu: 02/12/202419:40:03 WIB <br>
+Lokasi: Pusat gempa berada di laut 29 km tenggara Masohi <br>
+Magnitude: 3.9 <br>
+Kedalaman: 10 Km <br>
+Koordinat: 3.56 LS 129.06 BT <br>
+Waktu: 04/12/202405:15:37 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
