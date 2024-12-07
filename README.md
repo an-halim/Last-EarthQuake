@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241207071221.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241207073756.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 19 km barat daya kab. Garut <br>
-Magnitude: 4.2 <br>
-Kedalaman: 5 Km <br>
-Koordinat: 7.24 LS 107.72 BT <br>
-Waktu: 07/12/202407:12:21 WIB <br>
+Lokasi: Pusat gempa berada di darat 12 km TimurLaut Barito Timur <br>
+Magnitude: 4.3 <br>
+Kedalaman: 2 Km <br>
+Koordinat: 1.93 LS 115.27 BT <br>
+Waktu: 07/12/202407:37:56 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
