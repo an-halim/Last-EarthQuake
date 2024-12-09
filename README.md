@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241208153651.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241209070634.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 22 km barat daya Kabupaten Garut <br>
-Magnitude: 2.7 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 7.23 LS 107.69 BT <br>
-Waktu: 08/12/202415:36:51 WIB <br>
+Lokasi: Pusat gempa berada di darat 12 km Timur Laut Ngawi <br>
+Magnitude: 3.9 <br>
+Kedalaman: 11 Km <br>
+Koordinat: 7.35 LS 111.55 BT <br>
+Waktu: 09/12/202407:06:34 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
