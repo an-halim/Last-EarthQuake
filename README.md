@@ -2,13 +2,13 @@
 This repo will looking update every 5 minute with Last EarthQuake report from BMKG
 <br>
 <br>
-<img src="https://static.bmkg.go.id/20241215181023.mmi.jpg" width="300"/>
+<img src="https://static.bmkg.go.id/20241215204132.mmi.jpg" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 16 km tenggara Sumbawa <br>
-Magnitude: 4.7 <br>
-Kedalaman: 10 Km <br>
-Koordinat: 8.64 LS 117.44 BT <br>
-Waktu: 15/12/202418:10:23 WIB <br>
+Lokasi: Pusat gempa berada di darat 18 km tenggara Sumbawa <br>
+Magnitude: 3.7 <br>
+Kedalaman: 6 Km <br>
+Koordinat: 8.66 LS 117.43 BT <br>
+Waktu: 15/12/202420:41:32 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
