@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 18 km tenggara Sumbawa  II Sumbawa <br>
-Magnitude: 6 Km <br>
-Kedalaman: 8,66 LS-117,43 BT <br>
-Koordinat: 3,7 <br>
-Waktu: 15 Dec 2024 20:41:32 WIB <br>
+Lokasi: Pusat gempa berada di laut 78 km barat daya Pariaman  III-IV Kota Padang III-IV Pasaman Barat III-IV Padang Pariaman III-IV Agam III-IV Mentawai II-III Padang Panjang II-III Bukittinggi II-III Solok II-III Solok Selatan <br>
+Magnitude: 20 Km <br>
+Kedalaman: 1,22 LS-99,76 BT <br>
+Koordinat: 5,0 <br>
+Waktu: 16 Dec 2024 10:50:04 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
