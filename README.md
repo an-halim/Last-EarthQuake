@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 14 Km Tenggara Kota Jayapura  III Kota Jayapura <br>
-Magnitude: 10 Km <br>
-Kedalaman: 2,57 LS-140,82 BT <br>
-Koordinat: 3,9 <br>
-Waktu: 16 Dec 2024 23:02:32 WIB <br>
+Lokasi: Pusat gempa berada di darat 43 km tenggara Pulau Siberut-Kepulauan Mentawai  II-III Siberut II-III Tuapejat <br>
+Magnitude: 31 Km <br>
+Kedalaman: 1,71 LS-99,18 BT <br>
+Koordinat: 4,1 <br>
+Waktu: 17 Dec 2024 07:16:43 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
