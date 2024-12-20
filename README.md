@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 34 km Selatan Namlea-BURU  II-III Namrole <br>
-Magnitude: 7 Km <br>
-Kedalaman: 3,56 LS-127,01 BT <br>
-Koordinat: 4,4 <br>
-Waktu: 20 Dec 2024 23:39:05 WIB <br>
+Lokasi: Pusat gempa berada di laut 79 km BaratLaut SUMUR-BANTEN  II Liwa III Tanggamus <br>
+Magnitude: 10 Km <br>
+Kedalaman: 6,56 LS-104,87 BT <br>
+Koordinat: 5,3 <br>
+Waktu: 21 Dec 2024 01:22:37 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
