@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 37 km barat laut Boalemo  III Kab. Gorontalo Utara <br>
-Magnitude: 12 Km <br>
-Kedalaman: 0,86 LU-122,27 BT <br>
-Koordinat: 4,1 <br>
-Waktu: 23 Dec 2024 19:39:11 WIB <br>
+Lokasi: Pusat gempa berada di laut 39 km tenggara Morowali  III Bahodopi <br>
+Magnitude: 5 Km <br>
+Kedalaman: 2,82 LS-122,24 BT <br>
+Koordinat: 3,7 <br>
+Waktu: 24 Dec 2024 00:23:50 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
