@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5.9 km barat daya Wolasi, Kab. Konawe Selatan  III Konawe Selatan <br>
-Magnitude: 7 Km <br>
-Kedalaman: 4,23 LS-122,45 BT <br>
-Koordinat: 2,6 <br>
-Waktu: 25 Dec 2024 09:22:07 WIB <br>
+Lokasi: Pusat gempa berada di darat 51 km utara Kab. Banggai  II-III Luwuk <br>
+Magnitude: 10 Km <br>
+Kedalaman: 0,43 LS-123,49 BT <br>
+Koordinat: 4,7 <br>
+Waktu: 26 Dec 2024 21:57:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
