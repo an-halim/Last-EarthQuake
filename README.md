@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 31 km timur laut Enggano  II-III Enggano <br>
-Magnitude: 9 Km <br>
-Kedalaman: 5,13 LS-102,45 BT <br>
-Koordinat: 4,5 <br>
-Waktu: 28 Dec 2024 12:46:42 WIB <br>
+Lokasi: Pusat gempa berada di darat 7 km Timur Ambon  II-III Ambon <br>
+Magnitude: 6 Km <br>
+Kedalaman: 3,70 LS-128,24 BT <br>
+Koordinat: 2,7 <br>
+Waktu: 29 Dec 2024 02:16:56 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
