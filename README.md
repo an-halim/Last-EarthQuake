@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 13 km barat laut Kab. Gresik  II-III Kec. Manyar II-III Gresik <br>
-Magnitude: 14 Km <br>
-Kedalaman: 7,05 LS-112,62 BT <br>
-Koordinat: 3,3 <br>
-Waktu: 30 Dec 2024 12:38:40 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km TimurLaut Ladongi, Kab. Kolaka Timur  II-III Kolaka Timur <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,13 LS-121,93 BT <br>
+Koordinat: 3,1 <br>
+Waktu: 30 Dec 2024 23:21:00 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
