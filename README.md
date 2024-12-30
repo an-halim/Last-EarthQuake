@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 8 km baratlaut Bojonegoro  II Bojonegoro <br>
-Magnitude: 13 Km <br>
-Kedalaman: 7,12 LS-111,82 BT <br>
-Koordinat: 3,1 <br>
-Waktu: 29 Dec 2024 13:28:50 WIB <br>
+Lokasi: Pusat gempa berada di laut 50 km timurlaut Pulaudoi  III Morotai <br>
+Magnitude: 2 Km <br>
+Kedalaman: 2,50 LU-128,18 BT <br>
+Koordinat: 4,1 <br>
+Waktu: 30 Dec 2024 07:43:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
