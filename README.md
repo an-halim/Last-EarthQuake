@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 8 km selatan Kairatu-SBB  III Kairatu II Ambon <br>
+Lokasi: Pusat gempa berada di laut 39 km timur laut Pulau Sipora  II-III Painan II-III Sipora II-III Pagai Utara II Padang <br>
 Magnitude: 10 Km <br>
-Kedalaman: 3,41 LS-128,37 BT <br>
-Koordinat: 3,5 <br>
-Waktu: 02 Jan 2025 04:42:15 WIB <br>
+Kedalaman: 2,05 LS-100,03 BT <br>
+Koordinat: 4,1 <br>
+Waktu: 02 Jan 2025 06:07:20 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
