@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 76 km BaratLaut Dompu  II Dompu II Sumbawa II Bima <br>
-Magnitude: 29 Km <br>
-Kedalaman: 8,05 LS-117,98 BT <br>
-Koordinat: 4,1 <br>
-Waktu: 01 Jan 2025 08:44:13 WIB <br>
+Lokasi: Pusat gempa berada di laut 8 km selatan Kairatu-SBB  III Kairatu II Ambon <br>
+Magnitude: 10 Km <br>
+Kedalaman: 3,41 LS-128,37 BT <br>
+Koordinat: 3,5 <br>
+Waktu: 02 Jan 2025 04:42:15 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
