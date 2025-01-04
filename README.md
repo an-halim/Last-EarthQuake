@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km barat daya Kota Bogor  II Desa Cipeteuy <br>
-Magnitude: 9 Km <br>
-Kedalaman: 6,73 LS-106,66 BT <br>
-Koordinat: 2,8 <br>
-Waktu: 04 Jan 2025 21:09:12 WIB <br>
+Lokasi: Pusat gempa berada di laut 90 km BaratLaut Toli-Toli-SULTENG  II-III Toli-Toli <br>
+Magnitude: 6 Km <br>
+Kedalaman: 1,03 LU-119,96 BT <br>
+Koordinat: 4,3 <br>
+Waktu: 04 Jan 2025 22:10:08 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
