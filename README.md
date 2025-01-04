@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 42 km Barat daya Bengkulu Selatan  III Manna III Oku Selatan III Kaur <br>
-Magnitude: 31 Km <br>
-Kedalaman: 4,83 LS-102,86 BT <br>
-Koordinat: 4,7 <br>
-Waktu: 03 Jan 2025 21:44:43 WIB <br>
+Lokasi: Pusat gempa berada di darat 21 km barat daya Kota Bogor  II Desa Cipeteuy <br>
+Magnitude: 9 Km <br>
+Kedalaman: 6,73 LS-106,66 BT <br>
+Koordinat: 2,8 <br>
+Waktu: 04 Jan 2025 21:09:12 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
