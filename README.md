@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada dilaut 36 km Tenggara Morowali  II-III Bahodopi <br>
-Magnitude: 5 Km <br>
-Kedalaman: 2,81 LS-122,21 BT <br>
-Koordinat: 3,5 <br>
-Waktu: 05 Jan 2025 15:26:24 WIB <br>
+Lokasi: Pusat gempa berada di laut 37 km tenggara Morowali  II-III Morowali <br>
+Magnitude: 2 Km <br>
+Kedalaman: 2,79 LS-122,23 BT <br>
+Koordinat: 3,6 <br>
+Waktu: 06 Jan 2025 09:30:08 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
