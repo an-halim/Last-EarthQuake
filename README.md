@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 34 km Tenggara Donggala  II-III Palu <br>
-Magnitude: 4 Km <br>
-Kedalaman: 0,73 LS-119,89 BT <br>
-Koordinat: 3,4 <br>
-Waktu: 07 Jan 2025 11:45:20 WIB <br>
+Lokasi: Pusat gempa berada di laut 64 km timur laut Kota Bima  IV Bima <br>
+Magnitude: 11 Km <br>
+Kedalaman: 8,21 LS-119,27 BT <br>
+Koordinat: 4,9 <br>
+Waktu: 08 Jan 2025 00:52:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
