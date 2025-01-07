@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 15 km baratlaut Kota Jayapura  III Kota Jayapura III Kab. Jayapura <br>
-Magnitude: 10 Km <br>
-Kedalaman: 2,46 LS-140,60 BT <br>
-Koordinat: 4,6 <br>
-Waktu: 06 Jan 2025 18:47:25 WIB <br>
+Lokasi: Pusat gempa berada di darat 34 km Tenggara Donggala  II-III Palu <br>
+Magnitude: 4 Km <br>
+Kedalaman: 0,73 LS-119,89 BT <br>
+Koordinat: 3,4 <br>
+Waktu: 07 Jan 2025 11:45:20 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
