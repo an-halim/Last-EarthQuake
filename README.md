@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 51 km barat daya Nabire  II-III Nabire <br>
-Magnitude: 25 Km <br>
-Kedalaman: 3,82 LS-135,46 BT <br>
-Koordinat: 4,0 <br>
-Waktu: 08 Jan 2025 16:09:47 WIB <br>
+Lokasi: Pusat gempa berada di laut 83 Km Tenggara Kuta Selatan  III Lombok Tengah III Lombok Timur III Lombok Barat II Kota Mataram II Denpasar II Gianyar <br>
+Magnitude: 26 Km <br>
+Kedalaman: 9,49 LS-115,51 BT <br>
+Koordinat: 4,5 <br>
+Waktu: 08 Jan 2025 22:59:36 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
