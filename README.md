@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 26 km Tenggara Kuta Selatan  II Kuta II Lombok Barat II Kota Mataram II Lombok Tengah <br>
-Magnitude: 121 Km <br>
-Kedalaman: 8,91 LS-115,44 BT <br>
-Koordinat: 4,2 <br>
-Waktu: 08 Jan 2025 09:14:17 WIB <br>
+Lokasi: Pusat gempa berada di laut 81 km barat daya Kabupaten Pangandaran  II-III Garut II-III Cikelet II-III Singajaya II-III Pamengpeuk II-III Cikalong II-III Cijulang II-III Karanganyar II Simpenan <br>
+Magnitude: 25 Km <br>
+Kedalaman: 8,12 LS-107,89 BT <br>
+Koordinat: 4,3 <br>
+Waktu: 08 Jan 2025 11:41:07 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
