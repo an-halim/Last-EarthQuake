@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 81 km barat daya Kabupaten Pangandaran  II-III Garut II-III Cikelet II-III Singajaya II-III Pamengpeuk II-III Cikalong II-III Cijulang II-III Karanganyar II Simpenan <br>
+Lokasi: Pusat gempa berada di darat 51 km barat daya Nabire  II-III Nabire <br>
 Magnitude: 25 Km <br>
-Kedalaman: 8,12 LS-107,89 BT <br>
-Koordinat: 4,3 <br>
-Waktu: 08 Jan 2025 11:41:07 WIB <br>
+Kedalaman: 3,82 LS-135,46 BT <br>
+Koordinat: 4,0 <br>
+Waktu: 08 Jan 2025 16:09:47 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
