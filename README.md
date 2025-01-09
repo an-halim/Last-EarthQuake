@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 83 Km Tenggara Kuta Selatan  III Lombok Tengah III Lombok Timur III Lombok Barat II Kota Mataram II Denpasar II Gianyar <br>
-Magnitude: 26 Km <br>
-Kedalaman: 9,49 LS-115,51 BT <br>
-Koordinat: 4,5 <br>
-Waktu: 08 Jan 2025 22:59:36 WIB <br>
+Lokasi: Pusat gempa berada di darat 2 km tenggara Kota Kendari  II-III Kendari <br>
+Magnitude: 14 Km <br>
+Kedalaman: 3,98 LS-122,47 BT <br>
+Koordinat: 2,1 <br>
+Waktu: 08 Jan 2025 23:04:34 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
