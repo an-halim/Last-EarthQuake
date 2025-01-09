@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km tenggara Kota Kendari  II-III Kendari <br>
-Magnitude: 14 Km <br>
-Kedalaman: 3,98 LS-122,47 BT <br>
-Koordinat: 2,1 <br>
-Waktu: 08 Jan 2025 23:04:34 WIB <br>
+Lokasi: Pusat gempa berada dilaut 52 Km Barat Laut Halmahera Barat  II-III Tidore <br>
+Magnitude: 3 Km <br>
+Kedalaman: 1,67 LU-127,24 BT <br>
+Koordinat: 4,6 <br>
+Waktu: 09 Jan 2025 23:42:16 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
