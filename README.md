@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km barat daya Kabupaten Garut  II Pasirwangi <br>
-Magnitude: 6 Km <br>
-Kedalaman: 7,23 LS-107,70 BT <br>
-Koordinat: 2,2 <br>
-Waktu: 12 Jan 2025 00:34:07 WIB <br>
+Lokasi: Pusat gempa berada di darat 10 km barat daya Agam  III-IV Agam III-IV Pasaman Barat II-III Padang Pariaman II-III Kota Pariaman I-II Kota Padang I-II Bukittinggi <br>
+Magnitude: 20 Km <br>
+Kedalaman: 0,32 LS-99,94 BT <br>
+Koordinat: 4,3 <br>
+Waktu: 12 Jan 2025 04:03:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
