@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 79 km barat daya Pacitan  II-III Yogyakarta II-III Klaten II Karangkates <br>
-Magnitude: 10 Km <br>
-Kedalaman: 8,88 LS-110,97 BT <br>
-Koordinat: 4,9 <br>
-Waktu: 11 Jan 2025 14:25:10 WIB <br>
+Lokasi: Pusat gempa berada di laut 19 km Timur Laut Wawonii Timur, Kab. Konawe Kepulauan  III Kendari III Konawe III-IV Konawe Kepulauan II-III Buton Utara <br>
+Magnitude: 20 Km <br>
+Kedalaman: 4,06 LS-123,38 BT <br>
+Koordinat: 4,5 <br>
+Waktu: 11 Jan 2025 19:02:32 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
