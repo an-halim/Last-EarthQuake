@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 10 km barat daya Agam  III-IV Agam III-IV Pasaman Barat II-III Padang Pariaman II-III Kota Pariaman I-II Kota Padang I-II Bukittinggi <br>
+Lokasi: Pusat gempa berada di laut 43 km barat daya Bantul  II-III Yogyakarta II-III Pacitan II-III Trenggalek II-III Tulungagung <br>
 Magnitude: 20 Km <br>
-Kedalaman: 0,32 LS-99,94 BT <br>
-Koordinat: 4,3 <br>
-Waktu: 12 Jan 2025 04:03:05 WIB <br>
+Kedalaman: 8,28 LS-110,27 BT <br>
+Koordinat: 4,4 <br>
+Waktu: 12 Jan 2025 09:52:08 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
