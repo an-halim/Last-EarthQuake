@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 16 km barat laut Lembata  II-III Kab. Lembata <br>
-Magnitude: 9 Km <br>
-Kedalaman: 8,39 LS-123,36 BT <br>
-Koordinat: 3,0 <br>
-Waktu: 17 Jan 2025 18:57:38 WIB <br>
+Lokasi: Pusat gempa berada di darat 18 km barat daya Lembata  II Kab. Lembata <br>
+Magnitude: 12 Km <br>
+Kedalaman: 8,48 LS-123,32 BT <br>
+Koordinat: 2,1 <br>
+Waktu: 17 Jan 2025 19:58:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
