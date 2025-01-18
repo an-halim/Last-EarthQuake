@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 33 km barat daya Kab. Sukabumi  II Cianjur II Cibeber II Cipanas II Bogor II Palabuhan Ratu <br>
-Magnitude: 38 Km <br>
-Kedalaman: 7,28 LS-106,49 BT <br>
-Koordinat: 4,3 <br>
-Waktu: 18 Jan 2025 00:44:08 WIB <br>
+Lokasi: Pusat gempa berada di laut 109 km barat daya Tidore  III Ternate <br>
+Magnitude: 21 Km <br>
+Kedalaman: 0,05 LU-126,68 BT <br>
+Koordinat: 4,8 <br>
+Waktu: 18 Jan 2025 15:37:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
