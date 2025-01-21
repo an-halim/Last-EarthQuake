@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 109 km barat daya Tidore  III Ternate <br>
-Magnitude: 21 Km <br>
-Kedalaman: 0,05 LU-126,68 BT <br>
-Koordinat: 4,8 <br>
-Waktu: 18 Jan 2025 15:37:45 WIB <br>
+Lokasi: Pusat gempa berada di darat 8 km barat daya Polewali Mandar  II Kab. Polman <br>
+Magnitude: 11 Km <br>
+Kedalaman: 3,41 LS-119,10 BT <br>
+Koordinat: 2,0 <br>
+Waktu: 21 Jan 2025 21:55:34 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
