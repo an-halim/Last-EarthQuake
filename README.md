@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 27km barat daya Kota Bogor  II-III Lewiliang II Kabandungan <br>
-Magnitude: 10 Km <br>
-Kedalaman: 6,73 LS-106,59 BT <br>
-Koordinat: 2,7 <br>
-Waktu: 22 Jan 2025 10:09:34 WIB <br>
+Lokasi: Pusat gempa berada di darat 28km barat daya Kota Bogor  II Lewiliang <br>
+Magnitude: 9 Km <br>
+Kedalaman: 6,72 LS-106,57 BT <br>
+Koordinat: 2,6 <br>
+Waktu: 22 Jan 2025 10:12:06 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
