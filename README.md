@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3.8 km baratdaya Lalolae  III-IV Kolaka III-IV Kolaka Timur III Konawe III Konawe Selatan <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,06 LS-121,78 BT <br>
-Koordinat: 4,2 <br>
-Waktu: 28 Jan 2025 00:27:48 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km timurlaut Malili  III Wasuponda III Malili <br>
+Magnitude: 4 Km <br>
+Kedalaman: 2,51 LS-121,17 BT <br>
+Koordinat: 4,5 <br>
+Waktu: 28 Jan 2025 00:37:41 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
