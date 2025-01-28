@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 7.2 km tenggara Kab. Kolaka Timur  III Kolaka Timur <br>
+Lokasi: Pusat gempa berada didarat 41Km BaratDaya Ogankomeringulu  III Semendo <br>
 Magnitude: 5 Km <br>
-Kedalaman: 4,08 LS-121,82 BT <br>
+Kedalaman: 4,19 LS-103,67 BT <br>
 Koordinat: 3,5 <br>
-Waktu: 28 Jan 2025 14:18:14 WIB <br>
+Waktu: 28 Jan 2025 19:22:06 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
