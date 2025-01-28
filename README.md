@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 42 km tenggara Parigi Moutong  III Kab. Gorontalo III Kota Gorontalo IV Toli-Toli III Palu III Sigi III Parigi III Kab. Gorontalo Utara II-III Kab. Bone Bolango <br>
-Magnitude: 91 Km <br>
-Kedalaman: 0,53 LU-121,18 BT <br>
-Koordinat: 6,1 <br>
-Waktu: 28 Jan 2025 21:53:34 WIB <br>
+Lokasi: Pusat gempa berada di darat 5.1 km barat daya Lalolae, Kab. Kolaka Timur  III-IV Kolaka Timur III-IV Kolaka III Konawe III Konawe Selatan III Kendari <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,07 LS-121,77 BT <br>
+Koordinat: 4,7 <br>
+Waktu: 29 Jan 2025 00:00:11 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
