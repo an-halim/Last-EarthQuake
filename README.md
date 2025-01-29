@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 13 km barat laut Luwu Timur  III Malili <br>
+Lokasi: Pusat gempa berada di darat 6.7 km Tenggara Lalolae, Kab. Kolaka Timur  II-III Kolaka Timur <br>
 Magnitude: 5 Km <br>
-Kedalaman: 2,49 LS-121,10 BT <br>
-Koordinat: 3,5 <br>
-Waktu: 29 Jan 2025 11:18:26 WIB <br>
+Kedalaman: 4,08 LS-121,81 BT <br>
+Koordinat: 2,7 <br>
+Waktu: 29 Jan 2025 21:31:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
