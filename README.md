@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5 km Tenggara Kab. Kolaka Timur  II-III Kolaka Timur <br>
+Lokasi: Pusat gempa berada di darat 5 km BaratLaut Kab. Kolaka Timur  III-IV Kolaka Timur III Kolaka <br>
 Magnitude: 5 Km <br>
-Kedalaman: 4,07 LS-121,80 BT <br>
-Koordinat: 3,0 <br>
-Waktu: 29 Jan 2025 10:22:35 WIB <br>
+Kedalaman: 4,07 LS-121,84 BT <br>
+Koordinat: 3,8 <br>
+Waktu: 29 Jan 2025 10:28:15 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
