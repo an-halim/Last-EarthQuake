@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 101 km baratlaut Kodi, Sumba Barat Daya  II Sumbawa II Bima <br>
-Magnitude: 10 Km <br>
-Kedalaman: 9,38 LS-118,10 BT <br>
-Koordinat: 4,6 <br>
-Waktu: 30 Jan 2025 07:56:22 WIB <br>
+Lokasi: Pusat gempa berada di darat 4 km barat daya Lalolae Kab. Kolaka Timur  II-III Kolaka Timur <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,06 LS-121,77 BT <br>
+Koordinat: 2,2 <br>
+Waktu: 30 Jan 2025 20:16:11 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
