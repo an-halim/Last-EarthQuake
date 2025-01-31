@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada didarat 23 km Barat Daya Sumbawa  III Sumbawa <br>
-Magnitude: 10 Km <br>
-Kedalaman: 8,70 LS-117,41 BT <br>
-Koordinat: 3,1 <br>
-Waktu: 01 Feb 2025 03:19:46 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km barat daya Kota Sukabumi  II-III Kota Sukabumi <br>
+Magnitude: 5 Km <br>
+Kedalaman: 6,93 LS-106,90 BT <br>
+Koordinat: 2,9 <br>
+Waktu: 01 Feb 2025 03:39:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
