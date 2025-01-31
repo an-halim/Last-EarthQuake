@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 27 km BaratDaya Kab. Aceh Selatan  II-III Kab. Aceh Selatan <br>
-Magnitude: 29 Km <br>
-Kedalaman: 3,20 LU-97,02 BT <br>
-Koordinat: 3,8 <br>
-Waktu: 31 Jan 2025 18:17:58 WIB <br>
+Lokasi: Pusat gempa berada didarat 23 km Barat Daya Sumbawa  III Sumbawa <br>
+Magnitude: 10 Km <br>
+Kedalaman: 8,70 LS-117,41 BT <br>
+Koordinat: 3,1 <br>
+Waktu: 01 Feb 2025 03:19:46 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
