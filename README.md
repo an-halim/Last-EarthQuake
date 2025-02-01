@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3.7 km BaratDaya Lalolae, Kolaka Timur  II Kolaka Timur <br>
-Magnitude: 3 Km <br>
-Kedalaman: 4,05 LS-121,76 BT <br>
-Koordinat: 2,3 <br>
-Waktu: 01 Feb 2025 04:34:25 WIB <br>
+Lokasi: Pusat gempa berada di laut 96 km barat daya Gunung Kidul  III Gunungkidul III Bantul III Kulon Progo III Yogyakarta III Sleman III Kebumen III Purworejo II Klaten II Pacitan II Trenggalek II Karangkates <br>
+Magnitude: 10 Km <br>
+Kedalaman: 8,81 LS-110,31 BT <br>
+Koordinat: 5,2 <br>
+Waktu: 01 Feb 2025 07:40:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
