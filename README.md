@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3.8 km timurlaut Ladongi-Kab. Kolaka Timur  III Kolaka Timur <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,12 LS-121,93 BT <br>
-Koordinat: 3,2 <br>
-Waktu: 01 Feb 2025 15:07:53 WIB <br>
+Lokasi: Pusat gempa berada di darat 45 km baratlaut Luwu Timur  III Mangkutana <br>
+Magnitude: 8 Km <br>
+Kedalaman: 2,44 LS-120,79 BT <br>
+Koordinat: 2,8 <br>
+Waktu: 01 Feb 2025 15:11:30 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
