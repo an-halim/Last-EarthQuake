@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1.7 km barat laut Konda,Kab. Konawe Selatan  II Konawe Selatan <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,11 LS-122,45 BT <br>
-Koordinat: 2,1 <br>
-Waktu: 03 Feb 2025 14:43:35 WIB <br>
+Lokasi: Pusat gempa berada di laut 29 km barat daya Kab. Aceh Selatan  III Aceh Selatan <br>
+Magnitude: 34 Km <br>
+Kedalaman: 3,10 LU-97,06 BT <br>
+Koordinat: 4,3 <br>
+Waktu: 03 Feb 2025 22:43:06 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
