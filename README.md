@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6.7 km tenggara Kab. Kolaka Timur  II-III Kolaka Timur <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,08 LS-121,81 BT <br>
-Koordinat: 2,3 <br>
-Waktu: 03 Feb 2025 07:38:14 WIB <br>
+Lokasi: Pusat gempa berada di laut 90 km barat daya Kab. Pangandaran  III Pamengpeuk III Cikalong <br>
+Magnitude: 20 Km <br>
+Kedalaman: 8,24 LS-107,88 BT <br>
+Koordinat: 3,9 <br>
+Waktu: 03 Feb 2025 09:09:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
