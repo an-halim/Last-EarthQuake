@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1.5 km barat daya Lalolae, Kab. Kolaka Timur  II-III Kolaka Timur <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,03 LS-121,77 BT <br>
-Koordinat: 2,3 <br>
-Waktu: 04 Feb 2025 04:03:38 WIB <br>
+Lokasi: Pusat gempa berada di laut 86 km timur laut Pulau Doi  III Morotai II-III Sangihe <br>
+Magnitude: 105 Km <br>
+Kedalaman: 2,95 LU-128,19 BT <br>
+Koordinat: 6,2 <br>
+Waktu: 04 Feb 2025 04:35:53 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
