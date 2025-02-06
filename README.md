@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 142 km timurlaut Jayapura  II Kota Jayapura <br>
-Magnitude: 10 Km <br>
-Kedalaman: 2,52 LS-141,95 BT <br>
-Koordinat: 5,5 <br>
-Waktu: 07 Feb 2025 00:09:50 WIB <br>
+Lokasi: Pusat gempa berada di darat 6.3 km baratdaya Loeba, Kab.Kolaka Timur  II-III Kolaka Timur <br>
+Magnitude: 3 Km <br>
+Kedalaman: 4,09 LS-121,83 BT <br>
+Koordinat: 2,1 <br>
+Waktu: 07 Feb 2025 03:21:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
