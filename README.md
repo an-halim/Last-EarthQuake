@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 20 km tenggara Sarmi  IV-V Sarmi <br>
-Magnitude: 10 Km <br>
-Kedalaman: 1,86 LS-138,93 BT <br>
-Koordinat: 5,3 <br>
-Waktu: 08 Feb 2025 01:32:18 WIB <br>
+Lokasi: Pusat gempa berada di laut 139 km barat daya Pasaman Barat  II-III Kep. Batu Siberut Utara <br>
+Magnitude: 33 Km <br>
+Kedalaman: 0,50 LS-98,73 BT <br>
+Koordinat: 3,7 <br>
+Waktu: 08 Feb 2025 05:29:06 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
