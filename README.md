@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km barat laut Kab. Kolaka Timur  II-III Kolaka Timur <br>
-Magnitude: 5 Km <br>
-Kedalaman: 3,96 LS-121,72 BT <br>
-Koordinat: 2,3 <br>
-Waktu: 07 Feb 2025 17:39:05 WIB <br>
+Lokasi: Pusat gempa berada di laut 20 km tenggara Sarmi  IV-V Sarmi <br>
+Magnitude: 10 Km <br>
+Kedalaman: 1,86 LS-138,93 BT <br>
+Koordinat: 5,3 <br>
+Waktu: 08 Feb 2025 01:32:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
