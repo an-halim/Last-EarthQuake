@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 130 km barat daya Pesisir Barat  II-III Liwa <br>
+Lokasi: Pusat gempa berada di laut, 15 km TimurLaut ALOR  II-III Alor <br>
 Magnitude: 10 Km <br>
-Kedalaman: 6,10 LS-103,20 BT <br>
-Koordinat: 5,2 <br>
-Waktu: 08 Feb 2025 12:00:33 WIB <br>
+Kedalaman: 8,17 LS-124,61 BT <br>
+Koordinat: 3,0 <br>
+Waktu: 08 Feb 2025 12:42:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
