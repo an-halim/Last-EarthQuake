@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 16 km barat daya Bone  II-III Bone II-III Soppeng II Pangkep II Maros II Sinjai <br>
-Magnitude: 8 Km <br>
-Kedalaman: 4,76 LS-119,92 BT <br>
-Koordinat: 4,1 <br>
-Waktu: 08 Feb 2025 19:13:57 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km timurlaut Lalolae, Kolaka Timur  II Kolaka Timur <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,05 LS-121,80 BT <br>
+Koordinat: 2,2 <br>
+Waktu: 09 Feb 2025 19:37:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
