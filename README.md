@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 54 km barat laut Halmahera Barat  II-III Galela II Ibu <br>
-Magnitude: 21 Km <br>
-Kedalaman: 1,73 LU-127,27 BT <br>
-Koordinat: 4,8 <br>
-Waktu: 12 Feb 2025 13:53:35 WIB <br>
+Lokasi: Pusat gempa berada di darat 1 km barat laut Landawe, Konawe Utara  III Konawe Utara <br>
+Magnitude: 7 Km <br>
+Kedalaman: 3,24 LS-122,24 BT <br>
+Koordinat: 3,5 <br>
+Waktu: 12 Feb 2025 15:57:22 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
