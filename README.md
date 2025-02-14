@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 106 km Barat Daya Pesisir Barat  II-III Liwa <br>
-Magnitude: 13 Km <br>
-Kedalaman: 6,14 LS-103,87 BT <br>
-Koordinat: 4,8 <br>
-Waktu: 14 Feb 2025 04:07:33 WIB <br>
+Lokasi: Pusat gempa berada didarat 6 km BaratLaut Kab. Cianjur  II-III Cipanas II-III Cianjur <br>
+Magnitude: 11 Km <br>
+Kedalaman: 6,80 LS-107,08 BT <br>
+Koordinat: 2,3 <br>
+Waktu: 14 Feb 2025 09:43:17 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
