@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 3 km timur laut Lohia, Muna  II-III Kab. Muna <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,92 LS-122,77 BT <br>
-Koordinat: 3,0 <br>
-Waktu: 15 Feb 2025 18:00:10 WIB <br>
+Lokasi: Pusat gempa berada di darat 21 km timurlaut Bayah  II-III Bayah II-III Cibeber II Taman Jaya <br>
+Magnitude: 10 Km <br>
+Kedalaman: 6,78 LS-106,37 BT <br>
+Koordinat: 3,1 <br>
+Waktu: 17 Feb 2025 19:46:49 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
