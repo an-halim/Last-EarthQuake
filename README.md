@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 103 km barat daya Banda Aceh  III-IV Banda Aceh III-IV Aceh Besar III-IV Aceh Jaya III Pidie <br>
-Magnitude: 10 Km <br>
-Kedalaman: 4,92 LU-94,63 BT <br>
-Koordinat: 5,2 <br>
-Waktu: 20 Feb 2025 10:19:36 WIB <br>
+Lokasi: Pusat gempa berada di laut 14 km selatan Marisa  II-III Bone Bolango II-III Gorontalo Utara II Toli-Toli II Buol <br>
+Magnitude: 132 Km <br>
+Kedalaman: 0,34 LU-121,93 BT <br>
+Koordinat: 4,8 <br>
+Waktu: 20 Feb 2025 17:03:59 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
