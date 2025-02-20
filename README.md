@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 67 km Tenggara Seram Bagian Timur  III Bula <br>
+Lokasi: Pusat gempa berada di laut 103 km barat daya Banda Aceh  III-IV Banda Aceh III-IV Aceh Besar III-IV Aceh Jaya III Pidie <br>
 Magnitude: 10 Km <br>
-Kedalaman: 3,32 LS-131,06 BT <br>
-Koordinat: 5,9 <br>
-Waktu: 19 Feb 2025 06:39:12 WIB <br>
+Kedalaman: 4,92 LU-94,63 BT <br>
+Koordinat: 5,2 <br>
+Waktu: 20 Feb 2025 10:19:36 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
