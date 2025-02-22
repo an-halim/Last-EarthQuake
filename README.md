@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 37 km barat laut Manokwari  II-III Manokwari <br>
-Magnitude: 8 Km <br>
-Kedalaman: 0,58 LS-133,93 BT <br>
-Koordinat: 4,6 <br>
-Waktu: 21 Feb 2025 08:20:09 WIB <br>
+Lokasi: Pusat gempa berada di darat 20 km barat daya Kab. Garut  III Pasirwangi II-III Pacet II-III Darajat <br>
+Magnitude: 6 Km <br>
+Kedalaman: 7,22 LS-107,71 BT <br>
+Koordinat: 3,1 <br>
+Waktu: 22 Feb 2025 18:32:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
