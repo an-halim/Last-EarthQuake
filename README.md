@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 20 km barat daya Kab. Garut  III Pasirwangi II-III Pacet II-III Darajat <br>
-Magnitude: 6 Km <br>
-Kedalaman: 7,22 LS-107,71 BT <br>
-Koordinat: 3,1 <br>
-Waktu: 22 Feb 2025 18:32:03 WIB <br>
+Lokasi: Pusat gempa berada di laut 87 km tenggara Enggano  II Lampung Barat II Semendo <br>
+Magnitude: 21 Km <br>
+Kedalaman: 5,54 LS-103,03 BT <br>
+Koordinat: 4,9 <br>
+Waktu: 23 Feb 2025 06:44:55 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
