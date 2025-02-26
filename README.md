@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 41 km Tenggara Tutuyan  II Bolaang Mongondow Timur <br>
-Magnitude: 3 Km <br>
-Kedalaman: 0,43 LU-124,80 BT <br>
-Koordinat: 4,4 <br>
-Waktu: 27 Feb 2025 00:48:29 WIB <br>
+Lokasi: Pusat gempa berada di darat 13 km Timur Laut Lewa - Sumba Timur  III Waingapu <br>
+Magnitude: 29 Km <br>
+Kedalaman: 9,67 LS-120,00 BT <br>
+Koordinat: 4,5 <br>
+Waktu: 27 Feb 2025 04:31:06 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
