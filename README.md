@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 41 km tenggara Tutuyan-BOLTIM  II Bolaang Mongondow Timur II Minahasa Tenggara <br>
+Lokasi: Pusat gempa berada di laut 42 km Tenggara Tutuyan-Boltim  II Bolaang Mongondow Timur <br>
 Magnitude: 10 Km <br>
-Kedalaman: 0,45 LU-124,82 BT <br>
-Koordinat: 4,9 <br>
-Waktu: 26 Feb 2025 21:33:28 WIB <br>
+Kedalaman: 0,44 LU-124,82 BT <br>
+Koordinat: 3,8 <br>
+Waktu: 26 Feb 2025 22:04:35 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
