@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 41 km TimurLaut Borong  II-III Waingapu <br>
-Magnitude: 161 Km <br>
-Kedalaman: 8,44 LS-120,82 BT <br>
-Koordinat: 5,2 <br>
-Waktu: 27 Feb 2025 22:53:00 WIB <br>
+Lokasi: Pusat gempa berada di laut 61 km Tenggara Tutuyan-Bolaang Mongondow Timur  II-III Minahasa Tenggara <br>
+Magnitude: 11 Km <br>
+Kedalaman: 0,32 LU-124,95 BT <br>
+Koordinat: 4,6 <br>
+Waktu: 28 Feb 2025 17:01:54 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
