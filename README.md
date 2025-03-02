@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 67 km baratdaya Ternate  III-IV Ternate <br>
-Magnitude: 18 Km <br>
-Kedalaman: 0,63 LU-126,78 BT <br>
-Koordinat: 4,9 <br>
-Waktu: 02 Mar 2025 19:26:37 WIB <br>
+Lokasi: Pusat gempa berada di laut 47 km Tenggara Tutuyan  III Bolaang Mongondow Timur II Kotamobagu II Bolaang Mongondow <br>
+Magnitude: 10 Km <br>
+Kedalaman: 0,42 LU-124,87 BT <br>
+Koordinat: 4,7 <br>
+Waktu: 02 Mar 2025 23:07:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
