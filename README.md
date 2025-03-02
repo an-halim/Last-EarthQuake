@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 43 km baratdaya Bantul  II-III Bantul II-III Purworejo II-III Gunungkidul II Yogyakarta <br>
-Magnitude: 22 Km <br>
-Kedalaman: 8,29 LS-110,32 BT <br>
-Koordinat: 4,4 <br>
-Waktu: 02 Mar 2025 12:00:42 WIB <br>
+Lokasi: Pusat gempa berada di darat 4 km baratdaya Lalolae, Kolaka Timur  II-III Kolaka Timur <br>
+Magnitude: 4 Km <br>
+Kedalaman: 4,06 LS-121,78 BT <br>
+Koordinat: 2,2 <br>
+Waktu: 02 Mar 2025 14:05:16 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
