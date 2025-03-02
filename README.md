@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 7 km timur laut Kota Sorong  II-III Kota Sorong <br>
-Magnitude: 10 Km <br>
-Kedalaman: 0,76 LS-131,35 BT <br>
-Koordinat: 3,5 <br>
-Waktu: 02 Mar 2025 18:09:26 WIB <br>
+Lokasi: Pusat gempa berada di laut 67 km baratdaya Ternate  III-IV Ternate <br>
+Magnitude: 18 Km <br>
+Kedalaman: 0,63 LU-126,78 BT <br>
+Koordinat: 4,9 <br>
+Waktu: 02 Mar 2025 19:26:37 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
