@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 14 km baratdaya Tehoru, Maluku Tengah  II Amahai <br>
-Magnitude: 57 Km <br>
-Kedalaman: 3,48 LS-129,42 BT <br>
-Koordinat: 4,0 <br>
-Waktu: 03 Mar 2025 02:19:47 WIB <br>
+Lokasi: Pusat gempa berada di laut 113 km Tenggara Sumbawa  II Sumbawa Barat II Sumbawa <br>
+Magnitude: 18 Km <br>
+Kedalaman: 9,50 LS-117,55 BT <br>
+Koordinat: 4,3 <br>
+Waktu: 03 Mar 2025 07:02:06 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
