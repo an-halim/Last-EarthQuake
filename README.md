@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 79 km baratdaya Pesisir Barat  II Semaka <br>
-Magnitude: 13 Km <br>
-Kedalaman: 5,90 LS-103,87 BT <br>
-Koordinat: 4,3 <br>
-Waktu: 04 Mar 2025 17:54:45 WIB <br>
+Lokasi: Pusat gempa berada di darat 4 km barat daya Polinggona-Kolaka  II-III Kolaka <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,44 LS-121,67 BT <br>
+Koordinat: 3,4 <br>
+Waktu: 05 Mar 2025 12:20:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
