@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 111 km tenggara Sumbawa Barat  III Sumbawa <br>
-Magnitude: 26 Km <br>
-Kedalaman: 9,50 LS-117,53 BT <br>
-Koordinat: 3,6 <br>
-Waktu: 06 Mar 2025 03:44:28 WIB <br>
+Lokasi: Pusat gempa berada di darat 46 km barat laut Luwu Timur  III Mangkutana <br>
+Magnitude: 5 Km <br>
+Kedalaman: 2,31 LS-120,85 BT <br>
+Koordinat: 4,0 <br>
+Waktu: 07 Mar 2025 05:19:00 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
