@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 117 km BaratDaya Banda Aceh  III Banda Aceh III Aceh Besar II Sabang II Pidie <br>
-Magnitude: 10 Km <br>
-Kedalaman: 5,40 LU-94,28 BT <br>
-Koordinat: 5,4 <br>
-Waktu: 07 Mar 2025 19:42:41 WIB <br>
+Lokasi: Pusat gempa berada di darat 41 km Barat Laut Luwu Timur  II Mangkutana <br>
+Magnitude: 5 Km <br>
+Kedalaman: 2,35 LS-120,88 BT <br>
+Koordinat: 3,6 <br>
+Waktu: 07 Mar 2025 20:05:28 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
