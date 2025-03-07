@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 24 km barat laut Luwu Timur  II Mangkutana <br>
+Lokasi: Pusat gempa berada di darat 2 km barat daya Loea, Kolaka Timur  II-III Kolaka Timur <br>
 Magnitude: 3 Km <br>
-Kedalaman: 2,50 LS-120,97 BT <br>
-Koordinat: 3,6 <br>
-Waktu: 07 Mar 2025 21:53:40 WIB <br>
+Kedalaman: 4,11 LS-121,88 BT <br>
+Koordinat: 2,4 <br>
+Waktu: 08 Mar 2025 04:18:08 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
