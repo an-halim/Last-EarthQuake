@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 46 km baratlaut Luwu Timur  II-III Mangkutana <br>
-Magnitude: 5 Km <br>
-Kedalaman: 2,32 LS-120,85 BT <br>
-Koordinat: 4,4 <br>
-Waktu: 07 Mar 2025 09:09:21 WIB <br>
+Lokasi: Pusat gempa berada di darat 19 km baratlaut Luwu Timur  III-IV Malili III-IV Mangkutana III-IV Wasuponda <br>
+Magnitude: 10 Km <br>
+Kedalaman: 2,47 LS-121,04 BT <br>
+Koordinat: 5,2 <br>
+Waktu: 07 Mar 2025 15:34:04 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
