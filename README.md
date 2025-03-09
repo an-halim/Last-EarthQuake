@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 131 Km Tenggara Sumbawa  III Sumbawa III Sumbawa Barat III Lombok Timur III Bima II-III Lombok Tengah II-III Lombok Barat II-III Kota Mataram II-III Kuta Selatan II Kuta II Denpasar <br>
-Magnitude: 21 Km <br>
-Kedalaman: 9,62 LS-117,78 BT <br>
-Koordinat: 5,3 <br>
-Waktu: 09 Mar 2025 11:31:10 WIB <br>
+Lokasi: Pusat gempa berada di darat 14 km barat laut Tapanuli Selatan  III-IV Pinangsori III Padang Sidempuan <br>
+Magnitude: 2 Km <br>
+Kedalaman: 1,62 LU-99,15 BT <br>
+Koordinat: 4,5 <br>
+Waktu: 09 Mar 2025 14:31:30 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
