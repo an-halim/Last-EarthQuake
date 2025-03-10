@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 55 km barat daya Pesisir Barat  II-III Pesisir Barat <br>
-Magnitude: 17 Km <br>
-Kedalaman: 5,58 LS-103,62 BT <br>
-Koordinat: 3,8 <br>
-Waktu: 10 Mar 2025 10:24:51 WIB <br>
+Lokasi: Pusat gempa berada di darat 42 km barat laut Luwu Timur  II-III Mangkutana <br>
+Magnitude: 5 Km <br>
+Kedalaman: 2,34 LS-120,87 BT <br>
+Koordinat: 3,9 <br>
+Waktu: 10 Mar 2025 14:27:37 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
