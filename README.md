@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km Tenggara Kepahiang  II-III Kepahiang <br>
-Magnitude: 8 Km <br>
-Kedalaman: 3,66 LS-102,59 BT <br>
-Koordinat: 2,7 <br>
-Waktu: 13 Mar 2025 23:00:43 WIB <br>
+Lokasi: Pusat gempa berada di darat 23 km barat laut Luwu Timur  II-III Tomoni <br>
+Magnitude: 4 Km <br>
+Kedalaman: 2,50 LS-120,98 BT <br>
+Koordinat: 3,8 <br>
+Waktu: 14 Mar 2025 04:27:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
