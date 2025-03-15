@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 119 km Tenggara Kabupaten Sukabumi  II Garut II Samarang <br>
-Magnitude: 10 Km <br>
-Kedalaman: 8,01 LS-106,89 BT <br>
-Koordinat: 3,0 <br>
-Waktu: 15 Mar 2025 09:53:40 WIB <br>
+Lokasi: Pusat gempa berada di darat 1 km barat daya Lalolae  II-III Kolaka Timur <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,03 LS-121,78 BT <br>
+Koordinat: 2,1 <br>
+Waktu: 15 Mar 2025 18:50:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
