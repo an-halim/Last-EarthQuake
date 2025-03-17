@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 74 km baratdaya Bone Bolango  III Kab. Gorontalo III Kab. Bone Bolango II-III Kab. Gorontalo Utara <br>
-Magnitude: 107 Km <br>
-Kedalaman: 0,13 LS-123,05 BT <br>
-Koordinat: 5,1 <br>
-Waktu: 17 Mar 2025 10:19:15 WIB <br>
+Lokasi: Pusat gempa berada di laut 46 km barat laut Seram Bagian Timur  III Masohi III Werinama <br>
+Magnitude: 10 Km <br>
+Kedalaman: 2,88 LS-130,14 BT <br>
+Koordinat: 6,0 <br>
+Waktu: 18 Mar 2025 00:32:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
