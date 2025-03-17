@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1 km tenggara Kepahiang  III Kepahiang <br>
-Magnitude: 5 Km <br>
-Kedalaman: 3,65 LS-102,58 BT <br>
-Koordinat: 2,5 <br>
-Waktu: 16 Mar 2025 19:05:10 WIB <br>
+Lokasi: Pusat gempa berada di laut 74 km baratdaya Bone Bolango  III Kab. Gorontalo III Kab. Bone Bolango II-III Kab. Gorontalo Utara <br>
+Magnitude: 107 Km <br>
+Kedalaman: 0,13 LS-123,05 BT <br>
+Koordinat: 5,1 <br>
+Waktu: 17 Mar 2025 10:19:15 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
