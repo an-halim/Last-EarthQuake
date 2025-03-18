@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km Tenggara Tapanuli Utara  III-IV Pandan Tapanuli Tengah <br>
-Magnitude: 1 Km <br>
-Kedalaman: 1,86 LU-99,08 BT <br>
-Koordinat: 3,7 <br>
-Waktu: 18 Mar 2025 20:48:31 WIB <br>
+Lokasi: Pusat gempa berada di darat 6 km timur laut Kota Jayapura  III Kota Jayapura <br>
+Magnitude: 9 Km <br>
+Kedalaman: 2,53 LS-140,74 BT <br>
+Koordinat: 3,5 <br>
+Waktu: 18 Mar 2025 22:31:06 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
