@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 6 km timur laut Kota Jayapura  III Kota Jayapura <br>
-Magnitude: 9 Km <br>
-Kedalaman: 2,53 LS-140,74 BT <br>
-Koordinat: 3,5 <br>
-Waktu: 18 Mar 2025 22:31:06 WIB <br>
+Lokasi: Pusat gempa berada di laut 8 km BaratDaya TABANAN  III Denpasar III Kuta III Gianyar III Karangasem III Mataram III Lombok Barat <br>
+Magnitude: 146 Km <br>
+Kedalaman: 8,59 LS-115,07 BT <br>
+Koordinat: 4,3 <br>
+Waktu: 19 Mar 2025 20:17:48 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
