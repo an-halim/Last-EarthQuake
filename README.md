@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km BaratLaut Loea, Kolaka Timur  II-III Kolaka Timur <br>
+Lokasi: Pusat gempa berada di darat 38 km barat laut Mamuju Tengah  II-III Mamuju Tengah <br>
 Magnitude: 5 Km <br>
-Kedalaman: 4,07 LS-121,82 BT <br>
-Koordinat: 2,6 <br>
-Waktu: 21 Mar 2025 18:19:54 WIB <br>
+Kedalaman: 1,76 LS-119,38 BT <br>
+Koordinat: 4,1 <br>
+Waktu: 22 Mar 2025 01:59:02 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
