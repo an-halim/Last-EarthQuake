@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 70 km timur laut Sumbawa  II-III Sumbawa II-III Sumbawa Barat II-III Bima <br>
-Magnitude: 15 Km <br>
-Kedalaman: 8,10 LS-117,92 BT <br>
-Koordinat: 4,8 <br>
-Waktu: 21 Mar 2025 05:09:05 WIB <br>
+Lokasi: Pusat gempa berada di darat 2 km BaratLaut Loea, Kolaka Timur  II-III Kolaka Timur <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,07 LS-121,82 BT <br>
+Koordinat: 2,6 <br>
+Waktu: 21 Mar 2025 18:19:54 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
