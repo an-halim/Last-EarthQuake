@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 117 km BaratDaya Jembrana  II Kuta II Denpasar <br>
-Magnitude: 29 Km <br>
-Kedalaman: 9,28 LS-114,09 BT <br>
-Koordinat: 4,3 <br>
-Waktu: 24 Mar 2025 16:44:36 WIB <br>
+Lokasi: Pusat gempa berada di laut 58 km Tenggara Kab. Sukabumi  II-III Surade II Cidolog <br>
+Magnitude: 31 Km <br>
+Kedalaman: 7,49 LS-106,70 BT <br>
+Koordinat: 4,1 <br>
+Waktu: 24 Mar 2025 21:10:04 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
