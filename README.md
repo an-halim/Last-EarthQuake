@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 33 km Barat Daya Blang Pidie, Aceh Barat Daya  III Aceh Barat Daya <br>
-Magnitude: 3 Km <br>
-Kedalaman: 3,63 LU-96,75 BT <br>
-Koordinat: 4,7 <br>
-Waktu: 24 Mar 2025 21:26:28 WIB <br>
+Lokasi: Pusat gempa berada di laut 86 km barat daya Kab. Pangandaran  III Garut II-III Tasikmalaya II Pelabuhan Ratu II Bandung III Kota Banjar <br>
+Magnitude: 11 Km <br>
+Kedalaman: 8,20 LS-107,89 BT <br>
+Koordinat: 4,9 <br>
+Waktu: 25 Mar 2025 14:02:19 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
