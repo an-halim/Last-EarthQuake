@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 86 km barat daya Kab. Pangandaran  III Garut II-III Tasikmalaya II Pelabuhan Ratu II Bandung III Kota Banjar <br>
-Magnitude: 11 Km <br>
-Kedalaman: 8,20 LS-107,89 BT <br>
-Koordinat: 4,9 <br>
-Waktu: 25 Mar 2025 14:02:19 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km Tenggara kab. Sumedang  II Jatinangor <br>
+Magnitude: 6 Km <br>
+Kedalaman: 6,90 LS-108,06 BT <br>
+Koordinat: 3,0 <br>
+Waktu: 28 Mar 2025 11:48:42 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
