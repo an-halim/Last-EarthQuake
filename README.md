@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 10 km barat laut Lombok Barat  II Mataram <br>
-Magnitude: 14 Km <br>
-Kedalaman: 8,62 LS-116,07 BT <br>
-Koordinat: 2,9 <br>
-Waktu: 28 Mar 2025 18:24:12 WIB <br>
+Lokasi: Pusat gempa berada di darat 68 km timur laut Sumbawa  II Sumbawa II Bima <br>
+Magnitude: 23 Km <br>
+Kedalaman: 8,13 LS-117,92 BT <br>
+Koordinat: 4,7 <br>
+Waktu: 28 Mar 2025 18:59:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
