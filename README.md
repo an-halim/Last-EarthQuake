@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 68 km timur laut Sumbawa  II Sumbawa II Bima <br>
-Magnitude: 23 Km <br>
-Kedalaman: 8,13 LS-117,92 BT <br>
-Koordinat: 4,7 <br>
-Waktu: 28 Mar 2025 18:59:01 WIB <br>
+Lokasi: Pusat gempa berada di darat 18 Km TimurLaut Banda Aceh  IV Banda Aceh  IV Aceh Besar II-III Pidie II-III Pidie Jaya II-III Sabang <br>
+Magnitude: 10 Km <br>
+Kedalaman: 5,63 LU-95,47 BT <br>
+Koordinat: 5,4 <br>
+Waktu: 30 Mar 2025 09:58:35 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
