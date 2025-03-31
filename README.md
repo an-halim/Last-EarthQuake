@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km Timurlaut Lalolae, Kolaka Timur  II-III Kolaka Timur <br>
+Lokasi: Pusat gempa berada di darat 1 km Barat Laut Ranomeeto Barat, Konawe Selatan  III Kendari III Konawe Selatan <br>
 Magnitude: 5 Km <br>
-Kedalaman: 4,00 LS-121,77 BT <br>
-Koordinat: 3,0 <br>
-Waktu: 31 Mar 2025 03:03:58 WIB <br>
+Kedalaman: 4,00 LS-122,36 BT <br>
+Koordinat: 3,2 <br>
+Waktu: 31 Mar 2025 07:58:48 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
