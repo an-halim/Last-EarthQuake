@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 101 km timur laut Maluku Barat Daya  III Tiakur III Pulau Leti <br>
-Magnitude: 150 Km <br>
-Kedalaman: 7,68 LS-128,57 BT <br>
-Koordinat: 6,3 <br>
-Waktu: 01 Apr 2025 17:15:55 WIB <br>
+Lokasi: Pusat gempa berada di darat 38 km baratlaut JANTHO  II-III Banda Aceh II-III Aceh Besar <br>
+Magnitude: 5 Km <br>
+Kedalaman: 5,55 LU-95,46 BT <br>
+Koordinat: 3,8 <br>
+Waktu: 02 Apr 2025 07:29:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
