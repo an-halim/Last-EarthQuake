@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 118 km barat daya Pulau Doi  II-III Manado II-III Bitung II-III Ternate II-III Jailolo <br>
-Magnitude: 10 Km <br>
-Kedalaman: 2,13 LU-126,73 BT <br>
-Koordinat: 6,0 <br>
-Waktu: 03 Apr 2025 04:03:39 WIB <br>
+Lokasi: Pusat gempa berada di darat 48 km tenggara Buol  II-III Pohuwato <br>
+Magnitude: 65 Km <br>
+Kedalaman: 0,56 LU-121,51 BT <br>
+Koordinat: 4,8 <br>
+Waktu: 03 Apr 2025 20:42:20 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
