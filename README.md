@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1 km timur laut Landono, Konawe Selatan  II-III Konawe Selatan <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,10 LS-122,35 BT <br>
-Koordinat: 2,8 <br>
-Waktu: 06 Apr 2025 21:49:37 WIB <br>
+Lokasi: Pusat gempa berada di darat 13 km barat daya Nabire  III Nabire <br>
+Magnitude: 33 Km <br>
+Kedalaman: 3,39 LS-135,39 BT <br>
+Koordinat: 4,3 <br>
+Waktu: 07 Apr 2025 17:52:44 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
