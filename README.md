@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 13 km barat daya Nabire  III Nabire <br>
-Magnitude: 33 Km <br>
-Kedalaman: 3,39 LS-135,39 BT <br>
-Koordinat: 4,3 <br>
-Waktu: 07 Apr 2025 17:52:44 WIB <br>
+Lokasi: Pusat gempa berada di laut 192 km barat laut Sinabang  III-IV Kab. Simeulue III Kab. Aceh Selatan III Kota Subulussalam III Kab. Singkil III Kab. Nias Utara II-III Kab. Karo II-III Aceh Barat Daya <br>
+Magnitude: 10 Km <br>
+Kedalaman: 2,82 LU-94,67 BT <br>
+Koordinat: 6,2 <br>
+Waktu: 08 Apr 2025 02:48:52 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
