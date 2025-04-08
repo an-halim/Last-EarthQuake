@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 23 km tenggara Pasangkayu  III Rio Pakava <br>
-Magnitude: 5 Km <br>
-Kedalaman: 1,33 LS-119,50 BT <br>
-Koordinat: 3,9 <br>
-Waktu: 08 Apr 2025 20:05:30 WIB <br>
+Lokasi: Pusat gempa berada di laut 16 km barat laut Lombok Barat  III Mataram III Lombok Barat <br>
+Magnitude: 14 Km <br>
+Kedalaman: 8,55 LS-116,06 BT <br>
+Koordinat: 3,0 <br>
+Waktu: 08 Apr 2025 22:18:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
