@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 38 km barat daya Borong  II-III Waingapu <br>
-Magnitude: 93 Km <br>
-Kedalaman: 9,09 LS-120,58 BT <br>
-Koordinat: 3,8 <br>
-Waktu: 09 Apr 2025 14:04:30 WIB <br>
+Lokasi: Pusat gempa berada di darat 57 km tenggara Berau  II-III Tanjung Redep <br>
+Magnitude: 13 Km <br>
+Kedalaman: 1,89 LU-117,86 BT <br>
+Koordinat: 2,7 <br>
+Waktu: 09 Apr 2025 21:16:22 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
