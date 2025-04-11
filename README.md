@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km Tenggara Kota Bogor  III Kab. Bogor III Kota Bogor III Depok <br>
+Lokasi: Pusat gempa berada di darat 3 km baratdaya Loea, Kolaka Timur  II-III Kolaka Timur <br>
 Magnitude: 5 Km <br>
-Kedalaman: 6,62 LS-106,80 BT <br>
-Koordinat: 4,1 <br>
-Waktu: 10 Apr 2025 22:16:13 WIB <br>
+Kedalaman: 4,11 LS-121,87 BT <br>
+Koordinat: 2,6 <br>
+Waktu: 11 Apr 2025 06:33:42 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
