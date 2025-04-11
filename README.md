@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3 km baratdaya Loea, Kolaka Timur  II-III Kolaka Timur <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,11 LS-121,87 BT <br>
-Koordinat: 2,6 <br>
-Waktu: 11 Apr 2025 06:33:42 WIB <br>
+Lokasi: Pusat gempa berada di darat 1 km baratdaya Loea, Kolaka Timur  III Kolaka Timur <br>
+Magnitude: 3 Km <br>
+Kedalaman: 4,09 LS-121,90 BT <br>
+Koordinat: 3,0 <br>
+Waktu: 11 Apr 2025 08:43:34 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
