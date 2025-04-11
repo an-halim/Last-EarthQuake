@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 16 km baratdaya BONJOL-PASAMAN  I-II Pasaman Barat I-II Pasaman <br>
-Magnitude: 5 Km <br>
-Kedalaman: 0,09 LS-100,08 BT <br>
-Koordinat: 4,3 <br>
-Waktu: 11 Apr 2025 18:27:14 WIB <br>
+Lokasi: Pusat gempa berada di laut 86 km timur laut Sanana  III Sanana <br>
+Magnitude: 14 Km <br>
+Kedalaman: 1,42 LS-126,43 BT <br>
+Koordinat: 4,4 <br>
+Waktu: 11 Apr 2025 21:05:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
