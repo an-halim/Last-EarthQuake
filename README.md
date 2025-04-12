@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 86 km timur laut Sanana  III Sanana <br>
-Magnitude: 14 Km <br>
-Kedalaman: 1,42 LS-126,43 BT <br>
-Koordinat: 4,4 <br>
-Waktu: 11 Apr 2025 21:05:23 WIB <br>
+Lokasi: Pusat gempa berada di darat 2 km BaratLaut Loea-Kolaka Timur  II-III Kolaka Timur <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,07 LS-121,81 BT <br>
+Koordinat: 3,2 <br>
+Waktu: 12 Apr 2025 06:45:41 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
