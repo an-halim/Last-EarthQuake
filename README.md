@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3 km barat daya Ladongi, Kolaka Timur  II-III Kolaka Timur <br>
-Magnitude: 10 Km <br>
-Kedalaman: 4,14 LS-121,89 BT <br>
-Koordinat: 2,3 <br>
-Waktu: 12 Apr 2025 08:09:08 WIB <br>
+Lokasi: Pusat gempa berada di darat 23 km barat daya Kab. Garut  III Kertasari III Cibeureum III Pangalengan <br>
+Magnitude: 7 Km <br>
+Kedalaman: 7,26 LS-107,69 BT <br>
+Koordinat: 2,6 <br>
+Waktu: 12 Apr 2025 13:54:16 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
