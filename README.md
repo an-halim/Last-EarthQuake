@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1 km barat daya Loea, Kolaka Timur  II-III Kolaka Timur <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,10 LS-121,89 BT <br>
-Koordinat: 2,5 <br>
-Waktu: 13 Apr 2025 07:48:40 WIB <br>
+Lokasi: Pusat gempa berada di laut 83 km tenggara Lembata  II Lembata <br>
+Magnitude: 49 Km <br>
+Kedalaman: 9,13 LS-123,84 BT <br>
+Koordinat: 5,2 <br>
+Waktu: 14 Apr 2025 02:35:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
