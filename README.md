@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 7 km Barat Daya Siotapina, Buton  III Buton <br>
-Magnitude: 12 Km <br>
-Kedalaman: 5,42 LS-123,12 BT <br>
-Koordinat: 3,2 <br>
-Waktu: 15 Apr 2025 06:29:05 WIB <br>
+Lokasi: Pusat gempa berada di laut 41 km arah Timur Laut Sumbawa  III Dompu III Sumbawa II Bima <br>
+Magnitude: 18 Km <br>
+Kedalaman: 8,32 LS-117,75 BT <br>
+Koordinat: 4,2 <br>
+Waktu: 15 Apr 2025 15:33:55 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
