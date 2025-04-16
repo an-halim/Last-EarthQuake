@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 145 km Timur Laut Tuban  II-III Bawean <br>
-Magnitude: 5 Km <br>
-Kedalaman: 5,66 LS-112,46 BT <br>
-Koordinat: 4,6 <br>
-Waktu: 16 Apr 2025 23:53:32 WIB <br>
+Lokasi: Pusat gempa berada di laut 19 km Timur Labuha  III Labuha <br>
+Magnitude: 18 Km <br>
+Kedalaman: 0,59 LS-127,66 BT <br>
+Koordinat: 4,1 <br>
+Waktu: 17 Apr 2025 01:57:53 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
