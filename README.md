@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 8 km timur laut Kab. Cianjur  II-III Kec. Karangtengah <br>
-Magnitude: 5 Km <br>
-Kedalaman: 6,77 LS-107,20 BT <br>
-Koordinat: 2,5 <br>
-Waktu: 16 Apr 2025 09:27:35 WIB <br>
+Lokasi: Pusat gempa berada di darat 43 km timur laut Sumbawa  III Sumbawa III Bima III Dompu <br>
+Magnitude: 10 Km <br>
+Kedalaman: 8,28 LS-117,75 BT <br>
+Koordinat: 4,4 <br>
+Waktu: 16 Apr 2025 21:07:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
