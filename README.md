@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 19 km Timur Labuha  III Labuha <br>
-Magnitude: 18 Km <br>
-Kedalaman: 0,59 LS-127,66 BT <br>
-Koordinat: 4,1 <br>
-Waktu: 17 Apr 2025 01:57:53 WIB <br>
+Lokasi: Pusat gempa berada di laut 54 km tenggara Tutuyan, Bolaang Mongondow Timur  II Bitung II Manado II Minahasa II Gorontalo III Bolmong II Gorontalo Utara <br>
+Magnitude: 10 Km <br>
+Kedalaman: 0,36 LU-124,90 BT <br>
+Koordinat: 5,7 <br>
+Waktu: 17 Apr 2025 07:51:25 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
