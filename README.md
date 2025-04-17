@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 5 km baratdaya Cianjur  III Cianjur <br>
+Lokasi: Pusat gempa berada di darat 43 km timurlaut Bone  II-III Soppeng II-III Sengkang <br>
 Magnitude: 6 Km <br>
-Kedalaman: 6,85 LS-107,10 BT <br>
-Koordinat: 2,6 <br>
-Waktu: 17 Apr 2025 13:23:08 WIB <br>
+Kedalaman: 4,35 LS-120,07 BT <br>
+Koordinat: 4,1 <br>
+Waktu: 17 Apr 2025 13:35:01 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
