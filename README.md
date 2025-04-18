@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 196 km barat daya Kuta Selatan  II Denpasar <br>
-Magnitude: 10 Km <br>
-Kedalaman: 10,03 LS-113,96 BT <br>
-Koordinat: 4,9 <br>
-Waktu: 18 Apr 2025 09:13:05 WIB <br>
+Lokasi: Pusat gempa berada di darat 5 km tenggara Tapanuli Utara  II Tarutung <br>
+Magnitude: 2 Km <br>
+Kedalaman: 2,00 LU-99,01 BT <br>
+Koordinat: 4,0 <br>
+Waktu: 18 Apr 2025 11:52:16 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
