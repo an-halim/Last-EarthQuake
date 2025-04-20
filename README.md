@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 11 km Tenggara Nabire  III Nabire <br>
-Magnitude: 26 Km <br>
-Kedalaman: 3,39 LS-135,60 BT <br>
-Koordinat: 4,1 <br>
-Waktu: 20 Apr 2025 19:39:19 WIB <br>
+Lokasi: Pusat gempa berada di laut 66 km timur Bula  III Geser <br>
+Magnitude: 90 Km <br>
+Kedalaman: 3,29 LS-131,06 BT <br>
+Koordinat: 5,5 <br>
+Waktu: 21 Apr 2025 01:19:54 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
