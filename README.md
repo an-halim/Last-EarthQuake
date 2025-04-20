@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 1 km timur laut Pulau Panjang  II Lombok Timur <br>
-Magnitude: 12 Km <br>
-Kedalaman: 8,43 LS-116,91 BT <br>
-Koordinat: 3,9 <br>
-Waktu: 20 Apr 2025 17:27:37 WIB <br>
+Lokasi: Pusat gempa berada di darat 11 km Tenggara Nabire  III Nabire <br>
+Magnitude: 26 Km <br>
+Kedalaman: 3,39 LS-135,60 BT <br>
+Koordinat: 4,1 <br>
+Waktu: 20 Apr 2025 19:39:19 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
