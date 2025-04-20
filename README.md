@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 41 km timur laut Halmahera Timur  II-III Halmahera Timur <br>
-Magnitude: 20 Km <br>
-Kedalaman: 1,60 LU-128,72 BT <br>
-Koordinat: 4,8 <br>
-Waktu: 20 Apr 2025 06:06:45 WIB <br>
+Lokasi: Pusat gempa berada di darat 33 km tenggara Morowali  III Bahadopi <br>
+Magnitude: 10 Km <br>
+Kedalaman: 2,83 LS-122,17 BT <br>
+Koordinat: 4,6 <br>
+Waktu: 20 Apr 2025 07:36:00 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
