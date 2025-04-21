@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3 km BaratLaut Kab. Cianjur  III Cugenang III Cianjur <br>
-Magnitude: 4 Km <br>
-Kedalaman: 6,80 LS-107,12 BT <br>
-Koordinat: 2,3 <br>
-Waktu: 21 Apr 2025 19:32:10 WIB <br>
+Lokasi: Pusat gempa berada di darat 2 km Barat Daya Landono, Konawe Selatan  III Konawe Selatan III Kendari <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,14 LS-122,30 BT <br>
+Koordinat: 3,4 <br>
+Waktu: 21 Apr 2025 20:43:54 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
