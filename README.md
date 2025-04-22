@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 22 km tenggara Sumbawa  II Sumbawa <br>
+Lokasi: Pusat gempa berada di laut 30 km tenggara Morowali  II Bahadopi <br>
 Magnitude: 10 Km <br>
-Kedalaman: 8,69 LS-117,43 BT <br>
-Koordinat: 2,5 <br>
-Waktu: 22 Apr 2025 09:13:22 WIB <br>
+Kedalaman: 2,80 LS-122,16 BT <br>
+Koordinat: 3,4 <br>
+Waktu: 22 Apr 2025 14:01:59 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
