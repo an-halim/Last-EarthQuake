@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 30 km tenggara Morowali  II Bahadopi <br>
+Lokasi: Pusat gempa berada di laut 174 km tenggara Kabupaten Sukabumi  III Nagrak II-III Sukabumi II-III Cidolog II-III Cidadap II-III Bandung III Garut II Cihanjuang <br>
 Magnitude: 10 Km <br>
-Kedalaman: 2,80 LS-122,16 BT <br>
-Koordinat: 3,4 <br>
-Waktu: 22 Apr 2025 14:01:59 WIB <br>
+Kedalaman: 8,55 LS-106,71 BT <br>
+Koordinat: 5,6 <br>
+Waktu: 22 Apr 2025 17:14:00 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
