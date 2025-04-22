@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 174 km tenggara Kabupaten Sukabumi  III Nagrak II-III Sukabumi II-III Cidolog II-III Cidadap II-III Bandung III Garut II Cihanjuang <br>
-Magnitude: 10 Km <br>
-Kedalaman: 8,55 LS-106,71 BT <br>
-Koordinat: 5,6 <br>
-Waktu: 22 Apr 2025 17:14:00 WIB <br>
+Lokasi: Pusat gempa berada di laut 67 km tenggara Pulau Karatung  III-IV Melonguane II-III Manado II-III Bitung II-III Bolaang Mongondow Timur II-III Minahasa Utara II-III Minahasa Tenggara II-III Sitaro <br>
+Magnitude: 107 Km <br>
+Kedalaman: 4,34 LU-127,52 BT <br>
+Koordinat: 6,6 <br>
+Waktu: 22 Apr 2025 17:17:17 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
