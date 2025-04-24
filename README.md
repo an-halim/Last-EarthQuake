@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 16 km Baratlaut Kab. Sukabumi  III Pelabuhan Ratu III Bayah III-IV Cisolok <br>
+Lokasi: Pusat gempa berada di darat barat laut Kab. Gayo Lues  III-IV Kab. Gayo Lues <br>
 Magnitude: 5 Km <br>
-Kedalaman: 6,89 LS-106,44 BT <br>
-Koordinat: 3,9 <br>
-Waktu: 24 Apr 2025 10:48:13 WIB <br>
+Kedalaman: 4,06 LU-97,22 BT <br>
+Koordinat: 3,6 <br>
+Waktu: 25 Apr 2025 05:20:43 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
