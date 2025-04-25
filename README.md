@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3 km barat daya Kab. Cianjur  III Cianjur <br>
-Magnitude: 19 Km <br>
-Kedalaman: 6,83 LS-107,11 BT <br>
-Koordinat: 2,4 <br>
-Waktu: 25 Apr 2025 15:58:06 WIB <br>
+Lokasi: Pusat gempa berada di laut 7 km tenggara Nias Selatan  II Nias Selatan <br>
+Magnitude: 23 Km <br>
+Kedalaman: 0,54 LU-97,87 BT <br>
+Koordinat: 4,4 <br>
+Waktu: 26 Apr 2025 05:27:38 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
