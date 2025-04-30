@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat timur laut Ladongi  II-III Kolaka Timur <br>
-Magnitude: 10 Km <br>
-Kedalaman: 4,10 LS-121,91 BT <br>
-Koordinat: 2,7 <br>
-Waktu: 29 Apr 2025 23:09:00 WIB <br>
+Lokasi: Pusat gempa berada di laut 9 km BaratLaut Laonti, Konawe Selatan  III-IV Kendari <br>
+Magnitude: 7 Km <br>
+Kedalaman: 3,99 LS-122,80 BT <br>
+Koordinat: 3,7 <br>
+Waktu: 30 Apr 2025 09:59:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
