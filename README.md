@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km Timur Laut Padang Panjang  III-IV Padang Panjang III Bukittinggi III Padang Pariaman III Pariaman <br>
-Magnitude: 10 Km <br>
-Kedalaman: 0,45 LS-100,41 BT <br>
+Lokasi: Pusat gempa berada di laut 132 km barat daya Jembrana  III Malang Selatan II-III Kuta II-III Kuta Selatan <br>
+Magnitude: 14 Km <br>
+Kedalaman: 9,40 LS-114,04 BT <br>
 Koordinat: 4,8 <br>
-Waktu: 02 May 2025 14:07:44 WIB <br>
+Waktu: 03 May 2025 09:19:17 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
