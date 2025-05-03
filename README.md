@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 74 km Timur Laut Keerom  III-IV Keerom II Kota Jayapura <br>
-Magnitude: 10 Km <br>
-Kedalaman: 3,00 LS-141,34 BT <br>
-Koordinat: 5,9 <br>
-Waktu: 03 May 2025 12:10:36 WIB <br>
+Lokasi: Pusat gempa berada di darat 16 km barat laut Luwu Timur  III Malili III Wasuponda <br>
+Magnitude: 5 Km <br>
+Kedalaman: 2,51 LS-121,04 BT <br>
+Koordinat: 3,7 <br>
+Waktu: 03 May 2025 16:17:53 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
