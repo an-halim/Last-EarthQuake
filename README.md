@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 4 km barat daya Lalolae - Kolaka Timur  III-IV Kolaka Timur III Kolaka <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,06 LS-121,77 BT <br>
-Koordinat: 4,2 <br>
-Waktu: 04 May 2025 13:46:30 WIB <br>
+Lokasi: Pusat gempa berada di darat 31 km Tenggara Kabupaten Sukabumi  II Simpenan Kabupaten Sukabumi <br>
+Magnitude: 92 Km <br>
+Kedalaman: 7,26 LS-106,63 BT <br>
+Koordinat: 3,9 <br>
+Waktu: 04 May 2025 20:56:50 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
