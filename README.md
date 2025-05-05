@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 106 km Tenggara Berau  II-III Kecamatan Talisayan <br>
-Magnitude: 12 Km <br>
-Kedalaman: 1,36 LU-118,03 BT <br>
-Koordinat: 3,9 <br>
-Waktu: 05 May 2025 14:08:08 WIB <br>
+Lokasi: Pusat gempa berada di Laut 58 km baratdaya Bolaang Uki  II-III Kabupaten Gorontalo <br>
+Magnitude: 106 Km <br>
+Kedalaman: 0,11 LS-123,78 BT <br>
+Koordinat: 5,5 <br>
+Waktu: 06 May 2025 05:57:35 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
