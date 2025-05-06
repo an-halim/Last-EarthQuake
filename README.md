@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 58 km baratdaya Bolaang Uki  II-III Kabupaten Gorontalo <br>
-Magnitude: 106 Km <br>
-Kedalaman: 0,11 LS-123,78 BT <br>
-Koordinat: 5,5 <br>
-Waktu: 06 May 2025 05:57:35 WIB <br>
+Lokasi: Pusat gempa berada di laut 28 km Barat Daya Pesisir Barat  IV Pesisir Selatan IV Bengkunat II Kec. Semaka <br>
+Magnitude: 49 Km <br>
+Kedalaman: 5,44 LS-103,90 BT <br>
+Koordinat: 4,0 <br>
+Waktu: 06 May 2025 14:15:13 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
