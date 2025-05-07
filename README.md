@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 25 km barat daya Nias Barat  IV Nias Barat IV Nias Selatan III-IV Nias III-IV Gunung Sitoli III-IV Nias Utara <br>
-Magnitude: 10 Km <br>
-Kedalaman: 0,78 LU-97,33 BT <br>
-Koordinat: 5,4 <br>
-Waktu: 07 May 2025 14:09:08 WIB <br>
+Lokasi: Pusat gempa berada di darat 34 km timur laut Toli-toli  II-III Toli-Toli <br>
+Magnitude: 11 Km <br>
+Kedalaman: 1,11 LU-120,96 BT <br>
+Koordinat: 3,7 <br>
+Waktu: 07 May 2025 14:34:48 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
