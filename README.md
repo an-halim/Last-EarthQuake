@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 17 km Timur Laut Serui  II-III Serui <br>
-Magnitude: 6 Km <br>
-Kedalaman: 1,73 LS-136,29 BT <br>
-Koordinat: 4,7 <br>
-Waktu: 06 May 2025 21:20:10 WIB <br>
+Lokasi: Pusat gempa berada di laut 101 km baratdaya Kab. Blitar  III Blitar II Trenggalek II Kediri II Tulungagung II Lumajang II Pacitan II Malang <br>
+Magnitude: 84 Km <br>
+Kedalaman: 9,00 LS-111,92 BT <br>
+Koordinat: 4,5 <br>
+Waktu: 07 May 2025 07:16:22 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
