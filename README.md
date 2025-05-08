@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 21 km timur laut Serui  III-IV Serui II Biak <br>
-Magnitude: 10 Km <br>
-Kedalaman: 1,72 LS-136,35 BT <br>
-Koordinat: 5,1 <br>
-Waktu: 08 May 2025 00:49:32 WIB <br>
+Lokasi: Pusat gempa berada di Laut 142 km TimurLaut Tuban  II Bawean <br>
+Magnitude: 5 Km <br>
+Kedalaman: 5,70 LS-112,50 BT <br>
+Koordinat: 3,9 <br>
+Waktu: 08 May 2025 11:55:30 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
