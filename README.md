@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di Laut 142 km TimurLaut Tuban  II Bawean <br>
-Magnitude: 5 Km <br>
-Kedalaman: 5,70 LS-112,50 BT <br>
-Koordinat: 3,9 <br>
-Waktu: 08 May 2025 11:55:30 WIB <br>
+Lokasi: Pusat gempa berada di darat 29 km selatan Sumbawa  II Sumbawa <br>
+Magnitude: 10 Km <br>
+Kedalaman: 8,76 LS-117,42 BT <br>
+Koordinat: 3,2 <br>
+Waktu: 08 May 2025 19:37:03 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
