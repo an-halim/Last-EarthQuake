@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 31 km timurlaut Namlea-Buru  II-III Namlea <br>
-Magnitude: 77 Km <br>
-Kedalaman: 3,06 LS-127,29 BT <br>
-Koordinat: 4,7 <br>
-Waktu: 08 May 2025 21:51:27 WIB <br>
+Lokasi: Pusat gempa berada di laut 36 km Tenggara Konawe  IV Konawe Kepulauan III-IV Buton Utara III Kendari III Konawe Selatan II-III Konawe <br>
+Magnitude: 7 Km <br>
+Kedalaman: 4,21 LS-123,30 BT <br>
+Koordinat: 4,8 <br>
+Waktu: 09 May 2025 20:14:07 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
