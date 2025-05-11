@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 11 km tenggara kota Sukabumi  III Sukabumi <br>
-Magnitude: 13 Km <br>
-Kedalaman: 7,00 LS-106,99 BT <br>
-Koordinat: 3,2 <br>
-Waktu: 11 May 2025 22:30:54 WIB <br>
+Lokasi: Pusat gempa berada di darat 1 km Baratdaya Ranomeeto Barat, Konawe Selatan  II-III Konawe Selatan II-III Kendari <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,04 LS-122,34 BT <br>
+Koordinat: 2,9 <br>
+Waktu: 11 May 2025 23:09:39 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
