@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 21 km baratdaya Blangpidie-Aceh Barat Daya  IV Aceh Selatan III-IV Medan II-III Bener Meriah II-III Lhokseumawe II-III Aceh Tengah II Banda Aceh II Aceh Tamiang II Nias Selatan <br>
-Magnitude: 45 Km <br>
-Kedalaman: 3,67 LU-96,86 BT <br>
-Koordinat: 6,2 <br>
-Waktu: 11 May 2025 15:57:43 WIB <br>
+Lokasi: Pusat gempa berada di darat 11 km tenggara kota Sukabumi  III Sukabumi <br>
+Magnitude: 13 Km <br>
+Kedalaman: 7,00 LS-106,99 BT <br>
+Koordinat: 3,2 <br>
+Waktu: 11 May 2025 22:30:54 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
