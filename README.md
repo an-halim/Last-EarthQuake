@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 7 km Barat Laut Pariaman  II-III Padang Pariaman II-III Pariaman <br>
-Magnitude: 10 Km <br>
-Kedalaman: 0,57 LS-100,10 BT <br>
-Koordinat: 2,7 <br>
-Waktu: 10 May 2025 11:20:26 WIB <br>
+Lokasi: Pusat gempa berada di darat 1 km baratlaut Landono, Konawe Selatan  II-III Kendari II Konawe <br>
+Magnitude: 5 Km <br>
+Kedalaman: 4,05 LS-122,29 BT <br>
+Koordinat: 2,9 <br>
+Waktu: 11 May 2025 14:49:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
