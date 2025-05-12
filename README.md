@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 59 km barat daya Padang Sidempuan  III Pinangsori II Sibolga <br>
-Magnitude: 88 Km <br>
-Kedalaman: 1,11 LU-98,81 BT <br>
-Koordinat: 5,3 <br>
-Waktu: 12 May 2025 10:09:39 WIB <br>
+Lokasi: Pusat gempa berada di darat 19 km barat daya Kab. Purwakarta  II-III Purwakarta <br>
+Magnitude: 6 Km <br>
+Kedalaman: 6,70 LS-107,34 BT <br>
+Koordinat: 2,9 <br>
+Waktu: 13 May 2025 03:42:05 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
