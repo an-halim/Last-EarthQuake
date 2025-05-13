@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1 km Baratlaut Besulutu  II Kendari <br>
-Magnitude: 5 Km <br>
-Kedalaman: 3,98 LS-122,35 BT <br>
+Lokasi: Pusat gempa berada di darat 8 km tenggara Mamasa  II-III Tawalian <br>
+Magnitude: 10 Km <br>
+Kedalaman: 2,96 LS-119,39 BT <br>
 Koordinat: 2,9 <br>
-Waktu: 13 May 2025 15:57:52 WIB <br>
+Waktu: 14 May 2025 04:16:24 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
