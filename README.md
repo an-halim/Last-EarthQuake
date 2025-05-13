@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 19 km barat daya Kab. Purwakarta  II-III Purwakarta <br>
-Magnitude: 6 Km <br>
-Kedalaman: 6,70 LS-107,34 BT <br>
-Koordinat: 2,9 <br>
-Waktu: 13 May 2025 03:42:05 WIB <br>
+Lokasi: Pusat gempa berada di darat 43 km Tenggara Buol  II-III Pohuwato II Bone Bolango <br>
+Magnitude: 96 Km <br>
+Kedalaman: 0,61 LU-121,50 BT <br>
+Koordinat: 4,6 <br>
+Waktu: 13 May 2025 12:41:11 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
