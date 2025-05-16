@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km Baratdaya Ruteng - Manggarai  III Ruteng <br>
+Lokasi: Pusat gempa berada di laut 32 km Barat laut Kab. Jayapura  II Genyem <br>
 Magnitude: 10 Km <br>
-Kedalaman: 8,63 LS-120,45 BT <br>
-Koordinat: 3,4 <br>
-Waktu: 16 May 2025 11:23:03 WIB <br>
+Kedalaman: 2,32 LS-140,29 BT <br>
+Koordinat: 3,6 <br>
+Waktu: 17 May 2025 06:23:58 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
