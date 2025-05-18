@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 17 km barat laut Kota Bogor  III Leuwiliang II-III Tanah Sereal II-III Kota Bogor <br>
-Magnitude: 8 Km <br>
-Kedalaman: 6,60 LS-106,64 BT <br>
-Koordinat: 2,9 <br>
-Waktu: 18 May 2025 17:30:17 WIB <br>
+Lokasi: Pusat gempa berada di darat 2 km barat daya Tinondo, Kolaka Timur  II Kolaka Timur <br>
+Magnitude: 4 Km <br>
+Kedalaman: 3,98 LS-121,79 BT <br>
+Koordinat: 2,4 <br>
+Waktu: 18 May 2025 22:20:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
