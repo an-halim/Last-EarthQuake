@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 53 km baratdaya Sinabang  II-III Kab. Simeulue <br>
-Magnitude: 16 Km <br>
-Kedalaman: 2,39 LU-95,89 BT <br>
-Koordinat: 3,5 <br>
-Waktu: 18 May 2025 04:30:52 WIB <br>
+Lokasi: Pusat gempa berada di laut 204 km barat daya Lombok Tengah  III Mataram III Lombok Barat II-III Denpasar II Lombok Timur II Badung II Karangasem <br>
+Magnitude: 10 Km <br>
+Kedalaman: 10,54 LS-116,16 BT <br>
+Koordinat: 5,2 <br>
+Waktu: 18 May 2025 11:53:55 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
