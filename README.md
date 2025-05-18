@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 204 km barat daya Lombok Tengah  III Mataram III Lombok Barat II-III Denpasar II Lombok Timur II Badung II Karangasem <br>
-Magnitude: 10 Km <br>
-Kedalaman: 10,54 LS-116,16 BT <br>
-Koordinat: 5,2 <br>
-Waktu: 18 May 2025 11:53:55 WIB <br>
+Lokasi: Pusat gempa berada di darat 17 km barat laut Kota Bogor  III Leuwiliang <br>
+Magnitude: 18 Km <br>
+Kedalaman: 6,57 LS-106,64 BT <br>
+Koordinat: 2,7 <br>
+Waktu: 18 May 2025 17:29:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
