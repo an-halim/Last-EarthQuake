@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 25 km barat daya Meulaboh  II-III Meulaboh II-III Aceh Barat Daya <br>
-Magnitude: 27 Km <br>
-Kedalaman: 4,05 LU-95,92 BT <br>
-Koordinat: 4,1 <br>
-Waktu: 19 May 2025 09:45:52 WIB <br>
+Lokasi: Pusat gempa berada di laut 45 km barat laut Nias Barat  II-III Gunungsitoli <br>
+Magnitude: 13 Km <br>
+Kedalaman: 1,11 LU-97,07 BT <br>
+Koordinat: 4,6 <br>
+Waktu: 19 May 2025 12:59:30 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
