@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 42 km barat daya Nias Utara  II-III Gunungsitoli II-III Lahomi Nias Barat II-III Nias Utara <br>
-Magnitude: 16 Km <br>
-Kedalaman: 1,15 LU-97,11 BT <br>
-Koordinat: 4,4 <br>
-Waktu: 19 May 2025 15:04:20 WIB <br>
+Lokasi: Pusat gempa berada di darat 12 km Barat Laut Oksibil  II Kab. Oksibil <br>
+Magnitude: 10 Km <br>
+Kedalaman: 4,80 LS-140,60 BT <br>
+Koordinat: 4,8 <br>
+Waktu: 20 May 2025 13:50:52 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
