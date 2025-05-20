@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 12 km Barat Laut Oksibil  II Kab. Oksibil <br>
-Magnitude: 10 Km <br>
-Kedalaman: 4,80 LS-140,60 BT <br>
-Koordinat: 4,8 <br>
-Waktu: 20 May 2025 13:50:52 WIB <br>
+Lokasi: Pusat gempa berada di darat 4 Km Timur Laut Kab. Sumedang  II-III Kec. Cimalaka <br>
+Magnitude: 4 Km <br>
+Kedalaman: 6,83 LS-107,94 BT <br>
+Koordinat: 3,7 <br>
+Waktu: 21 May 2025 03:10:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
