@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 73 km Baratlaut Tambrauw  Kota Sorong II-III <br>
+Lokasi: Pusat gempa berada di laut 43 km Barat Daya Bengkulu  IV-V Kota Bengkulu IV-V Bengkulu IV-V Empat Lawang IV Kepahiang IV Liwa III-IV Lemong III-IV Tais III Muko-Muko IV Rejang Lebong IV Lubuk Linggau <br>
 Magnitude: 10 Km <br>
-Kedalaman: 0,42 LS-131,87 BT <br>
-Koordinat: 4,5 <br>
-Waktu: 21 May 2025 19:27:26 WIB <br>
+Kedalaman: 4,17 LS-102,17 BT <br>
+Koordinat: 6,3 <br>
+Waktu: 23 May 2025 02:52:37 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
