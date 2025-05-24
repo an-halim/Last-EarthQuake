@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1 km barat daya Samaturu Kolaka  III Kolaka <br>
-Magnitude: 5 Km <br>
-Kedalaman: 3,98 LS-121,35 BT <br>
-Koordinat: 3,5 <br>
-Waktu: 24 May 2025 06:52:25 WIB <br>
+Lokasi: Pusat gempa berada di laut 9 km timur laut Banda-MALTENG  Banda II <br>
+Magnitude: 66 Km <br>
+Kedalaman: 4,48 LS-129,97 BT <br>
+Koordinat: 4,0 <br>
+Waktu: 24 May 2025 15:36:40 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
