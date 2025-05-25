@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1 km barat laut Sampara Konawe  II Konawe <br>
+Lokasi: Pusat gempa berada di darat 2 km barat daya Konawe  II-III Konawe <br>
 Magnitude: 5 Km <br>
-Kedalaman: 3,98 LS-122,37 BT <br>
-Koordinat: 2,8 <br>
-Waktu: 24 May 2025 17:51:59 WIB <br>
+Kedalaman: 4,00 LS-122,34 BT <br>
+Koordinat: 2,6 <br>
+Waktu: 25 May 2025 23:08:32 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
