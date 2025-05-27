@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 265 km baratdaya Pacitan  II Nganjuk II Trenggalek II Yogyakarta II Bantul II Pacitan II Blitar II Malang II Sukoharjo II Gunungkidul <br>
-Magnitude: 10 Km <br>
-Kedalaman: 10,41 LS-110,25 BT <br>
-Koordinat: 5,7 <br>
-Waktu: 27 May 2025 07:55:05 WIB <br>
+Lokasi: Pusat gempa berada di laut 76 km baratdaya Bengkulu Utara  III Kota Bengkulu III Bengkulu Utara II-III Lebong II Kepahiang <br>
+Magnitude: 22 Km <br>
+Kedalaman: 3,78 LS-101,60 BT <br>
+Koordinat: 4,7 <br>
+Waktu: 27 May 2025 15:09:39 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
