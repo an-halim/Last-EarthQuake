@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 76 km baratdaya Bengkulu Utara  III Kota Bengkulu III Bengkulu Utara II-III Lebong II Kepahiang <br>
-Magnitude: 22 Km <br>
-Kedalaman: 3,78 LS-101,60 BT <br>
-Koordinat: 4,7 <br>
-Waktu: 27 May 2025 15:09:39 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km tenggara Kambowa, Buton Utara  IV Buton Utara IV Muna IV Buton III Baubau III Buton Selatan <br>
+Magnitude: 6 Km <br>
+Kedalaman: 5,00 LS-122,95 BT <br>
+Koordinat: 4,6 <br>
+Waktu: 27 May 2025 18:27:10 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
