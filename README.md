@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 3 km tenggara Kambowa, Buton Utara  IV Buton Utara IV Muna IV Buton III Baubau III Buton Selatan <br>
-Magnitude: 6 Km <br>
-Kedalaman: 5,00 LS-122,95 BT <br>
-Koordinat: 4,6 <br>
-Waktu: 27 May 2025 18:27:10 WIB <br>
+Lokasi: Pusat gempa berada di darat 35 km Timur Laut Banyuasin  II-III Palembang II-III Musi Banyuasin <br>
+Magnitude: 10 Km <br>
+Kedalaman: 2,35 LS-104,94 BT <br>
+Koordinat: 4,3 <br>
+Waktu: 28 May 2025 08:41:25 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
