@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 7 km baratlaut Bukittinggi  II-III Padang Panjang II-III Payakumbuh II-III Bukittinggi <br>
-Magnitude: 10 Km <br>
-Kedalaman: 0,29 LS-100,30 BT <br>
-Koordinat: 3,3 <br>
-Waktu: 28 May 2025 20:46:09 WIB <br>
+Lokasi: Pusat gempa berada di laut 133 km timurlaut Tuban  II-III Bawean <br>
+Magnitude: 5 Km <br>
+Kedalaman: 5,75 LS-112,40 BT <br>
+Koordinat: 3,9 <br>
+Waktu: 29 May 2025 08:59:23 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
