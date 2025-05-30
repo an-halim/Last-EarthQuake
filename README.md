@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km BaratDaya Moramo Utara, Konawe Selatan  <br>
-Magnitude: 5 Km <br>
-Kedalaman: 4,13 LS-122,60 BT <br>
-Koordinat: 2,6 <br>
-Waktu: 30 May 2025 11:40:21 WIB <br>
+Lokasi: Pusat gempa berada di darat 3 km TimurLaut Kambowa, Buton Utara  III Buton Utara <br>
+Magnitude: 6 Km <br>
+Kedalaman: 5,02 LS-122,94 BT <br>
+Koordinat: 2,9 <br>
+Waktu: 30 May 2025 11:53:45 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
