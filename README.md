@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1 km BaratDaya Moramo-Konawe Selatan  III Konawe Selatan <br>
-Magnitude: 6 Km <br>
-Kedalaman: 4,15 LS-122,61 BT <br>
-Koordinat: 3,1 <br>
-Waktu: 30 May 2025 21:00:26 WIB <br>
+Lokasi: Pusat gempa berada di darat 1 km Timur Laut Wua-Wua, Kota Kendari  II Kendari <br>
+Magnitude: 5 Km <br>
+Kedalaman: 3,99 LS-122,49 BT <br>
+Koordinat: 2,2 <br>
+Waktu: 31 May 2025 11:03:18 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
