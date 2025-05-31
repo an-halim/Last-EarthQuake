@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 2 km Timur Laut Ranomeeto Barat, Konawe Selatan  II-III Konawe II-III Konawe Selatan <br>
-Magnitude: 2 Km <br>
-Kedalaman: 4,00 LS-122,37 BT <br>
-Koordinat: 2,6 <br>
-Waktu: 31 May 2025 20:22:06 WIB <br>
+Lokasi: Pusat gempa berada di darat 28 km baratdaya Palu  III-IV Sigi III-IV Palu <br>
+Magnitude: 36 Km <br>
+Kedalaman: 1,07 LS-119,69 BT <br>
+Koordinat: 4,9 <br>
+Waktu: 01 Jun 2025 01:41:50 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
