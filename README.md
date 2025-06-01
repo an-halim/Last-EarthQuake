@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 28 km baratdaya Palu  III-IV Sigi III-IV Palu <br>
-Magnitude: 36 Km <br>
-Kedalaman: 1,07 LS-119,69 BT <br>
-Koordinat: 4,9 <br>
-Waktu: 01 Jun 2025 01:41:50 WIB <br>
+Lokasi: Pusat gempa berada di laut 21km barat daya Lubuk Basung - Agam  II-III Padang I-II Padang Panjang <br>
+Magnitude: 83 Km <br>
+Kedalaman: 0,47 LS-99,91 BT <br>
+Koordinat: 4,6 <br>
+Waktu: 01 Jun 2025 23:13:14 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
