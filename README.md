@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di darat 1 km baratlaut Besulutu, Konawe  II Konawe <br>
-Magnitude: 5 Km <br>
-Kedalaman: 3,98 LS-122,35 BT <br>
-Koordinat: 2,4 <br>
-Waktu: 02 Jun 2025 18:39:44 WIB <br>
+Lokasi: Pusat gempa berada di darat 2 km baratlaut Sabulakoa, Konawe Selatan  II-III Konawe II-III Kendari <br>
+Magnitude: 3 Km <br>
+Kedalaman: 4,02 LS-122,30 BT <br>
+Koordinat: 2,7 <br>
+Waktu: 03 Jun 2025 02:37:21 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
