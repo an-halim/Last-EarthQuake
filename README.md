@@ -4,11 +4,11 @@ This repo will looking update every 5 minute with Last EarthQuake report from BM
 <br>
 <img src="undefined" width="300"/>
 <br>
-Lokasi: Pusat gempa berada di laut 25 km Barat Daya Bengkulu Selatan  III Bengkulu <br>
-Magnitude: 33 Km <br>
-Kedalaman: 4,61 LS-102,75 BT <br>
-Koordinat: 4,7 <br>
-Waktu: 02 Jun 2025 17:41:52 WIB <br>
+Lokasi: Pusat gempa berada di darat 1 km baratlaut Besulutu, Konawe  II Konawe <br>
+Magnitude: 5 Km <br>
+Kedalaman: 3,98 LS-122,35 BT <br>
+Koordinat: 2,4 <br>
+Waktu: 02 Jun 2025 18:39:44 WIB <br>
 
 <a href="./data/data.json">**JSON Data**</a>
 <br>
